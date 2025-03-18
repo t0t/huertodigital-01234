@@ -1,0 +1,20 @@
+# Carpetas específicas de Quartz que no deben subirse
+quartz/node_modules/
+quartz/.cache/
+# quartz/public/  # Comentado para permitir que se suba a GitHub
+quartz/coverage/
+quartz/.quartz-cache/
+quartz/.vscode/
+
+# Archivos temporales y del sistema
+.DS_Store
+Thumbs.db
+*.log
+
+# Archivos y carpetas de Obsidian
+.obsidian/
+.trash/
+
+# Contenido personal que podría querer excluir
+# private/
+# drafts/
