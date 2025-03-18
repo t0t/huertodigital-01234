@@ -1,0 +1,337 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Visualización de Canvas</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+        h1 {
+            margin-bottom: 20px;
+        }
+        .controls {
+            margin-bottom: 15px;
+            display: flex;
+            gap: 10px;
+            align-items: center;
+        }
+        button {
+            padding: 8px 12px;
+            background-color: #4CAF50;
+            color: white;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+            font-size: 14px;
+        }
+        button:hover {
+            background-color: #45a049;
+        }
+        #canvasContainer {
+            position: relative;
+            width: 1000px;
+            height: 800px;
+            border: 1px solid #ccc;
+            overflow: hidden;
+            margin-bottom: 20px;
+            background-color: #fafafa;
+            cursor: grab;
+        }
+        #canvas {
+            position: absolute;
+            transform-origin: 0 0;
+            will-change: transform;
+        }
+        .node {
+            position: absolute;
+            border: 2px solid #333;
+            border-radius: 6px;
+            padding: 10px;
+            background-color: #f0f0f0;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            font-weight: bold;
+            z-index: 10;
+            user-select: none;
+        }
+        .node[data-color="1"] {
+            background-color: #ffecb3;
+            border-color: #ffa000;
+        }
+        .edge {
+            position: absolute;
+            height: 2px;
+            background-color: #666;
+            transform-origin: left center;
+            z-index: 5;
+        }
+        #debugInfo {
+            border: 1px solid #ddd;
+            padding: 10px;
+            margin-top: 10px;
+            width: 100%;
+            max-width: 1000px;
+            white-space: pre-wrap;
+            font-family: monospace;
+            display: none;
+        }
+        .zoom-label {
+            font-weight: bold;
+            min-width: 80px;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <h1>Visualización del Diagrama Base</h1>
+    
+    <div class="controls">
+        <button id="zoomIn">Zoom +</button>
+        <button id="zoomOut">Zoom -</button>
+        <button id="resetView">Restablecer Vista</button>
+        <span class="zoom-label" id="zoomLevel">Zoom: 100%</span>
+    </div>
+    
+    <div id="canvasContainer">
+        <div id="canvas"></div>
+    </div>
+    
+    <button id="toggleDebug">Mostrar información de depuración</button>
+    <div id="debugInfo"></div>
+    
+    <script>
+        // Variables globales para el zoom y arrastre
+        let currentZoom = 1;
+        let offsetX = 0;
+        let offsetY = 0;
+        let isDragging = false;
+        let startX, startY;
+        const canvas = document.getElementById('canvas');
+        const container = document.getElementById('canvasContainer');
+        const zoomLevelDisplay = document.getElementById('zoomLevel');
+        
+        // Función para actualizar la transformación del canvas
+        function updateTransform() {
+            canvas.style.transform = `translate(${offsetX}px, ${offsetY}px) scale(${currentZoom})`;
+            zoomLevelDisplay.textContent = `Zoom: ${Math.round(currentZoom * 100)}%`;
+        }
+        
+        // Configurar eventos de arrastre
+        container.addEventListener('mousedown', (e) => {
+            if (e.target === container || e.target === canvas) {
+                isDragging = true;
+                container.style.cursor = 'grabbing';
+                startX = e.clientX - offsetX;
+                startY = e.clientY - offsetY;
+                e.preventDefault();
+            }
+        });
+        
+        document.addEventListener('mousemove', (e) => {
+            if (isDragging) {
+                offsetX = e.clientX - startX;
+                offsetY = e.clientY - startY;
+                updateTransform();
+                e.preventDefault();
+            }
+        });
+        
+        document.addEventListener('mouseup', () => {
+            isDragging = false;
+            container.style.cursor = 'grab';
+        });
+        
+        // Configurar eventos de zoom con la rueda del ratón
+        container.addEventListener('wheel', (e) => {
+            e.preventDefault();
+            const delta = e.deltaY > 0 ? -0.1 : 0.1;
+            
+            // Calcular el punto bajo el cursor en coordenadas relativas al canvas
+            const rect = container.getBoundingClientRect();
+            const mouseX = e.clientX - rect.left;
+            const mouseY = e.clientY - rect.top;
+            
+            // Aplicar zoom manteniendo el punto bajo el cursor
+            const scale = currentZoom;
+            currentZoom = Math.max(0.1, Math.min(3, currentZoom + delta));
+            
+            // Ajustar offset para mantener el punto bajo el cursor
+            if (delta !== 0) {
+                offsetX = mouseX - (mouseX - offsetX) * (currentZoom / scale);
+                offsetY = mouseY - (mouseY - offsetY) * (currentZoom / scale);
+            }
+            
+            updateTransform();
+        });
+        
+        // Botones de control
+        document.getElementById('zoomIn').addEventListener('click', () => {
+            currentZoom = Math.min(3, currentZoom + 0.1);
+            updateTransform();
+        });
+        
+        document.getElementById('zoomOut').addEventListener('click', () => {
+            currentZoom = Math.max(0.1, currentZoom - 0.1);
+            updateTransform();
+        });
+        
+        document.getElementById('resetView').addEventListener('click', () => {
+            currentZoom = 1;
+            offsetX = 0;
+            offsetY = 0;
+            updateTransform();
+        });
+        
+        // Función para crear una línea entre dos puntos
+        function createEdge(x1, y1, x2, y2) {
+            const length = Math.sqrt(Math.pow(x2 - x1, 2) + Math.pow(y2 - y1, 2));
+            const angle = Math.atan2(y2 - y1, x2 - x1) * 180 / Math.PI;
+            
+            const edge = document.createElement('div');
+            edge.className = 'edge';
+            edge.style.width = `${length}px`;
+            edge.style.left = `${x1}px`;
+            edge.style.top = `${y1}px`;
+            edge.style.transform = `rotate(${angle}deg)`;
+            
+            return edge;
+        }
+        
+        // Calcular el punto en el borde de un nodo según el lado
+        function getConnectionPoint(node, side) {
+            const rect = {
+                x: parseInt(node.style.left),
+                y: parseInt(node.style.top),
+                width: parseInt(node.style.width),
+                height: parseInt(node.style.height)
+            };
+            
+            let x, y;
+            
+            switch(side) {
+                case 'top':
+                    x = rect.x + rect.width / 2;
+                    y = rect.y;
+                    break;
+                case 'right':
+                    x = rect.x + rect.width;
+                    y = rect.y + rect.height / 2;
+                    break;
+                case 'bottom':
+                    x = rect.x + rect.width / 2;
+                    y = rect.y + rect.height;
+                    break;
+                case 'left':
+                    x = rect.x;
+                    y = rect.y + rect.height / 2;
+                    break;
+                default:
+                    x = rect.x + rect.width / 2;
+                    y = rect.y + rect.height / 2;
+            }
+            
+            return { x, y };
+        }
+        
+        // Cargar y renderizar el canvas
+        fetch('Diagrama Base.canvas')
+            .then(response => {
+                if (!response.ok) {
+                    throw new Error(`Error HTTP: ${response.status}`);
+                }
+                return response.json();
+            })
+            .then(data => {
+                const debugInfo = document.getElementById('debugInfo');
+                
+                // Almacenar referencias a los nodos creados
+                const nodeElements = {};
+                
+                // Calcular el centro del canvas basado en los nodos
+                let minX = Infinity, maxX = -Infinity, minY = Infinity, maxY = -Infinity;
+                data.nodes.forEach(node => {
+                    minX = Math.min(minX, node.x);
+                    maxX = Math.max(maxX, node.x + node.width);
+                    minY = Math.min(minY, node.y);
+                    maxY = Math.max(maxY, node.y + node.height);
+                });
+                
+                const centerX = (minX + maxX) / 2;
+                const centerY = (minY + maxY) / 2;
+                const containerWidth = container.clientWidth;
+                const containerHeight = container.clientHeight;
+                
+                // Renderizar nodos
+                data.nodes.forEach(node => {
+                    const div = document.createElement('div');
+                    div.className = 'node';
+                    div.setAttribute('data-id', node.id);
+                    if (node.color) {
+                        div.setAttribute('data-color', node.color);
+                    }
+                    
+                    // Posicionar relativamente al centro del canvas
+                    div.style.left = `${node.x - centerX + containerWidth / 2}px`;
+                    div.style.top = `${node.y - centerY + containerHeight / 2}px`;
+                    div.style.width = `${node.width}px`;
+                    div.style.height = `${node.height}px`;
+                    div.textContent = node.text || '';
+                    
+                    canvas.appendChild(div);
+                    nodeElements[node.id] = div;
+                });
+                
+                // Renderizar conexiones (edges)
+                data.edges.forEach(edge => {
+                    const fromNode = nodeElements[edge.fromNode];
+                    const toNode = nodeElements[edge.toNode];
+                    
+                    if (fromNode && toNode) {
+                        const fromPoint = getConnectionPoint(fromNode, edge.fromSide);
+                        const toPoint = getConnectionPoint(toNode, edge.toSide);
+                        
+                        const edgeElement = createEdge(fromPoint.x, fromPoint.y, toPoint.x, toPoint.y);
+                        canvas.appendChild(edgeElement);
+                    }
+                });
+                
+                // Inicializar la transformación
+                updateTransform();
+                
+                // Configurar depuración
+                document.getElementById('toggleDebug').addEventListener('click', function() {
+                    if (debugInfo.style.display === 'none' || !debugInfo.style.display) {
+                        debugInfo.style.display = 'block';
+                        debugInfo.textContent = JSON.stringify(data, null, 2);
+                        this.textContent = 'Ocultar información de depuración';
+                    } else {
+                        debugInfo.style.display = 'none';
+                        this.textContent = 'Mostrar información de depuración';
+                    }
+                });
+                
+                // Mostrar información de depuración
+                console.log('Canvas cargado:', data);
+            })
+            .catch(error => {
+                console.error('Error al cargar el archivo .canvas:', error);
+                document.getElementById('canvasContainer').innerHTML = `
+                    <div style="color: red; padding: 20px;">
+                        Error al cargar el archivo .canvas: ${error.message}
+                        <br><br>
+                        Verifica que el archivo "Diagrama Base.canvas" esté disponible en la misma carpeta.
+                    </div>
+                `;
+            });
+    </script>
+</body>
+</html>
