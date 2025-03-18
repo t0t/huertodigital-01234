@@ -1,10 +1,8 @@
-# Carpetas específicas de Quartz que no deben subirse
-quartz/node_modules/
-quartz/.cache/
-# quartz/public/  # Comentado para permitir que se suba a GitHub
-quartz/coverage/
-quartz/.quartz-cache/
-quartz/.vscode/
+# Ignorar toda la carpeta quartz
+quartz/
+
+# NO ignorar la carpeta docs donde se despliega el sitio
+!docs/
 
 # Archivos temporales y del sistema
 .DS_Store
