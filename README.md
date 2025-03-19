@@ -1,8 +1,9 @@
-https://publish.obsidian.md/01234/
 
 # Huerto Digital - Conversión de Notas Obsidian a HTML con Quartz
 
 Este repositorio contiene mis notas de Obsidian y la configuración para convertirlas en un sitio web estático usando Quartz.
+
+https://github.com/t0t/huertodigital-01234
 
 ## Configuración de Quartz
 
