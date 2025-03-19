@@ -2,7 +2,7 @@ Convergencia espaciotemporal donde entidades, personas o ideas entran en relaci�
 
 Características:
 - Establece un espacio compartido de presencia y atención
-- Genera [[vínculo]]s y conexiones previamente inexistentes
+- Genera [[vinculo]]s y conexiones previamente inexistentes
 - Permite el reconocimiento de la alteridad y la diferencia
 - Abre posibilidades no previsibles antes de la interacción
 - Combina elementos de continuidad y discontinuidad experiencial

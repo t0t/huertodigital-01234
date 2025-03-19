@@ -1,0 +1,22 @@
+{
+	"nodes":[
+		{"id":"65f5932e19cf1bf7","type":"group","x":-40,"y":-1626,"width":1440,"height":1480,"label":"Core"},
+		{"id":"ab812a05d20f130d","type":"group","x":-1240,"y":-1561,"width":1020,"height":1351,"color":"3","label":"Que es 01234"},
+		{"id":"a4d4e7d9e810d80d","type":"group","x":1560,"y":-1453,"width":960,"height":567,"color":"4","label":"cabala"},
+		{"id":"8653b60c31d33c70","type":"file","file":"Notas/1.md","x":480,"y":-1097,"width":400,"height":400},
+		{"id":"9d455bf4c02e661b","type":"file","file":"Notas/4.md","x":480,"y":-626,"width":400,"height":400},
+		{"id":"43ffff2eb2bd8744","type":"file","file":"Notas/2.md","x":40,"y":-1097,"width":400,"height":400},
+		{"id":"3a757a26fc3d6d78","type":"file","file":"Notas/01234.md","x":-800,"y":-1535,"width":560,"height":1311},
+		{"id":"3d83919c35cfc1c6","type":"file","file":"Notas/que_es_01234.md","x":-1220,"y":-1535,"width":400,"height":1305},
+		{"id":"a5196cbdce3cf6cd","type":"file","file":"Notas/pkm.md","x":-1220,"y":240,"width":400,"height":400},
+		{"id":"08235e3f301f0fa8","type":"file","file":"Notas/basb.md","x":-800,"y":240,"width":400,"height":400},
+		{"id":"2681cdf073321dfd","type":"file","file":"Notas/llm.md","x":0,"y":240,"width":400,"height":400},
+		{"id":"d646e96f20514bf7","type":"file","file":"Notas/3.md","x":920,"y":-1097,"width":400,"height":400},
+		{"id":"2d5f534615afeb52","type":"file","file":"Notas/0.md","x":480,"y":-1546,"width":400,"height":400},
+		{"id":"1c3f0bd451d2dd8d","type":"file","file":"Notas/tetragramaton.md","x":1630,"y":-1353,"width":400,"height":400},
+		{"id":"c0b1ee334d32a7ce","type":"file","file":"Notas/kli.md","x":2060,"y":-1353,"width":400,"height":400}
+	],
+	"edges":[
+		{"id":"eb9b38dbaabdff9a","fromNode":"65f5932e19cf1bf7","fromSide":"left","toNode":"ab812a05d20f130d","toSide":"right"}
+	]
+}

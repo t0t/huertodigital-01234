@@ -1,3 +1,8 @@
+---
+campo_predominante: 3
+palabras_clave_vinculadas: [""]
+---
+
 # Arte
 
 Expresión de la creatividad humana que transforma lo [[0|potencial]] en manifestaciones estéticas con propósito comunicativo y valor simbólico. [[4|Proceso]] mediante el cual se materializa la visión interior en formas perceptibles que trascienden la funcionalidad inmediata.

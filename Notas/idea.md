@@ -10,8 +10,6 @@ campos_secundarios:
     descripción: "Estructuración inicial del pensamiento"
 aliases: ["ocurrencia", "pensamiento inicial"]
 ---
-# Idea
-
 Una [[1|idea]] es una representación mental que surge del pensamiento, la imaginación o la reflexión. 
 Semilla inicial de la creatividad y la evolución del pensamiento.
 

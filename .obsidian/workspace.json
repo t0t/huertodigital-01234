@@ -4,53 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "05dd899c38fc3a7d",
+        "id": "034979abf85264bf",
         "type": "tabs",
         "children": [
           {
-            "id": "7cac3215ab2da748",
+            "id": "702e48e6723b4054",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notas/mente.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "mente"
-            }
-          },
-          {
-            "id": "d1c28577b23b4de0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notas/sistema.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "sistema"
-            }
-          },
-          {
-            "id": "a4b986e41a35ab78",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notas/01234.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "01234"
+              "title": "Nueva pestaña"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sentir",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -107,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 266.5
   },
   "right": {
     "id": "5ffd270654971ef4",
@@ -196,57 +163,59 @@
       "templates:Insertar plantilla": false,
       "command-palette:Abrir paleta de comandos": false,
       "slides-extended:Show slide preview": false,
-      "publish:Publicar cambios": false
+      "publish:Publicar cambios": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "a4b986e41a35ab78",
+  "active": "702e48e6723b4054",
   "lastOpenFiles": [
+    "Notas/01234.md",
+    "Excalidraw/esquema_global.md",
+    "Excalidraw/esquema_01234_base.md",
+    "Excalidraw/tag_map.md",
+    "assets/tag_map.svg",
+    "Excalidraw/esquema_2.md",
+    "Mapas/Web Sergio Forés.canvas",
+    "Mapas/Huerto Digital - 01234.canvas",
+    "Mapas/mapa-1.canvas",
+    "assets/tag-map.pdf",
+    "assets/Captura de pantalla 2025-03-19 a las 23.01.26.png",
+    "assets/Captura de pantalla 2025-03-19 a las 23.00.14.png",
+    "assets/tag-map",
+    "Notas/sinergia.md",
+    "Notas/pnl.md",
+    "Notas/tetractys.md",
+    "Notas/vinculo.md",
+    "Notas/faceta.md",
+    "Excalidraw/desarrollo_web.md",
+    "Notas/llm.md",
+    "Notas/accion.md",
+    "Notas/percepcion_01234.md",
+    "Notas/basb.md",
+    "Notas/analogia.md",
+    "Notas/0.md",
+    "Notas/1.md",
+    "Notas/mente.md",
+    "assets/mapa-1.png",
+    "Excalidraw/esquema_global.png",
+    "Excalidraw/esquema_global.svg",
+    "assets/esquema_global.png",
+    "assets/esquema_global.svg",
+    "Notas/pardes.md",
+    "Excalidraw",
+    "README.md",
+    "Privado/Finanzas/diagrama_general.md",
+    "Privado/tareas_personales.md",
+    "index.md",
+    "Privado/Finanzas",
+    "Excalidraw/Drawing 2025-03-19 14.02.20.excalidraw.md",
+    "4",
+    "Mapas",
     "quartz/public/vínculo-og-image.webp",
     "quartz/public/vida-og-image.webp",
-    "quartz/public/vibracion-og-image.webp",
-    "quartz/public/universo-og-image.webp",
-    "quartz/public/término-og-image.webp",
-    "quartz/public/tetragramaton-og-image.webp",
-    "quartz/public/tetractys-og-image.webp",
-    "quartz/public/tension-og-image.webp",
-    "quartz/public/síntesis-og-image.webp",
-    "quartz/public/símbolo-og-image.webp",
-    "quartz/public/sujeto-og-image.webp",
     "quartz/public/tags/index.html",
     "quartz/public/tags/interdependencia.html",
     "quartz/public/tags/cohesión.html",
-    "quartz/public/tags/autoorganización.html",
-    "quartz/public/tags/esoterismo.html",
-    "quartz/public/tags/mística.html",
-    "quartz/public/tags/cábala.html",
-    "quartz/public/tags/nombre_divino.html",
-    "quartz/public/tags/geometría.html",
-    "quartz/public/tags/número.html",
-    "quartz/content/index.md",
-    "quartz/content/vínculo.md",
-    "quartz/content/vida.md",
-    "quartz/content/vibracion.md",
-    "quartz/content/universo.md",
-    "quartz/content/tetragramaton.md",
-    "quartz/content/tetractys.md",
-    "quartz/content/término.md",
-    "quartz/content/tension.md",
-    "quartz/content/sujeto.md",
-    "quartz/content/sistema.md",
-    "quartz/content/síntesis.md",
-    "quartz/content/Sinergia.md",
-    "quartz/content/símbolo.md",
-    "quartz/content/significado.md",
-    "quartz/content/sesgo.md",
-    "quartz/content/sentido.md",
-    "quartz/content/resultado.md",
-    "quartz/content/reshimó.md",
-    "quartz/content/repositorio.md",
-    "quartz/content/red_coherente_conocimiento.md",
-    "quartz/content/recurso.md",
-    "quartz/content/razón.md",
-    "quartz/content/que_es_01234.md",
-    "quartz/content/propiedad.md",
-    "Diagrama Base.canvas"
+    "quartz/public/tags/autoorganización.html"
   ]
 }

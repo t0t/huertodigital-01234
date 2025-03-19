@@ -2,5 +2,7 @@
   "promptDelete": false,
   "newFileLocation": "root",
   "newFileFolderPath": "",
-  "attachmentFolderPath": "Archivos"
+  "attachmentFolderPath": "assets",
+  "alwaysUpdateLinks": true,
+  "userIgnoreFilters": null
 }
