@@ -167,8 +167,13 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "702e48e6723b4054",
+  "active": "359f8b25f2991d9f",
   "lastOpenFiles": [
+    "4",
+    "3",
+    "2",
+    "1",
+    "0",
     "Notas/01234.md",
     "Excalidraw/esquema_global.md",
     "Excalidraw/esquema_01234_base.md",
@@ -212,10 +217,6 @@
     "4",
     "Mapas",
     "quartz/public/vínculo-og-image.webp",
-    "quartz/public/vida-og-image.webp",
-    "quartz/public/tags/index.html",
-    "quartz/public/tags/interdependencia.html",
-    "quartz/public/tags/cohesión.html",
-    "quartz/public/tags/autoorganización.html"
+    "quartz/public/vida-og-image.webp"
   ]
 }
