@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0.md",
-                "mode": "source",
-                "source": false
+                "file": "index.md",
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "0"
+              "title": "index"
             }
           }
         ]
@@ -173,19 +173,19 @@
     }
   },
   "floating": {
-    "id": "f63bb8a3989d2e56",
+    "id": "7e32d1001bcf8827",
     "type": "floating",
     "children": [
       {
-        "id": "06572719537e9a70",
+        "id": "9e5b0a2e5ee3b985",
         "type": "window",
         "children": [
           {
-            "id": "ad95f7dc5ada0d29",
+            "id": "6732b785c67b2e9e",
             "type": "tabs",
             "children": [
               {
-                "id": "73d73c13b123baf4",
+                "id": "7b36e4a9432043ba",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
@@ -211,8 +211,21 @@
       }
     ]
   },
-  "active": "73d73c13b123baf4",
+  "active": "7b36e4a9432043ba",
   "lastOpenFiles": [
+    "docs/conectivo.html",
+    "docs/conciencia.html",
+    "docs/concepto.html",
+    "docs/concatenacion.html",
+    "docs/coherencia_esencial.html",
+    "docs/cognicion_extendida.html",
+    "docs/cognicion.html",
+    "docs/codigo.html",
+    "docs/coagulacion_significado.html",
+    "docs/causa_efecto.html",
+    "docs/captura_informacion.html",
+    "docs/assets/tag_map.svg",
+    "docs/assets/mapa-1.png",
     "vida.md",
     "vibracion.md",
     "universo.md",
@@ -238,23 +251,10 @@
     "que_es_01234.md",
     "propiedad.md",
     "proceso.md",
-    "preexistencia.md",
     "assets/tag_map.svg",
     "assets/mapa-1.png",
-    "docs/lib/search-index.json",
-    "docs/lib/metadata.json",
-    "docs/lib/styles/obsidian.css",
-    "docs/lib/styles/main-styles.css",
-    "docs/lib/styles/global-variable-styles.css",
-    "docs/lib/styles",
-    "docs/lib/html/file-tree.html",
-    "docs/lib/html",
     "docs/lib/media/favicon.png",
     "docs/lib/media/6155340132a851f6089e.svg",
-    "docs/lib/media",
-    "docs/lib/fonts/cbe0ae49c52c920fd563.woff2",
-    "docs/assets/tag_map.svg",
-    "docs/assets/mapa-1.png",
     "docs/presentaciones/pase-diapositivas/plugin/chalkboard/img/whiteboard.png",
     "docs/presentaciones/pase-diapositivas/plugin/chalkboard/img/sponge.png",
     "docs/presentaciones/pase-diapositivas/plugin/chalkboard/img/chalk-yellow.png",
