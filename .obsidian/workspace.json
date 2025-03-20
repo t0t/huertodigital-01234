@@ -184,37 +184,76 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "e9b0a982a3aecb87",
+  "floating": {
+    "id": "8c554e79d7db1e4b",
+    "type": "floating",
+    "children": [
+      {
+        "id": "9c3c3a3706cddec1",
+        "type": "window",
+        "children": [
+          {
+            "id": "63656682730ce0fa",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "10a2aa19fc2b8591",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "1.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "1"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 298,
+        "y": 442,
+        "width": 900,
+        "height": 500,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "10a2aa19fc2b8591",
   "lastOpenFiles": [
-    "0.md",
-    "kli.md",
-    "invarianza_estructural.md",
-    "inteligencia.md",
-    "insight.md",
-    "idea.md",
-    "info_sergiofores.md",
-    "luz.md",
-    "logos.md",
-    "literal.md",
-    "interpretacion.md",
-    "campo_semantico.md",
-    "actualizar_encabezados.py",
-    "Templates/nota_template.md",
-    "1.md",
-    "paradoja.md",
-    "Templates",
-    "index.md",
-    "estructura.md",
-    "Mapas/grafico_2025-03-20 19.14.05.md",
-    "tetragramaton.md",
-    "assets/grafico-tetragramaton.svg",
     "01234.md",
-    "peso.md",
-    "invarianza estructural.md",
-    "que_es_01234.md",
-    "sinapsis.md",
-    "darse_cuenta.md",
-    "pardes.md",
+    "2.md",
+    "3.md",
+    "4.md",
+    "accion.md",
+    "ahora.md",
+    "alma.md",
+    "analogia.md",
+    "arje.md",
+    "arte.md",
+    "autocancelacion.md",
+    "basb.md",
+    "campo_semantico.md",
+    "captura_informacion.md",
+    "causa_efecto.md",
+    "coagulacion_significado.md",
+    "codigo.md",
+    "cognicion.md",
+    "cognicion_extendida.md",
+    "coherencia_esencial.md",
+    "concatenacion.md",
+    "concepto.md",
+    "conciencia.md",
+    "conectivo.md",
+    "contemplacion.md",
+    "contexto.md",
+    "actualizar_encabezados.py",
+    "Templates",
+    "assets/grafico-tetragramaton.svg",
     "docs/lib/styles/snippets.css",
     "docs/assets/logo.svg",
     "docs/assets/grafico-pardes.svg",

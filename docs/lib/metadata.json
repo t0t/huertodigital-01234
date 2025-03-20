@@ -1,135 +1,136 @@
 {
   "vaultName": "huertodigital-01234",
-  "lastExport": 1742504395669,
+  "lastExport": 1742510803538,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon",
   "useCustomHeadContent": false,
   "useCustomFavicon": false,
   "files": [
     "assets/grafico-pardes.svg",
+    "assets/grafico-tetragramaton.svg",
     "assets/logo.svg",
     "assets/mapa-1.png",
     "assets/tag_map.svg",
-    "0.md",
-    "1.md",
-    "2.md",
-    "3.md",
-    "4.md",
-    "01234.md",
-    "accion.md",
-    "ahora.md",
-    "alma.md",
-    "analogia.md",
-    "arje.md",
-    "arte.md",
-    "autocancelacion.md",
-    "basb.md",
     "index.md",
-    "campo_semantico.md",
-    "captura_informacion.md",
-    "causa_efecto.md",
-    "coagulacion_significado.md",
-    "codigo.md",
-    "cognicion.md",
-    "cognicion_extendida.md",
-    "coherencia_esencial.md",
-    "concatenacion.md",
-    "concepto.md",
-    "conciencia.md",
-    "conectivo.md",
-    "contemplacion.md",
-    "contexto.md",
-    "convergencia.md",
-    "cosa.md",
-    "creacion.md",
-    "cuaternario.md",
-    "cuerpo.md",
-    "darse_cuenta.md",
-    "despliegue.md",
-    "dialogo.md",
-    "discernimiento.md",
-    "dominio.md",
-    "dualidad_onda-particula.md",
-    "efecto_aladino.md",
-    "elemento.md",
-    "encuentro.md",
-    "espiritu.md",
-    "estructura.md",
-    "evidencia.md",
-    "existencia.md",
-    "explica.md",
-    "faceta.md",
-    "faceta_como_percepcion.md",
-    "fin.md",
-    "fonema.md",
-    "frecuencia.md",
-    "gradiente.md",
-    "hermeneutica.md",
-    "idea.md",
-    "impresion_mental.md",
-    "info_proyecto.md",
-    "info_sergiofores.md",
-    "informacion.md",
+    "0.md",
     "insight.md",
     "inteligencia.md",
-    "interpretacion.md",
     "invarianza_estructural.md",
     "kli.md",
-    "latencia.md",
-    "literal.md",
-    "llm.md",
-    "logos.md",
-    "lugaritmo.md",
-    "luz.md",
-    "mapa.md",
-    "matriz.md",
-    "mejora_continua.md",
-    "mente.md",
-    "meta.md",
-    "mistica.md",
-    "modelo.md",
-    "nodo_neurona.md",
-    "objeto.md",
-    "observacion.md",
-    "olam.md",
-    "onda.md",
-    "palabra.md",
     "paradoja.md",
-    "pardes.md",
-    "particula.md",
-    "percepcion.md",
-    "percepcion_01234.md",
     "peso.md",
-    "pkm.md",
-    "pnl.md",
-    "poesia.md",
-    "preexistencia.md",
-    "proceso.md",
-    "propiedad.md",
     "que_es_01234.md",
-    "razon.md",
     "README.md",
-    "recurso.md",
-    "red_coherente_conocimiento.md",
-    "repositorio.md",
-    "reshimo.md",
-    "resultado.md",
-    "sentido.md",
-    "sesgo.md",
-    "significado.md",
-    "simbolo.md",
-    "sinergia.md",
-    "sintesis.md",
-    "sistema.md",
-    "sujeto.md",
-    "tension.md",
-    "termino.md",
-    "tetractys.md",
-    "tetragramaton.md",
-    "universo.md",
-    "vibracion.md",
-    "vida.md",
     "vinculo.md",
+    "vida.md",
+    "vibracion.md",
+    "universo.md",
+    "tetragramaton.md",
+    "tetractys.md",
+    "termino.md",
+    "tension.md",
+    "sujeto.md",
+    "sistema.md",
+    "sintesis.md",
+    "sinergia.md",
+    "simbolo.md",
+    "significado.md",
+    "sesgo.md",
+    "sentido.md",
+    "resultado.md",
+    "reshimo.md",
+    "repositorio.md",
+    "red_coherente_conocimiento.md",
+    "recurso.md",
+    "razon.md",
+    "propiedad.md",
+    "proceso.md",
+    "preexistencia.md",
+    "poesia.md",
+    "pnl.md",
+    "pkm.md",
+    "percepcion_01234.md",
+    "percepcion.md",
+    "particula.md",
+    "pardes.md",
+    "palabra.md",
+    "onda.md",
+    "olam.md",
+    "observacion.md",
+    "objeto.md",
+    "nodo_neurona.md",
+    "modelo.md",
+    "mistica.md",
+    "meta.md",
+    "mente.md",
+    "mejora_continua.md",
+    "matriz.md",
+    "mapa.md",
+    "luz.md",
+    "lugaritmo.md",
+    "logos.md",
+    "llm.md",
+    "literal.md",
+    "latencia.md",
+    "interpretacion.md",
+    "informacion.md",
+    "info_sergiofores.md",
+    "info_proyecto.md",
+    "impresion_mental.md",
+    "idea.md",
+    "hermeneutica.md",
+    "gradiente.md",
+    "frecuencia.md",
+    "fonema.md",
+    "fin.md",
+    "faceta_como_percepcion.md",
+    "faceta.md",
+    "explica.md",
+    "existencia.md",
+    "evidencia.md",
+    "estructura.md",
+    "espiritu.md",
+    "encuentro.md",
+    "elemento.md",
+    "efecto_aladino.md",
+    "dualidad_onda-particula.md",
+    "dominio.md",
+    "discernimiento.md",
+    "dialogo.md",
+    "despliegue.md",
+    "darse_cuenta.md",
+    "cuerpo.md",
+    "cuaternario.md",
+    "creacion.md",
+    "cosa.md",
+    "convergencia.md",
+    "contexto.md",
+    "contemplacion.md",
+    "conectivo.md",
+    "conciencia.md",
+    "concepto.md",
+    "concatenacion.md",
+    "coherencia_esencial.md",
+    "cognicion_extendida.md",
+    "cognicion.md",
+    "codigo.md",
+    "coagulacion_significado.md",
+    "causa_efecto.md",
+    "captura_informacion.md",
+    "campo_semantico.md",
+    "basb.md",
+    "autocancelacion.md",
+    "arte.md",
+    "arje.md",
+    "analogia.md",
+    "alma.md",
+    "ahora.md",
+    "accion.md",
+    "4.md",
+    "3.md",
+    "2.md",
+    "01234.md",
+    "1.md",
     "lib/scripts/graph-wasm.wasm",
     "lib/fonts/94f2f163d4b698242fef.otf",
     "lib/fonts/72505e6a122c6acd5471.woff2",
@@ -192,928 +193,937 @@
     "lib/styles/snippets.css"
   ],
   "fileInfo": {
+    "assets/grafico-pardes.svg": {
+      "modifiedTime": 1742510803538,
+      "sourceSize": 15941,
+      "exportedPath": "assets/grafico-pardes.svg",
+      "dependencies": []
+    },
+    "assets/grafico-tetragramaton.svg": {
+      "modifiedTime": 1742510803538,
+      "sourceSize": 35216,
+      "exportedPath": "assets/grafico-tetragramaton.svg",
+      "dependencies": []
+    },
+    "assets/logo.svg": {
+      "modifiedTime": 1742510803538,
+      "sourceSize": 33563,
+      "exportedPath": "assets/logo.svg",
+      "dependencies": []
+    },
     "assets/mapa-1.png": {
-      "modifiedTime": 1742504395669,
+      "modifiedTime": 1742510803538,
       "sourceSize": 286510,
       "exportedPath": "assets/mapa-1.png",
       "dependencies": []
     },
     "assets/tag_map.svg": {
-      "modifiedTime": 1742504395669,
+      "modifiedTime": 1742510803538,
       "sourceSize": 260368,
       "exportedPath": "assets/tag_map.svg",
       "dependencies": []
     },
-    "0.md": {
-      "modifiedTime": 1742504395669,
-      "sourceSize": 1904,
-      "exportedPath": "0.html",
-      "dependencies": []
-    },
-    "1.md": {
-      "modifiedTime": 1742504395669,
-      "sourceSize": 1160,
-      "exportedPath": "1.html",
-      "dependencies": []
-    },
-    "2.md": {
-      "modifiedTime": 1742504395669,
-      "sourceSize": 924,
-      "exportedPath": "2.html",
-      "dependencies": []
-    },
-    "3.md": {
-      "modifiedTime": 1742504395669,
-      "sourceSize": 951,
-      "exportedPath": "3.html",
-      "dependencies": []
-    },
-    "4.md": {
-      "modifiedTime": 1742504395669,
-      "sourceSize": 1196,
-      "exportedPath": "4.html",
-      "dependencies": []
-    },
-    "01234.md": {
-      "modifiedTime": 1742504395669,
-      "sourceSize": 6222,
-      "exportedPath": "01234.html",
-      "dependencies": [
-        "assets/tag_map.svg"
-      ]
-    },
-    "accion.md": {
-      "modifiedTime": 1742504395669,
-      "sourceSize": 1961,
-      "exportedPath": "accion.html",
-      "dependencies": []
-    },
-    "ahora.md": {
-      "modifiedTime": 1742504395669,
-      "sourceSize": 1235,
-      "exportedPath": "ahora.html",
-      "dependencies": []
-    },
-    "alma.md": {
-      "modifiedTime": 1742504395669,
-      "sourceSize": 1818,
-      "exportedPath": "alma.html",
-      "dependencies": []
-    },
-    "analogia.md": {
-      "modifiedTime": 1742504395669,
-      "sourceSize": 922,
-      "exportedPath": "analogia.html",
-      "dependencies": []
-    },
-    "arje.md": {
-      "modifiedTime": 1742504395669,
-      "sourceSize": 1126,
-      "exportedPath": "arje.html",
-      "dependencies": []
-    },
-    "arte.md": {
-      "modifiedTime": 1742504395669,
-      "sourceSize": 1593,
-      "exportedPath": "arte.html",
-      "dependencies": []
-    },
-    "autocancelacion.md": {
-      "modifiedTime": 1742504395669,
-      "sourceSize": 1541,
-      "exportedPath": "autocancelacion.html",
-      "dependencies": []
-    },
-    "basb.md": {
-      "modifiedTime": 1742504395669,
-      "sourceSize": 1903,
-      "exportedPath": "basb.html",
-      "dependencies": []
-    },
     "index.md": {
-      "modifiedTime": 1742504395669,
-      "sourceSize": 259,
+      "modifiedTime": 1742510803538,
+      "sourceSize": 399,
       "exportedPath": "index.html",
       "dependencies": [
         "assets/logo.svg",
         "assets/grafico-pardes.svg"
       ]
     },
-    "campo_semantico.md": {
-      "modifiedTime": 1742504395669,
-      "sourceSize": 918,
-      "exportedPath": "campo_semantico.html",
-      "dependencies": []
-    },
-    "captura_informacion.md": {
-      "modifiedTime": 1742504395669,
-      "sourceSize": 2714,
-      "exportedPath": "captura_informacion.html",
-      "dependencies": []
-    },
-    "causa_efecto.md": {
-      "modifiedTime": 1742504395669,
-      "sourceSize": 1458,
-      "exportedPath": "causa_efecto.html",
-      "dependencies": []
-    },
-    "coagulacion_significado.md": {
-      "modifiedTime": 1742504395669,
-      "sourceSize": 624,
-      "exportedPath": "coagulacion_significado.html",
-      "dependencies": []
-    },
-    "codigo.md": {
-      "modifiedTime": 1742504395669,
-      "sourceSize": 1427,
-      "exportedPath": "codigo.html",
-      "dependencies": []
-    },
-    "cognicion.md": {
-      "modifiedTime": 1742504395669,
-      "sourceSize": 982,
-      "exportedPath": "cognicion.html",
-      "dependencies": []
-    },
-    "cognicion_extendida.md": {
-      "modifiedTime": 1742504395669,
-      "sourceSize": 2865,
-      "exportedPath": "cognicion_extendida.html",
-      "dependencies": []
-    },
-    "coherencia_esencial.md": {
-      "modifiedTime": 1742504395669,
-      "sourceSize": 1046,
-      "exportedPath": "coherencia_esencial.html",
-      "dependencies": []
-    },
-    "concatenacion.md": {
-      "modifiedTime": 1742504395669,
-      "sourceSize": 2147,
-      "exportedPath": "concatenacion.html",
-      "dependencies": []
-    },
-    "concepto.md": {
-      "modifiedTime": 1742504395669,
-      "sourceSize": 921,
-      "exportedPath": "concepto.html",
-      "dependencies": []
-    },
-    "conciencia.md": {
-      "modifiedTime": 1742504395669,
-      "sourceSize": 2041,
-      "exportedPath": "conciencia.html",
-      "dependencies": []
-    },
-    "conectivo.md": {
-      "modifiedTime": 1742504395669,
-      "sourceSize": 0,
-      "exportedPath": "conectivo.html",
-      "dependencies": []
-    },
-    "contemplacion.md": {
-      "modifiedTime": 1742504395669,
-      "sourceSize": 1494,
-      "exportedPath": "contemplacion.html",
-      "dependencies": []
-    },
-    "contexto.md": {
-      "modifiedTime": 1742504395669,
-      "sourceSize": 1448,
-      "exportedPath": "contexto.html",
-      "dependencies": []
-    },
-    "convergencia.md": {
-      "modifiedTime": 1742504395669,
-      "sourceSize": 12,
-      "exportedPath": "convergencia.html",
-      "dependencies": []
-    },
-    "cosa.md": {
-      "modifiedTime": 1742504395669,
-      "sourceSize": 990,
-      "exportedPath": "cosa.html",
-      "dependencies": []
-    },
-    "creacion.md": {
-      "modifiedTime": 1742504395669,
-      "sourceSize": 1605,
-      "exportedPath": "creacion.html",
-      "dependencies": []
-    },
-    "cuaternario.md": {
-      "modifiedTime": 1742504395669,
-      "sourceSize": 3962,
-      "exportedPath": "cuaternario.html",
-      "dependencies": []
-    },
-    "cuerpo.md": {
-      "modifiedTime": 1742504395669,
-      "sourceSize": 1330,
-      "exportedPath": "cuerpo.html",
-      "dependencies": []
-    },
-    "darse_cuenta.md": {
-      "modifiedTime": 1742504395669,
-      "sourceSize": 587,
-      "exportedPath": "darse_cuenta.html",
-      "dependencies": []
-    },
-    "despliegue.md": {
-      "modifiedTime": 1742504395669,
-      "sourceSize": 71,
-      "exportedPath": "despliegue.html",
-      "dependencies": []
-    },
-    "dialogo.md": {
-      "modifiedTime": 1742504395669,
-      "sourceSize": 997,
-      "exportedPath": "dialogo.html",
-      "dependencies": []
-    },
-    "discernimiento.md": {
-      "modifiedTime": 1742504395669,
-      "sourceSize": 1421,
-      "exportedPath": "discernimiento.html",
-      "dependencies": []
-    },
-    "dominio.md": {
-      "modifiedTime": 1742504395669,
-      "sourceSize": 926,
-      "exportedPath": "dominio.html",
-      "dependencies": []
-    },
-    "dualidad_onda-particula.md": {
-      "modifiedTime": 1742504395669,
-      "sourceSize": 366,
-      "exportedPath": "dualidad_onda-particula.html",
-      "dependencies": []
-    },
-    "efecto_aladino.md": {
-      "modifiedTime": 1742504395669,
-      "sourceSize": 1489,
-      "exportedPath": "efecto_aladino.html",
-      "dependencies": []
-    },
-    "elemento.md": {
-      "modifiedTime": 1742504395669,
-      "sourceSize": 1447,
-      "exportedPath": "elemento.html",
-      "dependencies": []
-    },
-    "encuentro.md": {
-      "modifiedTime": 1742504395669,
-      "sourceSize": 1004,
-      "exportedPath": "encuentro.html",
-      "dependencies": []
-    },
-    "espiritu.md": {
-      "modifiedTime": 1742504395669,
-      "sourceSize": 1918,
-      "exportedPath": "espiritu.html",
-      "dependencies": []
-    },
-    "estructura.md": {
-      "modifiedTime": 1742504395669,
-      "sourceSize": 1068,
-      "exportedPath": "estructura.html",
-      "dependencies": []
-    },
-    "evidencia.md": {
-      "modifiedTime": 1742504395669,
-      "sourceSize": 1111,
-      "exportedPath": "evidencia.html",
-      "dependencies": []
-    },
-    "existencia.md": {
-      "modifiedTime": 1742504395669,
-      "sourceSize": 1137,
-      "exportedPath": "existencia.html",
-      "dependencies": []
-    },
-    "explica.md": {
-      "modifiedTime": 1742504395669,
-      "sourceSize": 1467,
-      "exportedPath": "explica.html",
-      "dependencies": []
-    },
-    "faceta.md": {
-      "modifiedTime": 1742504395669,
-      "sourceSize": 989,
-      "exportedPath": "faceta.html",
-      "dependencies": []
-    },
-    "faceta_como_percepcion.md": {
-      "modifiedTime": 1742504395669,
-      "sourceSize": 220,
-      "exportedPath": "faceta_como_percepcion.html",
-      "dependencies": []
-    },
-    "fin.md": {
-      "modifiedTime": 1742504395669,
-      "sourceSize": 988,
-      "exportedPath": "fin.html",
-      "dependencies": []
-    },
-    "fonema.md": {
-      "modifiedTime": 1742504395669,
-      "sourceSize": 436,
-      "exportedPath": "fonema.html",
-      "dependencies": []
-    },
-    "frecuencia.md": {
-      "modifiedTime": 1742504395669,
-      "sourceSize": 195,
-      "exportedPath": "frecuencia.html",
-      "dependencies": []
-    },
-    "gradiente.md": {
-      "modifiedTime": 1742504395669,
-      "sourceSize": 1059,
-      "exportedPath": "gradiente.html",
-      "dependencies": []
-    },
-    "hermeneutica.md": {
-      "modifiedTime": 1742504395669,
-      "sourceSize": 2839,
-      "exportedPath": "hermeneutica.html",
-      "dependencies": []
-    },
-    "idea.md": {
-      "modifiedTime": 1742504395669,
-      "sourceSize": 777,
-      "exportedPath": "idea.html",
-      "dependencies": []
-    },
-    "impresion_mental.md": {
-      "modifiedTime": 1742504395669,
-      "sourceSize": 460,
-      "exportedPath": "impresion_mental.html",
-      "dependencies": []
-    },
-    "info_proyecto.md": {
-      "modifiedTime": 1742504395669,
-      "sourceSize": 984,
-      "exportedPath": "info_proyecto.html",
-      "dependencies": []
-    },
-    "info_sergiofores.md": {
-      "modifiedTime": 1742504395669,
-      "sourceSize": 740,
-      "exportedPath": "info_sergiofores.html",
-      "dependencies": []
-    },
-    "informacion.md": {
-      "modifiedTime": 1742504395669,
-      "sourceSize": 1443,
-      "exportedPath": "informacion.html",
+    "0.md": {
+      "modifiedTime": 1742510803538,
+      "sourceSize": 2017,
+      "exportedPath": "0.html",
       "dependencies": []
     },
     "insight.md": {
-      "modifiedTime": 1742504395669,
-      "sourceSize": 1331,
+      "modifiedTime": 1742510803538,
+      "sourceSize": 1496,
       "exportedPath": "insight.html",
       "dependencies": []
     },
     "inteligencia.md": {
-      "modifiedTime": 1742504395669,
-      "sourceSize": 690,
+      "modifiedTime": 1742510803538,
+      "sourceSize": 860,
       "exportedPath": "inteligencia.html",
       "dependencies": []
     },
-    "interpretacion.md": {
-      "modifiedTime": 1742504395669,
-      "sourceSize": 1546,
-      "exportedPath": "interpretacion.html",
-      "dependencies": []
-    },
     "invarianza_estructural.md": {
-      "modifiedTime": 1742504395669,
-      "sourceSize": 1050,
+      "modifiedTime": 1742510803538,
+      "sourceSize": 1230,
       "exportedPath": "invarianza_estructural.html",
       "dependencies": []
     },
     "kli.md": {
-      "modifiedTime": 1742504395669,
-      "sourceSize": 2029,
+      "modifiedTime": 1742510803538,
+      "sourceSize": 2126,
       "exportedPath": "kli.html",
       "dependencies": []
     },
-    "latencia.md": {
-      "modifiedTime": 1742504395669,
-      "sourceSize": 1549,
-      "exportedPath": "latencia.html",
-      "dependencies": []
-    },
-    "literal.md": {
-      "modifiedTime": 1742504395669,
-      "sourceSize": 1182,
-      "exportedPath": "literal.html",
-      "dependencies": []
-    },
-    "llm.md": {
-      "modifiedTime": 1742504395669,
-      "sourceSize": 1176,
-      "exportedPath": "llm.html",
-      "dependencies": []
-    },
-    "logos.md": {
-      "modifiedTime": 1742504395669,
-      "sourceSize": 1511,
-      "exportedPath": "logos.html",
-      "dependencies": []
-    },
-    "lugaritmo.md": {
-      "modifiedTime": 1742504395669,
-      "sourceSize": 1022,
-      "exportedPath": "lugaritmo.html",
-      "dependencies": []
-    },
-    "luz.md": {
-      "modifiedTime": 1742504395669,
-      "sourceSize": 1495,
-      "exportedPath": "luz.html",
-      "dependencies": []
-    },
-    "mapa.md": {
-      "modifiedTime": 1742504395669,
-      "sourceSize": 1026,
-      "exportedPath": "mapa.html",
-      "dependencies": []
-    },
-    "matriz.md": {
-      "modifiedTime": 1742504395669,
-      "sourceSize": 1452,
-      "exportedPath": "matriz.html",
-      "dependencies": []
-    },
-    "mejora_continua.md": {
-      "modifiedTime": 1742504395669,
-      "sourceSize": 1174,
-      "exportedPath": "mejora_continua.html",
-      "dependencies": []
-    },
-    "mente.md": {
-      "modifiedTime": 1742504395669,
-      "sourceSize": 1143,
-      "exportedPath": "mente.html",
-      "dependencies": []
-    },
-    "meta.md": {
-      "modifiedTime": 1742504395669,
-      "sourceSize": 662,
-      "exportedPath": "meta.html",
-      "dependencies": []
-    },
-    "mistica.md": {
-      "modifiedTime": 1742504395669,
-      "sourceSize": 1279,
-      "exportedPath": "mistica.html",
-      "dependencies": []
-    },
-    "modelo.md": {
-      "modifiedTime": 1742504395669,
-      "sourceSize": 1571,
-      "exportedPath": "modelo.html",
-      "dependencies": []
-    },
-    "nodo_neurona.md": {
-      "modifiedTime": 1742504395669,
-      "sourceSize": 715,
-      "exportedPath": "nodo_neurona.html",
-      "dependencies": []
-    },
-    "objeto.md": {
-      "modifiedTime": 1742504395669,
-      "sourceSize": 1472,
-      "exportedPath": "objeto.html",
-      "dependencies": []
-    },
-    "observacion.md": {
-      "modifiedTime": 1742504395669,
-      "sourceSize": 1618,
-      "exportedPath": "observacion.html",
-      "dependencies": []
-    },
-    "olam.md": {
-      "modifiedTime": 1742504395669,
-      "sourceSize": 1769,
-      "exportedPath": "olam.html",
-      "dependencies": []
-    },
-    "onda.md": {
-      "modifiedTime": 1742504395669,
-      "sourceSize": 923,
-      "exportedPath": "onda.html",
-      "dependencies": []
-    },
-    "palabra.md": {
-      "modifiedTime": 1742504395669,
-      "sourceSize": 419,
-      "exportedPath": "palabra.html",
-      "dependencies": []
-    },
     "paradoja.md": {
-      "modifiedTime": 1742504395669,
-      "sourceSize": 1500,
+      "modifiedTime": 1742510803538,
+      "sourceSize": 1666,
       "exportedPath": "paradoja.html",
       "dependencies": []
     },
+    "peso.md": {
+      "modifiedTime": 1742510803538,
+      "sourceSize": 1439,
+      "exportedPath": "peso.html",
+      "dependencies": []
+    },
+    "que_es_01234.md": {
+      "modifiedTime": 1742510803538,
+      "sourceSize": 3246,
+      "exportedPath": "que_es_01234.html",
+      "dependencies": []
+    },
+    "README.md": {
+      "modifiedTime": 1742510803538,
+      "sourceSize": 604,
+      "exportedPath": "readme.html",
+      "dependencies": []
+    },
+    "vinculo.md": {
+      "modifiedTime": 1742510803538,
+      "sourceSize": 2738,
+      "exportedPath": "vinculo.html",
+      "dependencies": []
+    },
+    "vida.md": {
+      "modifiedTime": 1742510803538,
+      "sourceSize": 1407,
+      "exportedPath": "vida.html",
+      "dependencies": []
+    },
+    "vibracion.md": {
+      "modifiedTime": 1742510803538,
+      "sourceSize": 416,
+      "exportedPath": "vibracion.html",
+      "dependencies": []
+    },
+    "universo.md": {
+      "modifiedTime": 1742510803538,
+      "sourceSize": 1346,
+      "exportedPath": "universo.html",
+      "dependencies": []
+    },
+    "tetragramaton.md": {
+      "modifiedTime": 1742510803538,
+      "sourceSize": 1982,
+      "exportedPath": "tetragramaton.html",
+      "dependencies": [
+        "assets/grafico-tetragramaton.svg"
+      ]
+    },
+    "tetractys.md": {
+      "modifiedTime": 1742510803538,
+      "sourceSize": 2454,
+      "exportedPath": "tetractys.html",
+      "dependencies": []
+    },
+    "termino.md": {
+      "modifiedTime": 1742510803538,
+      "sourceSize": 1162,
+      "exportedPath": "termino.html",
+      "dependencies": []
+    },
+    "tension.md": {
+      "modifiedTime": 1742510803538,
+      "sourceSize": 1234,
+      "exportedPath": "tension.html",
+      "dependencies": []
+    },
+    "sujeto.md": {
+      "modifiedTime": 1742510803538,
+      "sourceSize": 1599,
+      "exportedPath": "sujeto.html",
+      "dependencies": []
+    },
+    "sistema.md": {
+      "modifiedTime": 1742510803538,
+      "sourceSize": 844,
+      "exportedPath": "sistema.html",
+      "dependencies": []
+    },
+    "sintesis.md": {
+      "modifiedTime": 1742510803538,
+      "sourceSize": 1307,
+      "exportedPath": "sintesis.html",
+      "dependencies": []
+    },
+    "sinergia.md": {
+      "modifiedTime": 1742510803538,
+      "sourceSize": 390,
+      "exportedPath": "sinergia.html",
+      "dependencies": []
+    },
+    "simbolo.md": {
+      "modifiedTime": 1742510803538,
+      "sourceSize": 1502,
+      "exportedPath": "simbolo.html",
+      "dependencies": []
+    },
+    "significado.md": {
+      "modifiedTime": 1742510803538,
+      "sourceSize": 1814,
+      "exportedPath": "significado.html",
+      "dependencies": []
+    },
+    "sesgo.md": {
+      "modifiedTime": 1742510803538,
+      "sourceSize": 2473,
+      "exportedPath": "sesgo.html",
+      "dependencies": []
+    },
+    "sentido.md": {
+      "modifiedTime": 1742510803538,
+      "sourceSize": 1903,
+      "exportedPath": "sentido.html",
+      "dependencies": []
+    },
+    "resultado.md": {
+      "modifiedTime": 1742510803538,
+      "sourceSize": 626,
+      "exportedPath": "resultado.html",
+      "dependencies": []
+    },
+    "reshimo.md": {
+      "modifiedTime": 1742510803538,
+      "sourceSize": 1384,
+      "exportedPath": "reshimo.html",
+      "dependencies": []
+    },
+    "repositorio.md": {
+      "modifiedTime": 1742510803538,
+      "sourceSize": 1561,
+      "exportedPath": "repositorio.html",
+      "dependencies": []
+    },
+    "red_coherente_conocimiento.md": {
+      "modifiedTime": 1742510803538,
+      "sourceSize": 1186,
+      "exportedPath": "red_coherente_conocimiento.html",
+      "dependencies": []
+    },
+    "recurso.md": {
+      "modifiedTime": 1742510803538,
+      "sourceSize": 1253,
+      "exportedPath": "recurso.html",
+      "dependencies": []
+    },
+    "razon.md": {
+      "modifiedTime": 1742510803538,
+      "sourceSize": 1313,
+      "exportedPath": "razon.html",
+      "dependencies": []
+    },
+    "propiedad.md": {
+      "modifiedTime": 1742510803538,
+      "sourceSize": 352,
+      "exportedPath": "propiedad.html",
+      "dependencies": []
+    },
+    "proceso.md": {
+      "modifiedTime": 1742510803538,
+      "sourceSize": 1541,
+      "exportedPath": "proceso.html",
+      "dependencies": []
+    },
+    "preexistencia.md": {
+      "modifiedTime": 1742510803538,
+      "sourceSize": 1158,
+      "exportedPath": "preexistencia.html",
+      "dependencies": []
+    },
+    "poesia.md": {
+      "modifiedTime": 1742510803538,
+      "sourceSize": 1572,
+      "exportedPath": "poesia.html",
+      "dependencies": []
+    },
+    "pnl.md": {
+      "modifiedTime": 1742510803538,
+      "sourceSize": 745,
+      "exportedPath": "pnl.html",
+      "dependencies": []
+    },
+    "pkm.md": {
+      "modifiedTime": 1742510803538,
+      "sourceSize": 3068,
+      "exportedPath": "pkm.html",
+      "dependencies": []
+    },
+    "percepcion_01234.md": {
+      "modifiedTime": 1742510803538,
+      "sourceSize": 1131,
+      "exportedPath": "percepcion_01234.html",
+      "dependencies": []
+    },
+    "percepcion.md": {
+      "modifiedTime": 1742510803538,
+      "sourceSize": 1098,
+      "exportedPath": "percepcion.html",
+      "dependencies": []
+    },
+    "particula.md": {
+      "modifiedTime": 1742510803538,
+      "sourceSize": 1253,
+      "exportedPath": "particula.html",
+      "dependencies": []
+    },
     "pardes.md": {
-      "modifiedTime": 1742504395669,
-      "sourceSize": 665,
+      "modifiedTime": 1742510803538,
+      "sourceSize": 843,
       "exportedPath": "pardes.html",
       "dependencies": [
         "assets/grafico-pardes.svg"
       ]
     },
-    "particula.md": {
-      "modifiedTime": 1742504395669,
-      "sourceSize": 1075,
-      "exportedPath": "particula.html",
+    "palabra.md": {
+      "modifiedTime": 1742510803538,
+      "sourceSize": 597,
+      "exportedPath": "palabra.html",
       "dependencies": []
     },
-    "percepcion.md": {
-      "modifiedTime": 1742504395669,
-      "sourceSize": 987,
-      "exportedPath": "percepcion.html",
+    "onda.md": {
+      "modifiedTime": 1742510803538,
+      "sourceSize": 1101,
+      "exportedPath": "onda.html",
       "dependencies": []
     },
-    "percepcion_01234.md": {
-      "modifiedTime": 1742504395669,
-      "sourceSize": 1020,
-      "exportedPath": "percepcion_01234.html",
+    "olam.md": {
+      "modifiedTime": 1742510803538,
+      "sourceSize": 1947,
+      "exportedPath": "olam.html",
       "dependencies": []
     },
-    "peso.md": {
-      "modifiedTime": 1742504395669,
-      "sourceSize": 1157,
-      "exportedPath": "peso.html",
+    "observacion.md": {
+      "modifiedTime": 1742510803538,
+      "sourceSize": 1749,
+      "exportedPath": "observacion.html",
       "dependencies": []
     },
-    "pkm.md": {
-      "modifiedTime": 1742504395669,
-      "sourceSize": 2937,
-      "exportedPath": "pkm.html",
+    "objeto.md": {
+      "modifiedTime": 1742510803538,
+      "sourceSize": 1583,
+      "exportedPath": "objeto.html",
       "dependencies": []
     },
-    "pnl.md": {
-      "modifiedTime": 1742504395669,
+    "nodo_neurona.md": {
+      "modifiedTime": 1742510803538,
+      "sourceSize": 846,
+      "exportedPath": "nodo_neurona.html",
+      "dependencies": []
+    },
+    "modelo.md": {
+      "modifiedTime": 1742510803538,
+      "sourceSize": 1702,
+      "exportedPath": "modelo.html",
+      "dependencies": []
+    },
+    "mistica.md": {
+      "modifiedTime": 1742510803538,
+      "sourceSize": 1390,
+      "exportedPath": "mistica.html",
+      "dependencies": []
+    },
+    "meta.md": {
+      "modifiedTime": 1742510803538,
+      "sourceSize": 793,
+      "exportedPath": "meta.html",
+      "dependencies": []
+    },
+    "mente.md": {
+      "modifiedTime": 1742510803538,
+      "sourceSize": 1254,
+      "exportedPath": "mente.html",
+      "dependencies": []
+    },
+    "mejora_continua.md": {
+      "modifiedTime": 1742510803538,
+      "sourceSize": 1352,
+      "exportedPath": "mejora_continua.html",
+      "dependencies": []
+    },
+    "matriz.md": {
+      "modifiedTime": 1742510803538,
+      "sourceSize": 1630,
+      "exportedPath": "matriz.html",
+      "dependencies": []
+    },
+    "mapa.md": {
+      "modifiedTime": 1742510803538,
+      "sourceSize": 1204,
+      "exportedPath": "mapa.html",
+      "dependencies": []
+    },
+    "luz.md": {
+      "modifiedTime": 1742510803538,
+      "sourceSize": 1673,
+      "exportedPath": "luz.html",
+      "dependencies": []
+    },
+    "lugaritmo.md": {
+      "modifiedTime": 1742510803538,
+      "sourceSize": 1133,
+      "exportedPath": "lugaritmo.html",
+      "dependencies": []
+    },
+    "logos.md": {
+      "modifiedTime": 1742510803538,
+      "sourceSize": 1689,
+      "exportedPath": "logos.html",
+      "dependencies": []
+    },
+    "llm.md": {
+      "modifiedTime": 1742510803538,
+      "sourceSize": 1354,
+      "exportedPath": "llm.html",
+      "dependencies": []
+    },
+    "literal.md": {
+      "modifiedTime": 1742510803538,
+      "sourceSize": 1360,
+      "exportedPath": "literal.html",
+      "dependencies": []
+    },
+    "latencia.md": {
+      "modifiedTime": 1742510803538,
+      "sourceSize": 1727,
+      "exportedPath": "latencia.html",
+      "dependencies": []
+    },
+    "interpretacion.md": {
+      "modifiedTime": 1742510803538,
+      "sourceSize": 1724,
+      "exportedPath": "interpretacion.html",
+      "dependencies": []
+    },
+    "informacion.md": {
+      "modifiedTime": 1742510803538,
+      "sourceSize": 1554,
+      "exportedPath": "informacion.html",
+      "dependencies": []
+    },
+    "info_sergiofores.md": {
+      "modifiedTime": 1742510803538,
+      "sourceSize": 918,
+      "exportedPath": "info_sergiofores.html",
+      "dependencies": []
+    },
+    "info_proyecto.md": {
+      "modifiedTime": 1742510803538,
+      "sourceSize": 1162,
+      "exportedPath": "info_proyecto.html",
+      "dependencies": []
+    },
+    "impresion_mental.md": {
+      "modifiedTime": 1742510803538,
+      "sourceSize": 638,
+      "exportedPath": "impresion_mental.html",
+      "dependencies": []
+    },
+    "idea.md": {
+      "modifiedTime": 1742510803538,
+      "sourceSize": 888,
+      "exportedPath": "idea.html",
+      "dependencies": []
+    },
+    "hermeneutica.md": {
+      "modifiedTime": 1742510803538,
+      "sourceSize": 2950,
+      "exportedPath": "hermeneutica.html",
+      "dependencies": []
+    },
+    "gradiente.md": {
+      "modifiedTime": 1742510803538,
+      "sourceSize": 1237,
+      "exportedPath": "gradiente.html",
+      "dependencies": []
+    },
+    "frecuencia.md": {
+      "modifiedTime": 1742510803538,
+      "sourceSize": 373,
+      "exportedPath": "frecuencia.html",
+      "dependencies": []
+    },
+    "fonema.md": {
+      "modifiedTime": 1742510803538,
       "sourceSize": 614,
-      "exportedPath": "pnl.html",
+      "exportedPath": "fonema.html",
       "dependencies": []
     },
-    "poesia.md": {
-      "modifiedTime": 1742504395669,
-      "sourceSize": 1394,
-      "exportedPath": "poesia.html",
+    "fin.md": {
+      "modifiedTime": 1742510803538,
+      "sourceSize": 1166,
+      "exportedPath": "fin.html",
       "dependencies": []
     },
-    "preexistencia.md": {
-      "modifiedTime": 1742504395669,
-      "sourceSize": 980,
-      "exportedPath": "preexistencia.html",
+    "faceta_como_percepcion.md": {
+      "modifiedTime": 1742510803538,
+      "sourceSize": 398,
+      "exportedPath": "faceta_como_percepcion.html",
       "dependencies": []
     },
-    "proceso.md": {
-      "modifiedTime": 1742504395669,
-      "sourceSize": 1363,
-      "exportedPath": "proceso.html",
+    "faceta.md": {
+      "modifiedTime": 1742510803538,
+      "sourceSize": 1167,
+      "exportedPath": "faceta.html",
       "dependencies": []
     },
-    "propiedad.md": {
-      "modifiedTime": 1742504395669,
-      "sourceSize": 174,
-      "exportedPath": "propiedad.html",
-      "dependencies": []
-    },
-    "que_es_01234.md": {
-      "modifiedTime": 1742504395669,
-      "sourceSize": 3067,
-      "exportedPath": "que_es_01234.html",
-      "dependencies": []
-    },
-    "razon.md": {
-      "modifiedTime": 1742504395669,
-      "sourceSize": 1135,
-      "exportedPath": "razon.html",
-      "dependencies": []
-    },
-    "README.md": {
-      "modifiedTime": 1742504395669,
-      "sourceSize": 604,
-      "exportedPath": "readme.html",
-      "dependencies": []
-    },
-    "recurso.md": {
-      "modifiedTime": 1742504395669,
-      "sourceSize": 1075,
-      "exportedPath": "recurso.html",
-      "dependencies": []
-    },
-    "red_coherente_conocimiento.md": {
-      "modifiedTime": 1742504395669,
-      "sourceSize": 1075,
-      "exportedPath": "red_coherente_conocimiento.html",
-      "dependencies": []
-    },
-    "repositorio.md": {
-      "modifiedTime": 1742504395669,
-      "sourceSize": 1450,
-      "exportedPath": "repositorio.html",
-      "dependencies": []
-    },
-    "reshimo.md": {
-      "modifiedTime": 1742504395669,
-      "sourceSize": 1206,
-      "exportedPath": "reshimo.html",
-      "dependencies": []
-    },
-    "resultado.md": {
-      "modifiedTime": 1742504395669,
-      "sourceSize": 448,
-      "exportedPath": "resultado.html",
-      "dependencies": []
-    },
-    "sentido.md": {
-      "modifiedTime": 1742504395669,
-      "sourceSize": 1734,
-      "exportedPath": "sentido.html",
-      "dependencies": []
-    },
-    "sesgo.md": {
-      "modifiedTime": 1742504395669,
-      "sourceSize": 2362,
-      "exportedPath": "sesgo.html",
-      "dependencies": []
-    },
-    "significado.md": {
-      "modifiedTime": 1742504395669,
+    "explica.md": {
+      "modifiedTime": 1742510803538,
       "sourceSize": 1645,
-      "exportedPath": "significado.html",
+      "exportedPath": "explica.html",
       "dependencies": []
     },
-    "simbolo.md": {
-      "modifiedTime": 1742504395669,
-      "sourceSize": 1371,
-      "exportedPath": "simbolo.html",
+    "existencia.md": {
+      "modifiedTime": 1742510803538,
+      "sourceSize": 1315,
+      "exportedPath": "existencia.html",
       "dependencies": []
     },
-    "sinergia.md": {
-      "modifiedTime": 1742504395669,
-      "sourceSize": 259,
-      "exportedPath": "sinergia.html",
+    "evidencia.md": {
+      "modifiedTime": 1742510803538,
+      "sourceSize": 1242,
+      "exportedPath": "evidencia.html",
       "dependencies": []
     },
-    "sintesis.md": {
-      "modifiedTime": 1742504395669,
-      "sourceSize": 1176,
-      "exportedPath": "sintesis.html",
+    "estructura.md": {
+      "modifiedTime": 1742510803538,
+      "sourceSize": 1144,
+      "exportedPath": "estructura.html",
       "dependencies": []
     },
-    "sistema.md": {
-      "modifiedTime": 1742504395669,
-      "sourceSize": 733,
-      "exportedPath": "sistema.html",
+    "espiritu.md": {
+      "modifiedTime": 1742510803538,
+      "sourceSize": 2029,
+      "exportedPath": "espiritu.html",
       "dependencies": []
     },
-    "sujeto.md": {
-      "modifiedTime": 1742504395669,
-      "sourceSize": 1430,
-      "exportedPath": "sujeto.html",
+    "encuentro.md": {
+      "modifiedTime": 1742510803538,
+      "sourceSize": 1182,
+      "exportedPath": "encuentro.html",
       "dependencies": []
     },
-    "tension.md": {
-      "modifiedTime": 1742504395669,
-      "sourceSize": 1103,
-      "exportedPath": "tension.html",
+    "elemento.md": {
+      "modifiedTime": 1742510803538,
+      "sourceSize": 1625,
+      "exportedPath": "elemento.html",
       "dependencies": []
     },
-    "termino.md": {
-      "modifiedTime": 1742504395669,
-      "sourceSize": 1051,
-      "exportedPath": "termino.html",
+    "efecto_aladino.md": {
+      "modifiedTime": 1742510803538,
+      "sourceSize": 1600,
+      "exportedPath": "efecto_aladino.html",
       "dependencies": []
     },
-    "tetractys.md": {
-      "modifiedTime": 1742504395669,
-      "sourceSize": 2343,
-      "exportedPath": "tetractys.html",
+    "dualidad_onda-particula.md": {
+      "modifiedTime": 1742510803538,
+      "sourceSize": 544,
+      "exportedPath": "dualidad_onda-particula.html",
       "dependencies": []
     },
-    "tetragramaton.md": {
-      "modifiedTime": 1742504395669,
-      "sourceSize": 2405,
-      "exportedPath": "tetragramaton.html",
+    "dominio.md": {
+      "modifiedTime": 1742510803538,
+      "sourceSize": 1104,
+      "exportedPath": "dominio.html",
       "dependencies": []
     },
-    "universo.md": {
-      "modifiedTime": 1742504395669,
-      "sourceSize": 1215,
-      "exportedPath": "universo.html",
+    "discernimiento.md": {
+      "modifiedTime": 1742510803538,
+      "sourceSize": 1599,
+      "exportedPath": "discernimiento.html",
       "dependencies": []
     },
-    "vibracion.md": {
-      "modifiedTime": 1742504395669,
-      "sourceSize": 238,
-      "exportedPath": "vibracion.html",
+    "dialogo.md": {
+      "modifiedTime": 1742510803538,
+      "sourceSize": 1175,
+      "exportedPath": "dialogo.html",
       "dependencies": []
     },
-    "vida.md": {
-      "modifiedTime": 1742504395669,
-      "sourceSize": 1276,
-      "exportedPath": "vida.html",
+    "despliegue.md": {
+      "modifiedTime": 1742510803538,
+      "sourceSize": 249,
+      "exportedPath": "despliegue.html",
       "dependencies": []
     },
-    "vinculo.md": {
-      "modifiedTime": 1742504395669,
-      "sourceSize": 2627,
-      "exportedPath": "vinculo.html",
+    "darse_cuenta.md": {
+      "modifiedTime": 1742510803538,
+      "sourceSize": 765,
+      "exportedPath": "darse_cuenta.html",
+      "dependencies": []
+    },
+    "cuerpo.md": {
+      "modifiedTime": 1742510803538,
+      "sourceSize": 1441,
+      "exportedPath": "cuerpo.html",
+      "dependencies": []
+    },
+    "cuaternario.md": {
+      "modifiedTime": 1742510803538,
+      "sourceSize": 4140,
+      "exportedPath": "cuaternario.html",
+      "dependencies": []
+    },
+    "creacion.md": {
+      "modifiedTime": 1742510803538,
+      "sourceSize": 1783,
+      "exportedPath": "creacion.html",
+      "dependencies": []
+    },
+    "cosa.md": {
+      "modifiedTime": 1742510803538,
+      "sourceSize": 1168,
+      "exportedPath": "cosa.html",
+      "dependencies": []
+    },
+    "convergencia.md": {
+      "modifiedTime": 1742510803538,
+      "sourceSize": 190,
+      "exportedPath": "convergencia.html",
+      "dependencies": []
+    },
+    "contexto.md": {
+      "modifiedTime": 1742510803538,
+      "sourceSize": 1559,
+      "exportedPath": "contexto.html",
+      "dependencies": []
+    },
+    "contemplacion.md": {
+      "modifiedTime": 1742510803538,
+      "sourceSize": 1672,
+      "exportedPath": "contemplacion.html",
+      "dependencies": []
+    },
+    "conectivo.md": {
+      "modifiedTime": 1742510803538,
+      "sourceSize": 178,
+      "exportedPath": "conectivo.html",
+      "dependencies": []
+    },
+    "conciencia.md": {
+      "modifiedTime": 1742510803538,
+      "sourceSize": 2152,
+      "exportedPath": "conciencia.html",
+      "dependencies": []
+    },
+    "concepto.md": {
+      "modifiedTime": 1742510803538,
+      "sourceSize": 1032,
+      "exportedPath": "concepto.html",
+      "dependencies": []
+    },
+    "concatenacion.md": {
+      "modifiedTime": 1742510803538,
+      "sourceSize": 2258,
+      "exportedPath": "concatenacion.html",
+      "dependencies": []
+    },
+    "coherencia_esencial.md": {
+      "modifiedTime": 1742510803538,
+      "sourceSize": 1224,
+      "exportedPath": "coherencia_esencial.html",
+      "dependencies": []
+    },
+    "cognicion_extendida.md": {
+      "modifiedTime": 1742510803538,
+      "sourceSize": 2976,
+      "exportedPath": "cognicion_extendida.html",
+      "dependencies": []
+    },
+    "cognicion.md": {
+      "modifiedTime": 1742510803538,
+      "sourceSize": 1093,
+      "exportedPath": "cognicion.html",
+      "dependencies": []
+    },
+    "codigo.md": {
+      "modifiedTime": 1742510803538,
+      "sourceSize": 1538,
+      "exportedPath": "codigo.html",
+      "dependencies": []
+    },
+    "coagulacion_significado.md": {
+      "modifiedTime": 1742510803538,
+      "sourceSize": 802,
+      "exportedPath": "coagulacion_significado.html",
+      "dependencies": []
+    },
+    "causa_efecto.md": {
+      "modifiedTime": 1742510803538,
+      "sourceSize": 1636,
+      "exportedPath": "causa_efecto.html",
+      "dependencies": []
+    },
+    "captura_informacion.md": {
+      "modifiedTime": 1742510803538,
+      "sourceSize": 2825,
+      "exportedPath": "captura_informacion.html",
+      "dependencies": []
+    },
+    "campo_semantico.md": {
+      "modifiedTime": 1742510803538,
+      "sourceSize": 1049,
+      "exportedPath": "campo_semantico.html",
+      "dependencies": []
+    },
+    "basb.md": {
+      "modifiedTime": 1742510803538,
+      "sourceSize": 2081,
+      "exportedPath": "basb.html",
+      "dependencies": []
+    },
+    "autocancelacion.md": {
+      "modifiedTime": 1742510803538,
+      "sourceSize": 1719,
+      "exportedPath": "autocancelacion.html",
+      "dependencies": []
+    },
+    "arte.md": {
+      "modifiedTime": 1742510803538,
+      "sourceSize": 1724,
+      "exportedPath": "arte.html",
+      "dependencies": []
+    },
+    "arje.md": {
+      "modifiedTime": 1742510803538,
+      "sourceSize": 1257,
+      "exportedPath": "arje.html",
+      "dependencies": []
+    },
+    "analogia.md": {
+      "modifiedTime": 1742510803538,
+      "sourceSize": 1053,
+      "exportedPath": "analogia.html",
+      "dependencies": []
+    },
+    "alma.md": {
+      "modifiedTime": 1742510803538,
+      "sourceSize": 1929,
+      "exportedPath": "alma.html",
+      "dependencies": []
+    },
+    "ahora.md": {
+      "modifiedTime": 1742510803538,
+      "sourceSize": 1346,
+      "exportedPath": "ahora.html",
+      "dependencies": []
+    },
+    "accion.md": {
+      "modifiedTime": 1742510803538,
+      "sourceSize": 2072,
+      "exportedPath": "accion.html",
+      "dependencies": []
+    },
+    "4.md": {
+      "modifiedTime": 1742510803538,
+      "sourceSize": 1341,
+      "exportedPath": "4.html",
+      "dependencies": []
+    },
+    "3.md": {
+      "modifiedTime": 1742510803538,
+      "sourceSize": 1096,
+      "exportedPath": "3.html",
+      "dependencies": []
+    },
+    "2.md": {
+      "modifiedTime": 1742510803538,
+      "sourceSize": 1069,
+      "exportedPath": "2.html",
+      "dependencies": []
+    },
+    "01234.md": {
+      "modifiedTime": 1742510803538,
+      "sourceSize": 6389,
+      "exportedPath": "01234.html",
+      "dependencies": [
+        "assets/tag_map.svg",
+        "assets/logo.svg"
+      ]
+    },
+    "1.md": {
+      "modifiedTime": 1742510803538,
+      "sourceSize": 911,
+      "exportedPath": "1.html",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.wasm": {
-      "modifiedTime": 1742504395669,
+      "modifiedTime": 1742510803538,
       "sourceSize": 23377,
       "exportedPath": "lib/scripts/graph-wasm.wasm",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1742504395669,
+      "modifiedTime": 1742510803538,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1742504395669,
+      "modifiedTime": 1742510803538,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1742504395669,
+      "modifiedTime": 1742510803538,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1742504395669,
+      "modifiedTime": 1742510803538,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1742504395669,
+      "modifiedTime": 1742510803538,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1742504395669,
+      "modifiedTime": 1742510803538,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1742504395669,
+      "modifiedTime": 1742510803538,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1742504395669,
+      "modifiedTime": 1742510803538,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1742504395669,
+      "modifiedTime": 1742510803538,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1742504395669,
+      "modifiedTime": 1742510803538,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1742504395669,
+      "modifiedTime": 1742510803538,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1742504395669,
+      "modifiedTime": 1742510803538,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1742504395669,
+      "modifiedTime": 1742510803538,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/6155340132a851f6089e.svg": {
-      "modifiedTime": 1742504395669,
+      "modifiedTime": 1742510803538,
       "sourceSize": 315,
       "exportedPath": "lib/media/6155340132a851f6089e.svg",
       "dependencies": []
     },
     "lib/html/file-tree.html": {
-      "modifiedTime": 1742504395669,
-      "sourceSize": 86267,
+      "modifiedTime": 1742510803538,
+      "sourceSize": 88253,
       "exportedPath": "lib/html/file-tree.html",
       "dependencies": []
     },
     "lib/scripts/webpage.js": {
-      "modifiedTime": 1742504395669,
+      "modifiedTime": 1742510803538,
       "sourceSize": 47290,
       "exportedPath": "lib/scripts/webpage.js",
       "dependencies": []
     },
     "lib/scripts/graph-view.js": {
-      "modifiedTime": 1742504395669,
+      "modifiedTime": 1742510803538,
       "sourceSize": 15519,
       "exportedPath": "lib/scripts/graph-view.js",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.js": {
-      "modifiedTime": 1742504395669,
+      "modifiedTime": 1742510803538,
       "sourceSize": 14021,
       "exportedPath": "lib/scripts/graph-wasm.js",
       "dependencies": []
     },
     "lib/scripts/graph-render-worker.js": {
-      "modifiedTime": 1742504395669,
+      "modifiedTime": 1742510803538,
       "sourceSize": 5179,
       "exportedPath": "lib/scripts/graph-render-worker.js",
       "dependencies": []
     },
     "lib/scripts/tinycolor.js": {
-      "modifiedTime": 1742504395669,
+      "modifiedTime": 1742510803538,
       "sourceSize": 29832,
       "exportedPath": "lib/scripts/tinycolor.js",
       "dependencies": []
     },
     "lib/scripts/pixi.js": {
-      "modifiedTime": 1742504395669,
+      "modifiedTime": 1742510803538,
       "sourceSize": 449509,
       "exportedPath": "lib/scripts/pixi.js",
       "dependencies": []
     },
     "lib/scripts/minisearch.js": {
-      "modifiedTime": 1742504395669,
+      "modifiedTime": 1742510803538,
       "sourceSize": 29422,
       "exportedPath": "lib/scripts/minisearch.js",
       "dependencies": []
     },
     "lib/media/favicon.png": {
-      "modifiedTime": 1742504395669,
+      "modifiedTime": 1742510803538,
       "sourceSize": 1105,
       "exportedPath": "lib/media/favicon.png",
       "dependencies": []
     },
     "lib/scripts/graph-data.js": {
-      "modifiedTime": 1742504395669,
-      "sourceSize": 7981,
+      "modifiedTime": 1742510803538,
+      "sourceSize": 9510,
       "exportedPath": "lib/scripts/graph-data.js",
       "dependencies": []
     },
     "lib/styles/obsidian.css": {
-      "modifiedTime": 1742504395669,
+      "modifiedTime": 1742510803538,
       "sourceSize": 137466,
       "exportedPath": "lib/styles/obsidian.css",
       "dependencies": []
     },
     "lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1742504395669,
+      "modifiedTime": 1742510803538,
       "sourceSize": 347,
       "exportedPath": "lib/styles/global-variable-styles.css",
       "dependencies": []
     },
     "lib/styles/main-styles.css": {
-      "modifiedTime": 1742504395669,
+      "modifiedTime": 1742510803538,
       "sourceSize": 23130,
       "exportedPath": "lib/styles/main-styles.css",
       "dependencies": []
     },
-    "assets/grafico-pardes.svg": {
-      "modifiedTime": 1742504395669,
-      "sourceSize": 15941,
-      "exportedPath": "assets/grafico-pardes.svg",
-      "dependencies": []
-    },
-    "assets/logo.svg": {
-      "modifiedTime": 1742504395669,
-      "sourceSize": 33563,
-      "exportedPath": "assets/logo.svg",
-      "dependencies": []
-    },
     "lib/styles/snippets.css": {
-      "modifiedTime": 1742504395669,
-      "sourceSize": 53,
+      "modifiedTime": 1742510803538,
+      "sourceSize": 207,
       "exportedPath": "lib/styles/snippets.css",
       "dependencies": []
     }
