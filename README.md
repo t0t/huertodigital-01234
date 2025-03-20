@@ -8,6 +8,8 @@ https://github.com/t0t/huertodigital-01234
 
 https://t0t.github.io/
 
+https://t0t.github.io/huertodigital-01234/
+
 ## Configuración de Quartz
 
 You're all set! Not sure what to do next? Try:

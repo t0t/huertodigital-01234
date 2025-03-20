@@ -4,37 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "05f949eeb03fdfa6",
+        "id": "e5c722ba3a0d6764",
         "type": "tabs",
         "children": [
           {
-            "id": "bad907e473c9a756",
+            "id": "8b1e83815375f169",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Huerto_Digital_01234/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "index"
-            }
-          }
-        ]
-      },
-      {
-        "id": "8b699ff8f36c41c3",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "1f9482f45737ba40",
-            "type": "leaf",
-            "state": {
-              "type": "reveal-preview-view",
-              "state": {},
-              "icon": "slides",
-              "title": "Preview: percepcion.md"
             }
           }
         ]
@@ -188,26 +172,12 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "bad907e473c9a756",
+  "active": "8b1e83815375f169",
   "lastOpenFiles": [
-    "Huerto_Digital_01234/percepcion.md",
-    "README.md",
-    "Presentaciones/Pase Diapositivas.md",
-    "Presentaciones/Pase Diapositivas/plugin/menu/README.md",
-    "Presentaciones/Pase Diapositivas/plugin/menu/CONTRIBUTING.md",
-    "Presentaciones/Pase Diapositivas/plugin/customcontrols/README.md",
-    "Presentaciones/Pase Diapositivas/plugin/chart/README.md",
-    "Presentaciones/Pase Diapositivas/plugin/chalkboard/README.md",
-    "Presentaciones/Pase Diapositivas/dist/css/theme/README.md",
-    "Mapas/tag_map.md",
-    "Mapas/mapa-1.canvas",
-    "Mapas/Huerto Digital - 01234.canvas",
-    "Mapas/grafico_2025-03-20 11.02.28.md",
-    "Mapas/estructura_vault.md",
-    "Mapas/esquema_global.md",
-    "Mapas/esquema_01234_base.md",
-    "Mapas/esquema_2.md",
+    "Huerto_Digital_01234/que_es_01234.md",
+    "Huerto_Digital_01234/index.md",
     "Huerto_Digital_01234/vinculo.md",
+    "docs/Huerto_Digital_01234/index.html",
     "Huerto_Digital_01234/vida.md",
     "Huerto_Digital_01234/vibracion.md",
     "Huerto_Digital_01234/universo.md",
@@ -218,6 +188,21 @@
     "Huerto_Digital_01234/sujeto.md",
     "Huerto_Digital_01234/sistema.md",
     "Huerto_Digital_01234/sintesis.md",
+    "Huerto_Digital_01234/sinergia.md",
+    "Huerto_Digital_01234/simbolo.md",
+    "Huerto_Digital_01234/significado.md",
+    "Huerto_Digital_01234/sesgo.md",
+    "Huerto_Digital_01234/sentido.md",
+    "Huerto_Digital_01234/resultado.md",
+    "Huerto_Digital_01234/reshimo.md",
+    "Huerto_Digital_01234/repositorio.md",
+    "Huerto_Digital_01234/red_coherente_conocimiento.md",
+    "Huerto_Digital_01234/recurso.md",
+    "Huerto_Digital_01234/razon.md",
+    "Huerto_Digital_01234/propiedad.md",
+    "Huerto_Digital_01234/proceso.md",
+    "Mapas/mapa-1.canvas",
+    "Mapas/Huerto Digital - 01234.canvas",
     "docs/Presentaciones/pase-diapositivas.html",
     "docs/Presentaciones/pase-diapositivas/index.html",
     "docs/Presentaciones/pase-diapositivas/plugin/zoom/zoom.esm.js",
@@ -227,7 +212,6 @@
     "docs/Presentaciones/pase-diapositivas/plugin/search/search.js",
     "docs/Presentaciones/pase-diapositivas/plugin/search/search.esm.js",
     "docs/Presentaciones/pase-diapositivas/plugin/search/plugin.js",
-    "docs/Presentaciones/pase-diapositivas/plugin/search",
     "docs/Presentaciones/pase-diapositivas/plugin/chalkboard/img/whiteboard.png",
     "docs/Presentaciones/pase-diapositivas/plugin/chalkboard/img/sponge.png",
     "docs/Presentaciones/pase-diapositivas/plugin/chalkboard/img/chalk-yellow.png",
