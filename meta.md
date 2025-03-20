@@ -1,6 +1,14 @@
 ---
 campo_predominante: 0
 palabras_clave_vinculadas: ["meta", "etimológico", "más allá", "sistema", "filosofía"]
+title: Titulo de la Página
+etiquetas:
+  - tag1
+tipo: campo_fundamental
+relacionado_a_campo: 0
+checkbox: false
+aliases:
+  - alias1
 ---
 
 La palabra "meta" en su sentido etimológico significa "más allá". Se utiliza para describir conceptos que trascienden o van más allá de los límites convencionales, explorando niveles superiores de abstracción o significado. 

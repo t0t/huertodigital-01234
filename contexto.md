@@ -9,6 +9,12 @@ campos_secundarios:
     peso: 0.4
     descripción: "Concreción como situación específica"
 aliases: ["entorno significativo", "marco referencial"]
+title: Titulo de la Página
+etiquetas:
+  - tag1
+tipo: campo_fundamental
+relacionado_a_campo: 0
+checkbox: false
 ---
 [[3|Entorno]] situacional, conjunto de circunstancias o [[3|marco]] referencial que determina el [[3|significado]], función o sentido de un elemento. Sistema de [[3|relaciones]] que condiciona la interpretación y comprensión de fenómenos particulares.
 

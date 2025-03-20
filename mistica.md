@@ -6,6 +6,12 @@ campos_secundarios:
     peso: 0.9
     descripción: ""
 aliases: ["experiencia_directa", "trascendencia", "unidad"]
+title: Titulo de la Página
+etiquetas:
+  - tag1
+tipo: campo_fundamental
+relacionado_a_campo: 0
+checkbox: false
 ---
 Experiencia directa y transformadora de realidades trascendentes que supera las limitaciones del conocimiento ordinario. Vía de aprehensión de lo Absoluto mediante estados de [[conciencia]] que trascienden la dualidad [[sujeto]]-[[objeto]].
 

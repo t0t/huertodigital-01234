@@ -9,6 +9,12 @@ campos_secundarios:
     peso: 0.5
     descripción: "Manifestación concreta como inclinación específica en procesos"
 aliases: ["inclinación cognitiva", "predisposición", "filtro cognitivo"]
+title: Titulo de la Página
+etiquetas:
+  - tag1
+tipo: campo_fundamental
+relacionado_a_campo: 0
+checkbox: false
 ---
 # Sesgo
 

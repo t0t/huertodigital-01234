@@ -9,6 +9,12 @@ campos_secundarios:
     peso: 0.6
     descripción: "Representación de la unidad desplegándose"
 aliases: ["tetrada pitagórica", "década"]
+title: Titulo de la Página
+etiquetas:
+  - tag1
+tipo: campo_fundamental
+relacionado_a_campo: 0
+checkbox: false
 ---
 # Tetractys
 

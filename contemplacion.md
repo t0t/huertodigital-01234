@@ -1,3 +1,16 @@
+---
+title: Titulo de la Página
+etiquetas:
+  - tag1
+tipo: campo_fundamental
+relacionado_a_campo: 0
+palabras_clave_vinculadas:
+  - origen
+checkbox: false
+aliases:
+  - alias1
+---
+
 Estado receptivo de atención plena y directa donde la [[conciencia]] se abre a la presencia inmediata de lo real. Modalidad de percepción no analítica que permite la aprehensión total y directa de un fenómeno, trascendiendo la dualidad [[sujeto]]-[[objeto]].
 
 Características:

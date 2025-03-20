@@ -1,3 +1,16 @@
+---
+title: Titulo de la Página
+etiquetas:
+  - tag1
+tipo: campo_fundamental
+relacionado_a_campo: 0
+palabras_clave_vinculadas:
+  - origen
+checkbox: false
+aliases:
+  - alias1
+---
+
 # Literal
 
 Nivel básico de interpretación que se atiene al significado directo y explícito de signos, textos o expresiones, sin considerar capas metafóricas, simbólicas o contextuales más profundas.

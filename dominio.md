@@ -1,3 +1,16 @@
+---
+title: Titulo de la Página
+etiquetas:
+  - tag1
+tipo: campo_fundamental
+relacionado_a_campo: 0
+palabras_clave_vinculadas:
+  - origen
+checkbox: false
+aliases:
+  - alias1
+---
+
 # Dominio
 
 Área o campo delimitado donde operan reglas, propiedades y relaciones específicas que conforman un [[sistema]] coherente. Espacio conceptual o físico con fronteras definidas que determina el alcance de aplicación de ciertos principios.

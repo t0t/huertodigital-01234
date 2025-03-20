@@ -9,6 +9,12 @@ campos_secundarios:
     peso: 0.5
     descripción: "Organización y discriminación de estímulos"
 aliases: ["captación", "aprehensión"]
+title: Titulo de la Página
+etiquetas:
+  - tag1
+tipo: campo_fundamental
+relacionado_a_campo: 0
+checkbox: false
 ---
 # Percepción
 

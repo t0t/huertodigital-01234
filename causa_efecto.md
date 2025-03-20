@@ -1,3 +1,16 @@
+---
+title: Titulo de la Página
+etiquetas:
+  - tag1
+tipo: campo_fundamental
+relacionado_a_campo: 0
+palabras_clave_vinculadas:
+  - origen
+checkbox: false
+aliases:
+  - alias1
+---
+
 indexPrincipio de relación secuencial donde un evento, entidad o condición (causa) genera o determina la aparición de otro fenómeno (efecto). [[4|Proceso]] fundamental que establece conexiones temporales y operativas entre acontecimientos.
 
 Características:

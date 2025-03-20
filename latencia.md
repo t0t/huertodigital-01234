@@ -1,3 +1,16 @@
+---
+title: Titulo de la Página
+etiquetas:
+  - tag1
+tipo: campo_fundamental
+relacionado_a_campo: 0
+palabras_clave_vinculadas:
+  - origen
+checkbox: false
+aliases:
+  - alias1
+---
+
 Estado de potencialidad no manifestada donde algo existe como posibilidad antes de actualizarse o revelarse. Intervalo temporal o condición previa a la expresión concreta de un fenómeno, caracterizado por su presencia implícita pero no evidente.
 
 Características:

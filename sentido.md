@@ -13,6 +13,16 @@ campos_secundarios:
   - campo: 4
     peso: 0.3
     descripción: "Manifestación concreta de la dirección"
+title: Titulo de la Página
+etiquetas:
+  - tag1
+tipo: campo_fundamental
+relacionado_a_campo: 0
+palabras_clave_vinculadas:
+  - origen
+checkbox: false
+aliases:
+  - alias1
 ---
 Dirección, orientación o propósito que adquiere un elemento dentro de un contexto más amplio. Dimensión del [[significado]] que trasciende la mera definición para incluir la finalidad y el valor dentro de una estructura mayor.
 

@@ -9,6 +9,12 @@ campos_secundarios:
     peso: 0.3
     descripción: "Unidad léxica con precisión"
 aliases: ["vocablo", "tecnicismo"]
+title: Titulo de la Página
+etiquetas:
+  - tag1
+tipo: campo_fundamental
+relacionado_a_campo: 0
+checkbox: false
 ---
 # Término
 

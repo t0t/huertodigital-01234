@@ -1,3 +1,16 @@
+---
+title: Titulo de la Página
+etiquetas:
+  - tag1
+tipo: campo_fundamental
+relacionado_a_campo: 0
+palabras_clave_vinculadas:
+  - origen
+checkbox: false
+aliases:
+  - alias1
+---
+
 **Building a Second Brain** (BASB) es un sistema desarrollado por Tiago Forte que busca ayudar a las personas a organizar su vida digital y desbloquear su potencial creativo. Este método se centra en crear un "segundo cerebro" digital, es decir, un sistema confiable fuera de nuestra mente donde podemos recopilar y organizar nuestras ideas e información más importantes. ​
 
 El objetivo principal de BASB es combatir la sobrecarga de información y liberar nuestra atención para actividades más creativas e interesantes. Al tener un sistema externo que almacene nuestras ideas y conocimientos, podemos enfocarnos en nuestras tareas más significativas sin preocuparnos por olvidar detalles importantes. 

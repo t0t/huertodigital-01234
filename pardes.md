@@ -1,3 +1,16 @@
+---
+title: Titulo de la Página
+etiquetas:
+  - tag1
+tipo: campo_fundamental
+relacionado_a_campo: 0
+palabras_clave_vinculadas:
+  - origen
+checkbox: false
+aliases:
+  - alias1
+---
+
 # PRDS
 
 El **Sistema hermenéutico** de la tradición cabalística establece [[4]] niveles progresivos de interpretación. El [[termino|término]] es un acrónimo formado por las iniciales de cada nivel: Pshat, Remez, Drash y Sod.

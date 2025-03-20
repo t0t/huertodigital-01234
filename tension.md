@@ -1,6 +1,14 @@
 ---
 campo_predominante: 3
 palabras_clave_vinculadas: ["tensión", "equilibrio", "transformación", "dinámica", "relación"]
+title: Titulo de la Página
+etiquetas:
+  - tag1
+tipo: campo_fundamental
+relacionado_a_campo: 0
+checkbox: false
+aliases:
+  - alias1
 ---
 # Tensión como Fuerza de Equilibrio y Transformación
 

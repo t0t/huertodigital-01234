@@ -1,6 +1,14 @@
 ---
 campo_predominante: 1
 palabras_clave_vinculadas: ["cosmos", "universión", "totalidad", "realidad", "existencia", "orden"]
+title: Titulo de la Página
+etiquetas:
+  - tag1
+tipo: campo_fundamental
+relacionado_a_campo: 0
+checkbox: false
+aliases:
+  - alias1
 ---
 
 Totalidad integrada que comprende toda la materia, energía, espacio-tiempo y las leyes que los gobiernan. Sistema fundamental que contiene y sustenta todos los fenómenos, entidades y procesos existentes.

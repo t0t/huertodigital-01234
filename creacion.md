@@ -1,3 +1,16 @@
+---
+title: Titulo de la Página
+etiquetas:
+  - tag1
+tipo: campo_fundamental
+relacionado_a_campo: 0
+palabras_clave_vinculadas:
+  - origen
+checkbox: false
+aliases:
+  - alias1
+---
+
 Proceso mediante el cual lo potencial se transforma en actualidad, dando origen a algo que antes no existía en su forma manifestada. Acto generativo que hace emerger nuevas [[estructura]]s, formas o significados a partir de la configuración de elementos preexistentes o de la manifestación de posibilidades latentes.
 
 Características:

@@ -13,6 +13,16 @@ campos_secundarios:
   - campo: 4
     peso: 0.3
     descripción: "Manifestación concreta de la dirección"
+title: Titulo de la Página
+etiquetas:
+  - tag1
+tipo: campo_fundamental
+relacionado_a_campo: 0
+palabras_clave_vinculadas:
+  - origen
+checkbox: false
+aliases:
+  - alias1
 ---
 
 Entidad dotada de [[conciencia]] que experimenta, conoce y actúa desde una perspectiva de primera persona. Centro de experiencia y agencia que establece la polaridad fundamental con el [[objeto]] en el acto de conocimiento y percepción.

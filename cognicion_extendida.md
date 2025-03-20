@@ -9,6 +9,12 @@ campos_secundarios:
     peso: 0.7
     descripción: "Materialización física de procesos cognitivos"
 aliases: ["mente extendida", "externalización cognitiva", "cognición distribuida"]
+title: Titulo de la Página
+etiquetas:
+  - tag1
+tipo: campo_fundamental
+relacionado_a_campo: 0
+checkbox: false
 ---
 
 # Cognición Extendida

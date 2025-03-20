@@ -6,6 +6,12 @@ campos_secundarios:
     peso: 0.7
     descripción: "Manifestación concreta de procesos secuenciales y transformaciones"
 aliases: ["encadenamiento", "secuenciación", "enlace secuencial"]
+title: Titulo de la Página
+etiquetas:
+  - tag1
+tipo: campo_fundamental
+relacionado_a_campo: 0
+checkbox: false
 ---
 # Concatenación
 

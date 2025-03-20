@@ -9,6 +9,12 @@ campos_secundarios:
     peso: 0.4
     descripción: "Relación entre medios, fines y contextos"
 aliases: ["actuación", "realización", "ejecución"]
+title: Titulo de la Página
+etiquetas:
+  - tag1
+tipo: campo_fundamental
+relacionado_a_campo: 0
+checkbox: false
 ---
 [[4|Manifestación]] concreta de energía, [[1|voluntad]] o [[0|potencial]] que produce un [[4|efecto]] o cambio en la realidad. Expresión definitiva donde lo interno se proyecta al exterior, materializando intenciones, pensamientos o capacidades latentes.
 

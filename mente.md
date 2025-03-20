@@ -9,6 +9,12 @@ campos_secundarios:
     peso: 0.4
     descripción: "Espacio de posibilidades cognitivas"
 aliases: ["intelecto", "cognición", "pensamiento"]
+title: Titulo de la Página
+etiquetas:
+  - tag1
+tipo: campo_fundamental
+relacionado_a_campo: 0
+checkbox: false
 ---
 [[sistema]] dinámico y complejo que integra procesos [[2|cognitivos]], emocionales y perceptuales para crear una representación interior del mundo y facilitar la interacción con este. Principal [[dominio]] donde se desarrolla la [[2|cognición]] y emerge la [[inteligencia]].
 

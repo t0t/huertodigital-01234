@@ -9,6 +9,12 @@ campos_secundarios:
     peso: 0.6
     descripción: "Esencia potencial previa a individualización"
 aliases: ["espíritu", "ánima", "neshama"]
+title: Titulo de la Página
+etiquetas:
+  - tag1
+tipo: campo_fundamental
+relacionado_a_campo: 0
+checkbox: false
 ---
 
 Principio vital que anima y trasciende la existencia meramente física, dotando al ser de [[1|identidad esencial]] y capacidad de autotrascendencia. Dimensión que conecta lo individual con lo universal y lo temporal con lo eterno.

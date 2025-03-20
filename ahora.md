@@ -6,6 +6,12 @@ campos_secundarios:
     peso: 0.9
     descripción: "Relaciones entre los elementos contenidos"
 aliases: ["ahora", "instante", "inmediatez"]
+title: Titulo de la Página
+etiquetas:
+  - tag1
+tipo: campo_fundamental
+relacionado_a_campo: 0
+checkbox: false
 ---
 Presente inmediato que constituye el único punto temporal donde la [[existencia]] se actualiza y la [[conciencia]] opera directamente. Dimensión del tiempo caracterizada por la presencia efectiva y la vivencia directa de la realidad.
 

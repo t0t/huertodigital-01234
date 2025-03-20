@@ -1,3 +1,16 @@
+---
+title: Titulo de la Página
+etiquetas:
+  - tag1
+tipo: campo_fundamental
+relacionado_a_campo: 0
+palabras_clave_vinculadas:
+  - origen
+checkbox: false
+aliases:
+  - alias1
+---
+
 # Coagulación del Significado
 
 La [[información]] solo se vuelve útil cuando se coagula en una [[estructura]] estable. En su estado más puro, es un gradiente sin límites definidos; pero a medida que pasa por ciclos de diferenciación e interpretación, se densifica y toma [[4|forma]]. 

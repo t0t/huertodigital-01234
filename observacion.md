@@ -1,6 +1,14 @@
 ---
 campo_predominante: 1
 palabras_clave_vinculadas: ["observación", "percepción", "atención", "evidencia"]
+title: Titulo de la Página
+etiquetas:
+  - tag1
+tipo: campo_fundamental
+relacionado_a_campo: 0
+checkbox: false
+aliases:
+  - alias1
 ---
 Proceso cognitivo-perceptual dirigido a captar intencionalmente aspectos de la realidad. Acto sistemático de atención que permite recoger [[evidencia]] directa sobre fenómenos mediante la experiencia sensorial orientada.
 

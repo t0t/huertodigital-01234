@@ -9,6 +9,12 @@ campos_secundarios:
     peso: 0.6
     descripción: "Integración sistémica"
 aliases: ["físico", "soma", "nefesh"]
+title: Titulo de la Página
+etiquetas:
+  - tag1
+tipo: campo_fundamental
+relacionado_a_campo: 0
+checkbox: false
 ---
 
 [[4|Manifestación]] material y tangible del ser que constituye el sustrato [[4|físico]] de la existencia. Estructura [[3|organizada]] que permite la expresión [[4|concreta]] de la vida y la [[1|conciencia]] en el plano temporal y espacial.

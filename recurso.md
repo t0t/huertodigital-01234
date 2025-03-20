@@ -1,3 +1,16 @@
+---
+title: Titulo de la Página
+etiquetas:
+  - tag1
+tipo: campo_fundamental
+relacionado_a_campo: 0
+palabras_clave_vinculadas:
+  - origen
+checkbox: false
+aliases:
+  - alias1
+---
+
 Elemento, capacidad o condición que puede ser utilizado para lograr un propósito o satisfacer una necesidad. 
 
 Componente que aporta potencial operativo a un [[sistema]] y permite la materialización de posibilidades en [[4|resultado]]s concretos.

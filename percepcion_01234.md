@@ -6,6 +6,12 @@ campos_secundarios:
     peso: 0.9
     descripción: "Relaciones entre los elementos contenidos"
 aliases: ["autodescubrimiento"]
+title: Titulo de la Página
+etiquetas:
+  - tag1
+tipo: campo_fundamental
+relacionado_a_campo: 0
+checkbox: false
 ---
 ## 01234, Un Modelo que Se Descubre a Sí Mismo
 

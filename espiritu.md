@@ -9,6 +9,12 @@ campos_secundarios:
     peso: 0.5
     descripción: "Formación de principios orientadores fundamentales"
 aliases: ["pneuma", "ruaj", "aliento divino"]
+title: Titulo de la Página
+etiquetas:
+  - tag1
+tipo: campo_fundamental
+relacionado_a_campo: 0
+checkbox: false
 ---
 
 Principio vital y dinámico que representa la dimensión más [[0|trascendente]] del ser. Aspecto [[0|universal]] que anima, integra y trasciende las manifestaciones particulares, conectando lo individual con lo absoluto.

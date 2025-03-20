@@ -1,3 +1,16 @@
+---
+title: Titulo de la Página
+etiquetas:
+  - tag1
+tipo: campo_fundamental
+relacionado_a_campo: 0
+palabras_clave_vinculadas:
+  - origen
+checkbox: false
+aliases:
+  - alias1
+---
+
 # El Gradiente del Significado Precipitándose en Forma
 
 El flujo de [[información]] desciende a través de ajustes sucesivos hasta alcanzar un punto de equilibrio. Aquí, la transformación no se detiene, pero se ralentiza y adopta una [[4|forma]] concreta. La [[estructura]] que emerge es el residuo del [[4|proceso]], lo que queda cuando el flujo ha perdido velocidad. 

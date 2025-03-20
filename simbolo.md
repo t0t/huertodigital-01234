@@ -1,6 +1,14 @@
 ---
 campo_predominante: 3
 palabras_clave_vinculadas: ["símbolo", "significado", "representación", "connotación", "intención", "comunicación"]
+title: Titulo de la Página
+etiquetas:
+  - tag1
+tipo: campo_fundamental
+relacionado_a_campo: 0
+checkbox: false
+aliases:
+  - alias1
 ---
 Signo o representación que trasciende su apariencia inmediata para evocar significados más profundos mediante asociaciones mentales, culturales o arquetípicas. Elemento que conecta lo visible con lo invisible, lo concreto con lo abstracto.
 

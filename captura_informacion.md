@@ -9,6 +9,12 @@ campos_secundarios:
     peso: 0.6
     descripción: "Sistemas tangibles de captura y acciones concretas"
 aliases: ["descarga cognitiva", "gestión de información", "liberación mental"]
+title: Titulo de la Página
+etiquetas:
+  - tag1
+tipo: campo_fundamental
+relacionado_a_campo: 0
+checkbox: false
 ---
 # Captura de Información
 

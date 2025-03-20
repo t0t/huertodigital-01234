@@ -9,6 +9,12 @@ campos_secundarios:
     peso: 0.5
     descripción: "Concreción como sistema específico de comunicación"
 aliases: ["sistema de signos", "lenguaje estructurado"]
+title: Titulo de la Página
+etiquetas:
+  - tag1
+tipo: campo_fundamental
+relacionado_a_campo: 0
+checkbox: false
 ---
 [[3|Sistema]] de signos, reglas y estructuras que permite la transmisión de [[2|información]] y la generación de [[3|significado]]. Conjunto organizado de elementos significantes que establece [[3|correspondencia]]s entre representaciones y realidades.
 

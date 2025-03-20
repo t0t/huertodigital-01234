@@ -1,3 +1,16 @@
+---
+title: Titulo de la Página
+etiquetas:
+  - tag1
+tipo: campo_fundamental
+relacionado_a_campo: 0
+palabras_clave_vinculadas:
+  - origen
+checkbox: false
+aliases:
+  - alias1
+---
+
 Entidad concreta que posee existencia material independiente y ocupa espacio físico. Manifestación específica y tangible que puede ser percibida por los sentidos y que persiste en el tiempo manteniendo características identificables.
 
 Características:

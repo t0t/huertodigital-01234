@@ -1,3 +1,16 @@
+---
+title: Titulo de la Página
+etiquetas:
+  - tag1
+tipo: campo_fundamental
+relacionado_a_campo: 0
+palabras_clave_vinculadas:
+  - origen
+checkbox: false
+aliases:
+  - alias1
+---
+
 Radiación electromagnética visible que permite la percepción visual y simboliza la claridad, comprensión y revelación. Fenómeno dual que manifiesta simultáneamente propiedades ondulatorias y corpusculares, transportando energía e información.
 
 Características:

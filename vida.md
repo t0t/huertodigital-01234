@@ -1,6 +1,14 @@
 ---
 campo_predominante: 4
 palabras_clave_vinculadas: ["vida", "organismo", "autoorganización", "metabolismo", "adaptación", "reproducción"]
+title: Titulo de la Página
+etiquetas:
+  - tag1
+tipo: campo_fundamental
+relacionado_a_campo: 0
+checkbox: false
+aliases:
+  - alias1
 ---
 Fenómeno dinámico caracterizado por la autoorganización, metabolismo, adaptación y reproducción. Manifestación de complejidad que emerge como sistema abierto capaz de mantenerse en estados alejados del equilibrio termodinámico mediante intercambio constante con su entorno.
 

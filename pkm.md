@@ -1,6 +1,14 @@
 ---
 campo_predominante: 4
 palabras_clave_vinculadas: ["gestión", "conocimiento", "información", "personal", "inteligencia"]
+title: Titulo de la Página
+etiquetas:
+  - tag1
+tipo: campo_fundamental
+relacionado_a_campo: 0
+checkbox: false
+aliases:
+  - alias1
 ---
 
 # PKM: Personal Knowledge Management

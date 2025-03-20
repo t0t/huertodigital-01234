@@ -1,3 +1,16 @@
+---
+title: Insight
+etiquetas:
+  - tag1
+tipo: campo_fundamental
+relacionado_a_campo: 0
+palabras_clave_vinculadas:
+  - origen
+checkbox: false
+aliases:
+  - alias1
+---
+
 Comprensión súbita y profunda que emerge cuando la [[mente]] reorganiza la [[información]] existente en un nuevo patrón coherente. Momento de claridad reveladora donde se perciben conexiones previamente no evidentes.
 
 Características:

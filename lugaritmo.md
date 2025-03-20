@@ -9,6 +9,12 @@ campos_secundarios:
     peso: 0.3
     descripción: "Espacio de potencialidad expansiva"
 aliases: ["patrón espaciotemporal", "huella evolutiva"]
+title: Titulo de la Página
+etiquetas:
+  - tag1
+tipo: campo_fundamental
+relacionado_a_campo: 0
+checkbox: false
 ---
 # El "Lugaritmo" como [[2|Memoria]] del Crecimiento
 

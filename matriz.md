@@ -1,3 +1,16 @@
+---
+title: Titulo de la Página
+etiquetas:
+  - tag1
+tipo: campo_fundamental
+relacionado_a_campo: 0
+palabras_clave_vinculadas:
+  - origen
+checkbox: false
+aliases:
+  - alias1
+---
+
 Estructura organizativa bidimensional o multidimensional que opera como sistema generativo y ordenador. Espacio conceptual o físico que establece relaciones entre elementos y permite la emergencia de patrones y propiedades sistémicas.
 
 Características:

@@ -1,3 +1,16 @@
+---
+title: Inteligencia
+etiquetas:
+  - tag1
+tipo: campo_fundamental
+relacionado_a_campo: 0
+palabras_clave_vinculadas:
+  - origen
+checkbox: false
+aliases:
+  - alias1
+---
+
 # Inteligencia
 
 Capacidad de [[1|comprender]], aprender, resolver problemas y adaptarse a situaciones nuevas mediante el uso del razonamiento, el pensamiento abstracto y la experiencia.

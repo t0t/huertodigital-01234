@@ -1,6 +1,14 @@
 ---
 campo_predominante: 1
 palabras_clave_vinculadas: ["modelo", "representación", "sistema"]
+title: Titulo de la Página
+etiquetas:
+  - tag1
+tipo: campo_fundamental
+relacionado_a_campo: 0
+checkbox: false
+aliases:
+  - alias1
 ---
 Representación simplificada y sistemática de un fenómeno, proceso o realidad que preserva sus características esenciales mientras reduce su complejidad. [[estructura]] cognitiva o formal que permite comprender, predecir o manipular aspectos de la realidad.
 

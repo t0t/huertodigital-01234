@@ -9,6 +9,12 @@ campos_secundarios:
     peso: 0.7
     descripción: "Manifestación concreta del deseo"
 aliases: ["principio del genio", "poder de la pregunta"]
+title: Titulo de la Página
+etiquetas:
+  - tag1
+tipo: campo_fundamental
+relacionado_a_campo: 0
+checkbox: false
 ---
 # El Efecto Aladino
 

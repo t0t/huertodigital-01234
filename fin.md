@@ -1,3 +1,16 @@
+---
+title: Titulo de la Página
+etiquetas:
+  - tag1
+tipo: campo_fundamental
+relacionado_a_campo: 0
+palabras_clave_vinculadas:
+  - origen
+checkbox: false
+aliases:
+  - alias1
+---
+
 Culminación o término de un [[proceso]] que marca la completitud de un ciclo y el cumplimiento de su propósito inherente. Estado donde un sistema alcanza su objetivo, realiza su potencial o concluye su desarrollo.
 
 Características:

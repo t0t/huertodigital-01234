@@ -1,15 +1,21 @@
 ---
 title: Bienvenido a Huerto Digital - 01234
+etiquetas:
+  - tag1
+tipo: campo_fundamental
+relacionado_a_campo: 0
+palabras_clave_vinculadas:
+  - origen
+checkbox: false
+aliases:
+  - alias1
 ---
 # Huerto Digital 01234
 
 ## Mi "segunda mente" aquí es un [[pardes|huerto]] para compartir
 
-![[logo.svg]]
-### Personal Knowledge Management (PKM)
+Personal Knowledge Management ([[pkm|PKM]])
 
-#### Indice
-
-- ¿Qué es [[que_es_01234|01234]]?
-
+### ¿Qué es [[que_es_01234|01234]]?
+![[assets/logo.svg]]
 ![[pardes]]

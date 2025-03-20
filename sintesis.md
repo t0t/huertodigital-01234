@@ -1,6 +1,14 @@
 ---
 campo_predominante: 3
 palabras_clave_vinculadas: ["síntesis", "integración", "unificación", "totalidad", "complejidad"]
+title: Titulo de la Página
+etiquetas:
+  - tag1
+tipo: campo_fundamental
+relacionado_a_campo: 0
+checkbox: false
+aliases:
+  - alias1
 ---
 Proceso integrador que combina elementos diversos para crear **una nueva totalidad coherente y unificada**. Operación cognitiva o material que trasciende la mera acumulación para generar estructuras emergentes con propiedades propias.
 

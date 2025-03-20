@@ -9,6 +9,12 @@ campos_secundarios:
     peso: 0.6
     descripción: "Operaciones mentales de comprensión e interpretación"
 aliases: ["arte de la interpretación", "teoría hermenéutica", "interpretación textual"]
+title: Titulo de la Página
+etiquetas:
+  - tag1
+tipo: campo_fundamental
+relacionado_a_campo: 0
+checkbox: false
 ---
 
 # Hermenéutica

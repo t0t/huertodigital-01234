@@ -1,3 +1,16 @@
+---
+title: Titulo de la Página
+etiquetas:
+  - tag1
+tipo: campo_fundamental
+relacionado_a_campo: 0
+palabras_clave_vinculadas:
+  - origen
+checkbox: false
+aliases:
+  - alias1
+---
+
 Proceso activo que asigna [[significado]] a signos, textos o fenómenos desde un marco hermenéutico específico. Acto de mediación donde el intérprete construye [[sentido]] a partir de la interacción entre el contenido interpretado y su propio horizonte de comprensión.
 
 Características:

@@ -1,3 +1,16 @@
+---
+title: Titulo de la Página
+etiquetas:
+  - tag1
+tipo: campo_fundamental
+relacionado_a_campo: 0
+palabras_clave_vinculadas:
+  - origen
+checkbox: false
+aliases:
+  - alias1
+---
+
 Capacidad de percibir, reconocer y establecer distinciones significativas entre conceptos, fenómenos o valores. [[2|Proceso]] cognitivo que permite diferenciar cualidades esenciales y establecer juicios basados en criterios relevantes.
 
 Características:

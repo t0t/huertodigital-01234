@@ -1,3 +1,16 @@
+---
+title: Titulo de la Página
+etiquetas:
+  - tag1
+tipo: campo_fundamental
+relacionado_a_campo: 0
+palabras_clave_vinculadas:
+  - origen
+checkbox: false
+aliases:
+  - alias1
+---
+
 Proceso comunicativo que busca hacer comprensible un fenómeno, concepto o situación, estableciendo conexiones causales, lógicas o conceptuales. Acto de desplegar y clarificar lo complejo mediante recursos cognitivos como [[analogía]]s, ejemplos y relaciones sistemáticas.
 
 Características:

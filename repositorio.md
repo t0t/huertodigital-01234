@@ -9,6 +9,12 @@ campos_secundarios:
     peso: 0.6
     descripción: "Organización estructural de los contenidos"
 aliases: ["almacén", "contenedor", "depósito"]
+title: Titulo de la Página
+etiquetas:
+  - tag1
+tipo: campo_fundamental
+relacionado_a_campo: 0
+checkbox: false
 ---
 [[0|Espacio]] contenedor de [[0|potencialidades]] que alberga y preserva elementos en estado latente, constituyendo un campo de [[0|posibilidades]] disponibles. [[0|Fuente]] de recursos y contenidos que pueden ser accedidos, transformados o actualizados según necesidades específicas.
 

@@ -1,11 +1,24 @@
 ---
 campo_predominante: 2
-palabras_clave_vinculadas: ["estructura", "recipiente", "vasija", "contención"]
+palabras_clave_vinculadas:
+  - estructura
+  - recipiente
+  - vasija
+  - contención
 campos_secundarios:
   - campo: 0
     peso: 0.9
-    descripción: "Espacio potencial creado por la contracción primordial"
-aliases: ["kelim", "recipiente cabalístico", "vasija"]
+    descripción: Espacio potencial creado por la contracción primordial
+aliases:
+  - kelim
+  - recipiente cabalístico
+  - vasija
+title: Kli
+etiquetas:
+  - tag1
+tipo: campo_fundamental
+relacionado_a_campo: 2
+checkbox: false
 ---
 # Kli (כלי)
 

@@ -6,6 +6,12 @@ campos_secundarios:
     peso: 0.7
     descripción: "Estructura organizativa"
 aliases: ["sistema de conocimiento interconectado", "ecología del saber"]
+title: Titulo de la Página
+etiquetas:
+  - tag1
+tipo: campo_fundamental
+relacionado_a_campo: 0
+checkbox: false
 ---
 # Red Coherente de Conocimiento
 

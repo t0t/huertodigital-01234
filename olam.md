@@ -1,3 +1,16 @@
+---
+title: Titulo de la Página
+etiquetas:
+  - tag1
+tipo: campo_fundamental
+relacionado_a_campo: 0
+palabras_clave_vinculadas:
+  - origen
+checkbox: false
+aliases:
+  - alias1
+---
+
 # Olam (עולם)
 
 Término hebreo que significa "mundo" o "universo", pero que en la tradición cabalística se refiere a un nivel específico de la realidad o dimensión de la existencia. Representa una esfera ontológica con sus propias leyes, estructuras y modos de manifestación.

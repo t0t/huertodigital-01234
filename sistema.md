@@ -9,6 +9,12 @@ campos_secundarios:
     peso: 0.5
     descripción: "Unidad funcional e identidad como totalidad"
 aliases: ["conjunto organizado", "totalidad integrada"]
+title: Titulo de la Página
+etiquetas:
+  - tag1
+tipo: campo_fundamental
+relacionado_a_campo: 0
+checkbox: false
 ---
 ## [[3|Sistema]] Inteligente Vivo (SIV)
 

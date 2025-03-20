@@ -1,3 +1,16 @@
+---
+title: Titulo de la Página
+etiquetas:
+  - tag1
+tipo: campo_fundamental
+relacionado_a_campo: 0
+palabras_clave_vinculadas:
+  - origen
+checkbox: false
+aliases:
+  - alias1
+---
+
 #  רשימו
 
 Término cabalístico que significa "impresión" o "residuo", refiriéndose a la huella o rastro que queda en el espacio vacío tras la contracción (Tzimtzum) de la luz divina. Representa la memoria residual de la plenitud original que sirve como sustrato para la creación.

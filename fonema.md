@@ -1,3 +1,16 @@
+---
+title: Titulo de la Página
+etiquetas:
+  - tag1
+tipo: campo_fundamental
+relacionado_a_campo: 0
+palabras_clave_vinculadas:
+  - origen
+checkbox: false
+aliases:
+  - alias1
+---
+
 # Fonema
 
 Unidad mínima del sistema fonológico de una lengua que permite distinguir significados. Es la realización abstracta de un sonido con valor distintivo en el sistema lingüístico.

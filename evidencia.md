@@ -1,6 +1,14 @@
 ---
 campo_predominante: 4
 palabras_clave_vinculadas: ["evidencia", "verificación", "dato", "prueba", "fundamentación", "conocimiento", "obvio"]
+title: Titulo de la Página
+etiquetas:
+  - tag1
+tipo: campo_fundamental
+relacionado_a_campo: 0
+checkbox: false
+aliases:
+  - alias1
 ---
 Manifestación perceptible o dato verificable que sustenta o confirma la existencia, validez o verdad de un fenómeno, hipótesis o afirmación. Base empírica o racional que fundamenta el conocimiento.
 

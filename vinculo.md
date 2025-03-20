@@ -9,6 +9,12 @@ campos_secundarios:
     peso: 0.7
     descripción: "Manifestación concreta y observable de la relación"
 aliases: ["enlace", "ligadura", "nexo relacional"]
+title: Titulo de la Página
+etiquetas:
+  - tag1
+tipo: campo_fundamental
+relacionado_a_campo: 0
+checkbox: false
 ---
 # Vínculo
 
