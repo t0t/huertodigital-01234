@@ -1,6 +1,6 @@
 {
   "vaultName": "huertodigital-01234",
-  "lastExport": 1742486396549,
+  "lastExport": 1742487194751,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon",
   "useCustomHeadContent": false,
@@ -9,255 +9,6 @@
     "assets/mapa-1.png",
     "assets/tag_map.svg",
     "assets/tag-map",
-    "Mapas/esquema_2.md",
-    "Mapas/esquema_01234_base.md",
-    "Mapas/esquema_global.md",
-    "Mapas/estructura_vault.md",
-    "Mapas/grafico_2025-03-20 11.02.28.md",
-    "Mapas/Huerto Digital - 01234.canvas",
-    "Mapas/mapa-1.canvas",
-    "Mapas/tag_map.md",
-    "Presentaciones/Pase Diapositivas/css/slides-extended.css",
-    "Presentaciones/Pase Diapositivas/dist/css/print/paper.scss",
-    "Presentaciones/Pase Diapositivas/dist/css/print/pdf.scss",
-    "Presentaciones/Pase Diapositivas/dist/css/theme/source/beige.scss",
-    "Presentaciones/Pase Diapositivas/dist/css/theme/source/black.scss",
-    "Presentaciones/Pase Diapositivas/dist/css/theme/source/black-contrast.scss",
-    "Presentaciones/Pase Diapositivas/dist/css/theme/source/blood.scss",
-    "Presentaciones/Pase Diapositivas/dist/css/theme/source/dracula.scss",
-    "Presentaciones/Pase Diapositivas/dist/css/theme/source/league.scss",
-    "Presentaciones/Pase Diapositivas/dist/css/theme/source/moon.scss",
-    "Presentaciones/Pase Diapositivas/dist/css/theme/source/night.scss",
-    "Presentaciones/Pase Diapositivas/dist/css/theme/source/serif.scss",
-    "Presentaciones/Pase Diapositivas/dist/css/theme/source/simple.scss",
-    "Presentaciones/Pase Diapositivas/dist/css/theme/source/sky.scss",
-    "Presentaciones/Pase Diapositivas/dist/css/theme/source/solarized.scss",
-    "Presentaciones/Pase Diapositivas/dist/css/theme/source/white.scss",
-    "Presentaciones/Pase Diapositivas/dist/css/theme/source/white-contrast.scss",
-    "Presentaciones/Pase Diapositivas/dist/css/theme/template/exposer.scss",
-    "Presentaciones/Pase Diapositivas/dist/css/theme/template/mixins.scss",
-    "Presentaciones/Pase Diapositivas/dist/css/theme/template/settings.scss",
-    "Presentaciones/Pase Diapositivas/dist/css/theme/template/theme.scss",
-    "Presentaciones/Pase Diapositivas/dist/css/theme/README.md",
-    "Presentaciones/Pase Diapositivas/dist/css/layout.scss",
-    "Presentaciones/Pase Diapositivas/dist/css/reveal.scss",
-    "Presentaciones/Pase Diapositivas/dist/fontawesome/all.min.js",
-    "Presentaciones/Pase Diapositivas/dist/theme/fonts/league-gothic/league-gothic.woff",
-    "Presentaciones/Pase Diapositivas/dist/theme/fonts/league-gothic/league-gothic.ttf",
-    "Presentaciones/Pase Diapositivas/dist/theme/fonts/league-gothic/league-gothic.eot",
-    "Presentaciones/Pase Diapositivas/dist/theme/fonts/league-gothic/league-gothic.css",
-    "Presentaciones/Pase Diapositivas/dist/theme/fonts/league-gothic/LICENSE",
-    "Presentaciones/Pase Diapositivas/dist/theme/fonts/source-sans-pro/LICENSE",
-    "Presentaciones/Pase Diapositivas/dist/theme/fonts/source-sans-pro/source-sans-pro.css",
-    "Presentaciones/Pase Diapositivas/dist/theme/fonts/source-sans-pro/source-sans-pro-italic.woff",
-    "Presentaciones/Pase Diapositivas/dist/theme/fonts/source-sans-pro/source-sans-pro-italic.ttf",
-    "Presentaciones/Pase Diapositivas/dist/theme/fonts/source-sans-pro/source-sans-pro-italic.eot",
-    "Presentaciones/Pase Diapositivas/dist/theme/fonts/source-sans-pro/source-sans-pro-regular.woff",
-    "Presentaciones/Pase Diapositivas/dist/theme/fonts/source-sans-pro/source-sans-pro-regular.ttf",
-    "Presentaciones/Pase Diapositivas/dist/theme/fonts/source-sans-pro/source-sans-pro-regular.eot",
-    "Presentaciones/Pase Diapositivas/dist/theme/fonts/source-sans-pro/source-sans-pro-semibold.woff",
-    "Presentaciones/Pase Diapositivas/dist/theme/fonts/source-sans-pro/source-sans-pro-semibold.ttf",
-    "Presentaciones/Pase Diapositivas/dist/theme/fonts/source-sans-pro/source-sans-pro-semibold.eot",
-    "Presentaciones/Pase Diapositivas/dist/theme/fonts/source-sans-pro/source-sans-pro-semibolditalic.woff",
-    "Presentaciones/Pase Diapositivas/dist/theme/fonts/source-sans-pro/source-sans-pro-semibolditalic.ttf",
-    "Presentaciones/Pase Diapositivas/dist/theme/fonts/source-sans-pro/source-sans-pro-semibolditalic.eot",
-    "Presentaciones/Pase Diapositivas/dist/theme/beige.css",
-    "Presentaciones/Pase Diapositivas/dist/theme/black.css",
-    "Presentaciones/Pase Diapositivas/dist/theme/black-contrast.css",
-    "Presentaciones/Pase Diapositivas/dist/theme/blood.css",
-    "Presentaciones/Pase Diapositivas/dist/theme/consult.css",
-    "Presentaciones/Pase Diapositivas/dist/theme/dracula.css",
-    "Presentaciones/Pase Diapositivas/dist/theme/league.css",
-    "Presentaciones/Pase Diapositivas/dist/theme/mattropolis.css",
-    "Presentaciones/Pase Diapositivas/dist/theme/moon.css",
-    "Presentaciones/Pase Diapositivas/dist/theme/night.css",
-    "Presentaciones/Pase Diapositivas/dist/theme/serif.css",
-    "Presentaciones/Pase Diapositivas/dist/theme/simple.css",
-    "Presentaciones/Pase Diapositivas/dist/theme/sky.css",
-    "Presentaciones/Pase Diapositivas/dist/theme/solarized.css",
-    "Presentaciones/Pase Diapositivas/dist/theme/white.css",
-    "Presentaciones/Pase Diapositivas/dist/theme/white_contrast_compact_verbatim_headers.css",
-    "Presentaciones/Pase Diapositivas/dist/theme/white-contrast.css",
-    "Presentaciones/Pase Diapositivas/dist/reset.css",
-    "Presentaciones/Pase Diapositivas/dist/reveal.js.map",
-    "Presentaciones/Pase Diapositivas/dist/reveal.css",
-    "Presentaciones/Pase Diapositivas/dist/reveal.esm.js.map",
-    "Presentaciones/Pase Diapositivas/Huerto Digital/assets/tag_map.svg",
-    "Presentaciones/Pase Diapositivas/plugin/chalkboard/img/blackboard.png",
-    "Presentaciones/Pase Diapositivas/plugin/chalkboard/img/boardmarker-black.png",
-    "Presentaciones/Pase Diapositivas/plugin/chalkboard/img/boardmarker-blue.png",
-    "Presentaciones/Pase Diapositivas/plugin/chalkboard/img/boardmarker-green.png",
-    "Presentaciones/Pase Diapositivas/plugin/chalkboard/img/boardmarker-orange.png",
-    "Presentaciones/Pase Diapositivas/plugin/chalkboard/img/boardmarker-purple.png",
-    "Presentaciones/Pase Diapositivas/plugin/chalkboard/img/boardmarker-red.png",
-    "Presentaciones/Pase Diapositivas/plugin/chalkboard/img/boardmarker-yellow.png",
-    "Presentaciones/Pase Diapositivas/plugin/chalkboard/img/chalk-blue.png",
-    "Presentaciones/Pase Diapositivas/plugin/chalkboard/img/chalk-green.png",
-    "Presentaciones/Pase Diapositivas/plugin/chalkboard/img/chalk-orange.png",
-    "Presentaciones/Pase Diapositivas/plugin/chalkboard/img/chalk-purple.png",
-    "Presentaciones/Pase Diapositivas/plugin/chalkboard/img/chalk-red.png",
-    "Presentaciones/Pase Diapositivas/plugin/chalkboard/img/chalk-white.png",
-    "Presentaciones/Pase Diapositivas/plugin/chalkboard/img/chalk-yellow.png",
-    "Presentaciones/Pase Diapositivas/plugin/chalkboard/img/sponge.png",
-    "Presentaciones/Pase Diapositivas/plugin/chalkboard/img/whiteboard.png",
-    "Presentaciones/Pase Diapositivas/plugin/chalkboard/plugin.js",
-    "Presentaciones/Pase Diapositivas/plugin/chalkboard/README.md",
-    "Presentaciones/Pase Diapositivas/plugin/chalkboard/style.css",
-    "Presentaciones/Pase Diapositivas/plugin/chart/chart.umd.js",
-    "Presentaciones/Pase Diapositivas/plugin/chart/plugin.js",
-    "Presentaciones/Pase Diapositivas/plugin/chart/README.md",
-    "Presentaciones/Pase Diapositivas/plugin/customcontrols/plugin.js",
-    "Presentaciones/Pase Diapositivas/plugin/customcontrols/README.md",
-    "Presentaciones/Pase Diapositivas/plugin/customcontrols/style.css",
-    "Presentaciones/Pase Diapositivas/plugin/elapsed-time-bar/elapsed-time-bar.js",
-    "Presentaciones/Pase Diapositivas/plugin/highlight/highlight.js",
-    "Presentaciones/Pase Diapositivas/plugin/highlight/highlight.esm.js",
-    "Presentaciones/Pase Diapositivas/plugin/highlight/monokai.css",
-    "Presentaciones/Pase Diapositivas/plugin/highlight/plugin.js",
-    "Presentaciones/Pase Diapositivas/plugin/highlight/vs2015.css",
-    "Presentaciones/Pase Diapositivas/plugin/highlight/zenburn.css",
-    "Presentaciones/Pase Diapositivas/plugin/markdown/markdown.js",
-    "Presentaciones/Pase Diapositivas/plugin/markdown/markdown.esm.js",
-    "Presentaciones/Pase Diapositivas/plugin/markdown/plugin.js",
-    "Presentaciones/Pase Diapositivas/plugin/math/mathjax/a11y/assistive-mml.js",
-    "Presentaciones/Pase Diapositivas/plugin/math/mathjax/a11y/complexity.js",
-    "Presentaciones/Pase Diapositivas/plugin/math/mathjax/a11y/explorer.js",
-    "Presentaciones/Pase Diapositivas/plugin/math/mathjax/a11y/semantic-enrich.js",
-    "Presentaciones/Pase Diapositivas/plugin/math/mathjax/a11y/sre.js",
-    "Presentaciones/Pase Diapositivas/plugin/math/mathjax/adaptors/liteDOM.js",
-    "Presentaciones/Pase Diapositivas/plugin/math/mathjax/input/mml/extensions/mml3.js",
-    "Presentaciones/Pase Diapositivas/plugin/math/mathjax/input/mml/extensions/mml3.sef.json",
-    "Presentaciones/Pase Diapositivas/plugin/math/mathjax/input/mml/entities.js",
-    "Presentaciones/Pase Diapositivas/plugin/math/mathjax/input/tex/extensions/action.js",
-    "Presentaciones/Pase Diapositivas/plugin/math/mathjax/input/tex/extensions/all-packages.js",
-    "Presentaciones/Pase Diapositivas/plugin/math/mathjax/input/tex/extensions/ams.js",
-    "Presentaciones/Pase Diapositivas/plugin/math/mathjax/input/tex/extensions/amscd.js",
-    "Presentaciones/Pase Diapositivas/plugin/math/mathjax/input/tex/extensions/autoload.js",
-    "Presentaciones/Pase Diapositivas/plugin/math/mathjax/input/tex/extensions/bbox.js",
-    "Presentaciones/Pase Diapositivas/plugin/math/mathjax/input/tex/extensions/boldsymbol.js",
-    "Presentaciones/Pase Diapositivas/plugin/math/mathjax/input/tex/extensions/braket.js",
-    "Presentaciones/Pase Diapositivas/plugin/math/mathjax/input/tex/extensions/bussproofs.js",
-    "Presentaciones/Pase Diapositivas/plugin/math/mathjax/input/tex/extensions/cancel.js",
-    "Presentaciones/Pase Diapositivas/plugin/math/mathjax/input/tex/extensions/cases.js",
-    "Presentaciones/Pase Diapositivas/plugin/math/mathjax/input/tex/extensions/centernot.js",
-    "Presentaciones/Pase Diapositivas/plugin/math/mathjax/input/tex/extensions/color.js",
-    "Presentaciones/Pase Diapositivas/plugin/math/mathjax/input/tex/extensions/colortbl.js",
-    "Presentaciones/Pase Diapositivas/plugin/math/mathjax/input/tex/extensions/colorv2.js",
-    "Presentaciones/Pase Diapositivas/plugin/math/mathjax/input/tex/extensions/configmacros.js",
-    "Presentaciones/Pase Diapositivas/plugin/math/mathjax/input/tex/extensions/empheq.js",
-    "Presentaciones/Pase Diapositivas/plugin/math/mathjax/input/tex/extensions/enclose.js",
-    "Presentaciones/Pase Diapositivas/plugin/math/mathjax/input/tex/extensions/extpfeil.js",
-    "Presentaciones/Pase Diapositivas/plugin/math/mathjax/input/tex/extensions/gensymb.js",
-    "Presentaciones/Pase Diapositivas/plugin/math/mathjax/input/tex/extensions/html.js",
-    "Presentaciones/Pase Diapositivas/plugin/math/mathjax/input/tex/extensions/mathtools.js",
-    "Presentaciones/Pase Diapositivas/plugin/math/mathjax/input/tex/extensions/mhchem.js",
-    "Presentaciones/Pase Diapositivas/plugin/math/mathjax/input/tex/extensions/newcommand.js",
-    "Presentaciones/Pase Diapositivas/plugin/math/mathjax/input/tex/extensions/noerrors.js",
-    "Presentaciones/Pase Diapositivas/plugin/math/mathjax/input/tex/extensions/noundefined.js",
-    "Presentaciones/Pase Diapositivas/plugin/math/mathjax/input/tex/extensions/physics.js",
-    "Presentaciones/Pase Diapositivas/plugin/math/mathjax/input/tex/extensions/require.js",
-    "Presentaciones/Pase Diapositivas/plugin/math/mathjax/input/tex/extensions/setoptions.js",
-    "Presentaciones/Pase Diapositivas/plugin/math/mathjax/input/tex/extensions/tagformat.js",
-    "Presentaciones/Pase Diapositivas/plugin/math/mathjax/input/tex/extensions/textcomp.js",
-    "Presentaciones/Pase Diapositivas/plugin/math/mathjax/input/tex/extensions/textmacros.js",
-    "Presentaciones/Pase Diapositivas/plugin/math/mathjax/input/tex/extensions/unicode.js",
-    "Presentaciones/Pase Diapositivas/plugin/math/mathjax/input/tex/extensions/upgreek.js",
-    "Presentaciones/Pase Diapositivas/plugin/math/mathjax/input/tex/extensions/verb.js",
-    "Presentaciones/Pase Diapositivas/plugin/math/mathjax/input/asciimath.js",
-    "Presentaciones/Pase Diapositivas/plugin/math/mathjax/input/mml.js",
-    "Presentaciones/Pase Diapositivas/plugin/math/mathjax/input/tex.js",
-    "Presentaciones/Pase Diapositivas/plugin/math/mathjax/input/tex-base.js",
-    "Presentaciones/Pase Diapositivas/plugin/math/mathjax/input/tex-full.js",
-    "Presentaciones/Pase Diapositivas/plugin/math/mathjax/output/chtml/fonts/woff-v2/MathJax_AMS-Regular.woff",
-    "Presentaciones/Pase Diapositivas/plugin/math/mathjax/output/chtml/fonts/woff-v2/MathJax_Calligraphic-Bold.woff",
-    "Presentaciones/Pase Diapositivas/plugin/math/mathjax/output/chtml/fonts/woff-v2/MathJax_Calligraphic-Regular.woff",
-    "Presentaciones/Pase Diapositivas/plugin/math/mathjax/output/chtml/fonts/woff-v2/MathJax_Fraktur-Bold.woff",
-    "Presentaciones/Pase Diapositivas/plugin/math/mathjax/output/chtml/fonts/woff-v2/MathJax_Fraktur-Regular.woff",
-    "Presentaciones/Pase Diapositivas/plugin/math/mathjax/output/chtml/fonts/woff-v2/MathJax_Main-Bold.woff",
-    "Presentaciones/Pase Diapositivas/plugin/math/mathjax/output/chtml/fonts/woff-v2/MathJax_Main-Italic.woff",
-    "Presentaciones/Pase Diapositivas/plugin/math/mathjax/output/chtml/fonts/woff-v2/MathJax_Main-Regular.woff",
-    "Presentaciones/Pase Diapositivas/plugin/math/mathjax/output/chtml/fonts/woff-v2/MathJax_Math-BoldItalic.woff",
-    "Presentaciones/Pase Diapositivas/plugin/math/mathjax/output/chtml/fonts/woff-v2/MathJax_Math-Italic.woff",
-    "Presentaciones/Pase Diapositivas/plugin/math/mathjax/output/chtml/fonts/woff-v2/MathJax_Math-Regular.woff",
-    "Presentaciones/Pase Diapositivas/plugin/math/mathjax/output/chtml/fonts/woff-v2/MathJax_SansSerif-Bold.woff",
-    "Presentaciones/Pase Diapositivas/plugin/math/mathjax/output/chtml/fonts/woff-v2/MathJax_SansSerif-Italic.woff",
-    "Presentaciones/Pase Diapositivas/plugin/math/mathjax/output/chtml/fonts/woff-v2/MathJax_SansSerif-Regular.woff",
-    "Presentaciones/Pase Diapositivas/plugin/math/mathjax/output/chtml/fonts/woff-v2/MathJax_Script-Regular.woff",
-    "Presentaciones/Pase Diapositivas/plugin/math/mathjax/output/chtml/fonts/woff-v2/MathJax_Size1-Regular.woff",
-    "Presentaciones/Pase Diapositivas/plugin/math/mathjax/output/chtml/fonts/woff-v2/MathJax_Size2-Regular.woff",
-    "Presentaciones/Pase Diapositivas/plugin/math/mathjax/output/chtml/fonts/woff-v2/MathJax_Size3-Regular.woff",
-    "Presentaciones/Pase Diapositivas/plugin/math/mathjax/output/chtml/fonts/woff-v2/MathJax_Size4-Regular.woff",
-    "Presentaciones/Pase Diapositivas/plugin/math/mathjax/output/chtml/fonts/woff-v2/MathJax_Typewriter-Regular.woff",
-    "Presentaciones/Pase Diapositivas/plugin/math/mathjax/output/chtml/fonts/woff-v2/MathJax_Vector-Bold.woff",
-    "Presentaciones/Pase Diapositivas/plugin/math/mathjax/output/chtml/fonts/woff-v2/MathJax_Vector-Regular.woff",
-    "Presentaciones/Pase Diapositivas/plugin/math/mathjax/output/chtml/fonts/woff-v2/MathJax_Zero.woff",
-    "Presentaciones/Pase Diapositivas/plugin/math/mathjax/output/chtml/fonts/tex.js",
-    "Presentaciones/Pase Diapositivas/plugin/math/mathjax/output/svg/fonts/tex.js",
-    "Presentaciones/Pase Diapositivas/plugin/math/mathjax/output/chtml.js",
-    "Presentaciones/Pase Diapositivas/plugin/math/mathjax/output/svg.js",
-    "Presentaciones/Pase Diapositivas/plugin/math/mathjax/sre/mathmaps/base.json",
-    "Presentaciones/Pase Diapositivas/plugin/math/mathjax/sre/mathmaps/ca.json",
-    "Presentaciones/Pase Diapositivas/plugin/math/mathjax/sre/mathmaps/da.json",
-    "Presentaciones/Pase Diapositivas/plugin/math/mathjax/sre/mathmaps/de.json",
-    "Presentaciones/Pase Diapositivas/plugin/math/mathjax/sre/mathmaps/en.json",
-    "Presentaciones/Pase Diapositivas/plugin/math/mathjax/sre/mathmaps/es.json",
-    "Presentaciones/Pase Diapositivas/plugin/math/mathjax/sre/mathmaps/fr.json",
-    "Presentaciones/Pase Diapositivas/plugin/math/mathjax/sre/mathmaps/hi.json",
-    "Presentaciones/Pase Diapositivas/plugin/math/mathjax/sre/mathmaps/it.json",
-    "Presentaciones/Pase Diapositivas/plugin/math/mathjax/sre/mathmaps/nb.json",
-    "Presentaciones/Pase Diapositivas/plugin/math/mathjax/sre/mathmaps/nemeth.json",
-    "Presentaciones/Pase Diapositivas/plugin/math/mathjax/sre/mathmaps/nn.json",
-    "Presentaciones/Pase Diapositivas/plugin/math/mathjax/sre/mathmaps/sv.json",
-    "Presentaciones/Pase Diapositivas/plugin/math/mathjax/ui/lazy.js",
-    "Presentaciones/Pase Diapositivas/plugin/math/mathjax/ui/menu.js",
-    "Presentaciones/Pase Diapositivas/plugin/math/mathjax/ui/safe.js",
-    "Presentaciones/Pase Diapositivas/plugin/math/mathjax/core.js",
-    "Presentaciones/Pase Diapositivas/plugin/math/mathjax/latest.js",
-    "Presentaciones/Pase Diapositivas/plugin/math/mathjax/loader.js",
-    "Presentaciones/Pase Diapositivas/plugin/math/mathjax/mml-chtml.js",
-    "Presentaciones/Pase Diapositivas/plugin/math/mathjax/mml-svg.js",
-    "Presentaciones/Pase Diapositivas/plugin/math/mathjax/node-main.js",
-    "Presentaciones/Pase Diapositivas/plugin/math/mathjax/startup.js",
-    "Presentaciones/Pase Diapositivas/plugin/math/mathjax/tex-chtml.js",
-    "Presentaciones/Pase Diapositivas/plugin/math/mathjax/tex-chtml-full.js",
-    "Presentaciones/Pase Diapositivas/plugin/math/mathjax/tex-chtml-full-speech.js",
-    "Presentaciones/Pase Diapositivas/plugin/math/mathjax/tex-mml-chtml.js",
-    "Presentaciones/Pase Diapositivas/plugin/math/mathjax/tex-mml-svg.js",
-    "Presentaciones/Pase Diapositivas/plugin/math/mathjax/tex-svg.js",
-    "Presentaciones/Pase Diapositivas/plugin/math/mathjax/tex-svg-full.js",
-    "Presentaciones/Pase Diapositivas/plugin/math/katex.js",
-    "Presentaciones/Pase Diapositivas/plugin/math/math.js",
-    "Presentaciones/Pase Diapositivas/plugin/math/math.esm.js",
-    "Presentaciones/Pase Diapositivas/plugin/math/mathjax2.js",
-    "Presentaciones/Pase Diapositivas/plugin/math/mathjax3.js",
-    "Presentaciones/Pase Diapositivas/plugin/math/plugin.js",
-    "Presentaciones/Pase Diapositivas/plugin/menu/bower.json",
-    "Presentaciones/Pase Diapositivas/plugin/menu/CONTRIBUTING.md",
-    "Presentaciones/Pase Diapositivas/plugin/menu/gulpfile.js",
-    "Presentaciones/Pase Diapositivas/plugin/menu/LICENSE",
-    "Presentaciones/Pase Diapositivas/plugin/menu/menu.js",
-    "Presentaciones/Pase Diapositivas/plugin/menu/menu.css",
-    "Presentaciones/Pase Diapositivas/plugin/menu/menu.esm.js",
-    "Presentaciones/Pase Diapositivas/plugin/menu/package.json",
-    "Presentaciones/Pase Diapositivas/plugin/menu/plugin.js",
-    "Presentaciones/Pase Diapositivas/plugin/menu/README.md",
-    "Presentaciones/Pase Diapositivas/plugin/mermaid/mermaid.js",
-    "Presentaciones/Pase Diapositivas/plugin/mermaid/mermaid.esm.js",
-    "Presentaciones/Pase Diapositivas/plugin/mermaid/plugin.js",
-    "Presentaciones/Pase Diapositivas/plugin/notes/notes.js",
-    "Presentaciones/Pase Diapositivas/plugin/notes/notes.esm.js",
-    "Presentaciones/Pase Diapositivas/plugin/notes/plugin.js",
-    "Presentaciones/Pase Diapositivas/plugin/notes/speaker-view.html",
-    "Presentaciones/Pase Diapositivas/plugin/reveal-pointer/pointer.js",
-    "Presentaciones/Pase Diapositivas/plugin/reveal-pointer/pointer.css",
-    "Presentaciones/Pase Diapositivas/plugin/search/plugin.js",
-    "Presentaciones/Pase Diapositivas/plugin/search/search.js",
-    "Presentaciones/Pase Diapositivas/plugin/search/search.esm.js",
-    "Presentaciones/Pase Diapositivas/plugin/zoom/plugin.js",
-    "Presentaciones/Pase Diapositivas/plugin/zoom/zoom.js",
-    "Presentaciones/Pase Diapositivas/plugin/zoom/zoom.esm.js",
-    "Presentaciones/Pase Diapositivas/index.html",
-    "Presentaciones/Pase Diapositivas.md",
     "0.md",
     "1.md",
     "2.md",
@@ -439,2409 +190,909 @@
   ],
   "fileInfo": {
     "assets/mapa-1.png": {
-      "modifiedTime": 1742486396549,
+      "modifiedTime": 1742487194751,
       "sourceSize": 286510,
       "exportedPath": "assets/mapa-1.png",
       "dependencies": []
     },
     "assets/tag_map.svg": {
-      "modifiedTime": 1742486396549,
+      "modifiedTime": 1742487194751,
       "sourceSize": 260368,
       "exportedPath": "assets/tag_map.svg",
       "dependencies": []
     },
     "assets/tag-map": {
-      "modifiedTime": 1742486396549,
+      "modifiedTime": 1742487194751,
       "sourceSize": 258148,
       "exportedPath": "assets/tag-map/tag-map.",
       "dependencies": []
     },
-    "Mapas/esquema_2.md": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 38721,
-      "exportedPath": "mapas/esquema_2.html",
-      "dependencies": []
-    },
-    "Mapas/esquema_01234_base.md": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 26271,
-      "exportedPath": "mapas/esquema_01234_base.html",
-      "dependencies": []
-    },
-    "Mapas/esquema_global.md": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 55670,
-      "exportedPath": "mapas/esquema_global.html",
-      "dependencies": []
-    },
-    "Mapas/estructura_vault.md": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 60373,
-      "exportedPath": "mapas/estructura_vault.html",
-      "dependencies": []
-    },
-    "Mapas/grafico_2025-03-20 11.02.28.md": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 2250,
-      "exportedPath": "mapas/grafico_2025-03-20-11.02.28.html",
-      "dependencies": []
-    },
-    "Mapas/Huerto Digital - 01234.canvas": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 1987,
-      "exportedPath": "mapas/huerto-digital-01234.html",
-      "dependencies": []
-    },
-    "Mapas/mapa-1.canvas": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 9892,
-      "exportedPath": "mapas/mapa-1.html",
-      "dependencies": []
-    },
-    "Mapas/tag_map.md": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 204704,
-      "exportedPath": "mapas/tag_map.html",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/css/slides-extended.css": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 10566,
-      "exportedPath": "presentaciones/pase-diapositivas/css/slides-extended.css",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/dist/css/print/paper.scss": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 3023,
-      "exportedPath": "presentaciones/pase-diapositivas/dist/css/print/paper.scss",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/dist/css/print/pdf.scss": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 2925,
-      "exportedPath": "presentaciones/pase-diapositivas/dist/css/print/pdf.scss",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/dist/css/theme/source/beige.scss": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 1380,
-      "exportedPath": "presentaciones/pase-diapositivas/dist/css/theme/source/beige.scss",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/dist/css/theme/source/black.scss": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 1180,
-      "exportedPath": "presentaciones/pase-diapositivas/dist/css/theme/source/black.scss",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/dist/css/theme/source/black-contrast.scss": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 1368,
-      "exportedPath": "presentaciones/pase-diapositivas/dist/css/theme/source/black-contrast.scss",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/dist/css/theme/source/blood.scss": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 1987,
-      "exportedPath": "presentaciones/pase-diapositivas/dist/css/theme/source/blood.scss",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/dist/css/theme/source/dracula.scss": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 2165,
-      "exportedPath": "presentaciones/pase-diapositivas/dist/css/theme/source/dracula.scss",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/dist/css/theme/source/league.scss": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 1187,
-      "exportedPath": "presentaciones/pase-diapositivas/dist/css/theme/source/league.scss",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/dist/css/theme/source/moon.scss": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 1293,
-      "exportedPath": "presentaciones/pase-diapositivas/dist/css/theme/source/moon.scss",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/dist/css/theme/source/night.scss": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 1036,
-      "exportedPath": "presentaciones/pase-diapositivas/dist/css/theme/source/night.scss",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/dist/css/theme/source/serif.scss": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 1153,
-      "exportedPath": "presentaciones/pase-diapositivas/dist/css/theme/source/serif.scss",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/dist/css/theme/source/simple.scss": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 1322,
-      "exportedPath": "presentaciones/pase-diapositivas/dist/css/theme/source/simple.scss",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/dist/css/theme/source/sky.scss": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 1307,
-      "exportedPath": "presentaciones/pase-diapositivas/dist/css/theme/source/sky.scss",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/dist/css/theme/source/solarized.scss": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 1475,
-      "exportedPath": "presentaciones/pase-diapositivas/dist/css/theme/source/solarized.scss",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/dist/css/theme/source/white.scss": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 1250,
-      "exportedPath": "presentaciones/pase-diapositivas/dist/css/theme/source/white.scss",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/dist/css/theme/source/white-contrast.scss": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 1436,
-      "exportedPath": "presentaciones/pase-diapositivas/dist/css/theme/source/white-contrast.scss",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/dist/css/theme/template/exposer.scss": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 1241,
-      "exportedPath": "presentaciones/pase-diapositivas/dist/css/theme/template/exposer.scss",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/dist/css/theme/template/mixins.scss": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 1875,
-      "exportedPath": "presentaciones/pase-diapositivas/dist/css/theme/template/mixins.scss",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/dist/css/theme/template/settings.scss": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 1210,
-      "exportedPath": "presentaciones/pase-diapositivas/dist/css/theme/template/settings.scss",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/dist/css/theme/template/theme.scss": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 5827,
-      "exportedPath": "presentaciones/pase-diapositivas/dist/css/theme/template/theme.scss",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/dist/css/theme/README.md": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 1571,
-      "exportedPath": "presentaciones/pase-diapositivas/dist/css/theme/readme.html",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/dist/css/layout.scss": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 1474,
-      "exportedPath": "presentaciones/pase-diapositivas/dist/css/layout.scss",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/dist/css/reveal.scss": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 52069,
-      "exportedPath": "presentaciones/pase-diapositivas/dist/css/reveal.scss",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/dist/fontawesome/all.min.js": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 1530755,
-      "exportedPath": "presentaciones/pase-diapositivas/dist/fontawesome/all.min.js",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/dist/theme/fonts/league-gothic/league-gothic.woff": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 30764,
-      "exportedPath": "presentaciones/pase-diapositivas/dist/theme/fonts/league-gothic/league-gothic.woff",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/dist/theme/fonts/league-gothic/league-gothic.ttf": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 64256,
-      "exportedPath": "presentaciones/pase-diapositivas/dist/theme/fonts/league-gothic/league-gothic.ttf",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/dist/theme/fonts/league-gothic/league-gothic.eot": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 25696,
-      "exportedPath": "presentaciones/pase-diapositivas/dist/theme/fonts/league-gothic/league-gothic.eot",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/dist/theme/fonts/league-gothic/league-gothic.css": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 317,
-      "exportedPath": "presentaciones/pase-diapositivas/dist/theme/fonts/league-gothic/league-gothic.css",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/dist/theme/fonts/league-gothic/LICENSE": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 92,
-      "exportedPath": "presentaciones/pase-diapositivas/dist/theme/fonts/league-gothic/license/license.",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/dist/theme/fonts/source-sans-pro/LICENSE": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 4632,
-      "exportedPath": "presentaciones/pase-diapositivas/dist/theme/fonts/source-sans-pro/license/license.",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/dist/theme/fonts/source-sans-pro/source-sans-pro.css": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 1457,
-      "exportedPath": "presentaciones/pase-diapositivas/dist/theme/fonts/source-sans-pro/source-sans-pro.css",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/dist/theme/fonts/source-sans-pro/source-sans-pro-italic.woff": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 98556,
-      "exportedPath": "presentaciones/pase-diapositivas/dist/theme/fonts/source-sans-pro/source-sans-pro-italic.woff",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/dist/theme/fonts/source-sans-pro/source-sans-pro-italic.ttf": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 238084,
-      "exportedPath": "presentaciones/pase-diapositivas/dist/theme/fonts/source-sans-pro/source-sans-pro-italic.ttf",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/dist/theme/fonts/source-sans-pro/source-sans-pro-italic.eot": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 75720,
-      "exportedPath": "presentaciones/pase-diapositivas/dist/theme/fonts/source-sans-pro/source-sans-pro-italic.eot",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/dist/theme/fonts/source-sans-pro/source-sans-pro-regular.woff": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 114324,
-      "exportedPath": "presentaciones/pase-diapositivas/dist/theme/fonts/source-sans-pro/source-sans-pro-regular.woff",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/dist/theme/fonts/source-sans-pro/source-sans-pro-regular.ttf": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 288008,
-      "exportedPath": "presentaciones/pase-diapositivas/dist/theme/fonts/source-sans-pro/source-sans-pro-regular.ttf",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/dist/theme/fonts/source-sans-pro/source-sans-pro-regular.eot": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 88070,
-      "exportedPath": "presentaciones/pase-diapositivas/dist/theme/fonts/source-sans-pro/source-sans-pro-regular.eot",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/dist/theme/fonts/source-sans-pro/source-sans-pro-semibold.woff": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 115648,
-      "exportedPath": "presentaciones/pase-diapositivas/dist/theme/fonts/source-sans-pro/source-sans-pro-semibold.woff",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/dist/theme/fonts/source-sans-pro/source-sans-pro-semibold.ttf": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 284640,
-      "exportedPath": "presentaciones/pase-diapositivas/dist/theme/fonts/source-sans-pro/source-sans-pro-semibold.ttf",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/dist/theme/fonts/source-sans-pro/source-sans-pro-semibold.eot": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 89897,
-      "exportedPath": "presentaciones/pase-diapositivas/dist/theme/fonts/source-sans-pro/source-sans-pro-semibold.eot",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/dist/theme/fonts/source-sans-pro/source-sans-pro-semibolditalic.woff": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 98816,
-      "exportedPath": "presentaciones/pase-diapositivas/dist/theme/fonts/source-sans-pro/source-sans-pro-semibolditalic.woff",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/dist/theme/fonts/source-sans-pro/source-sans-pro-semibolditalic.ttf": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 240944,
-      "exportedPath": "presentaciones/pase-diapositivas/dist/theme/fonts/source-sans-pro/source-sans-pro-semibolditalic.ttf",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/dist/theme/fonts/source-sans-pro/source-sans-pro-semibolditalic.eot": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 75706,
-      "exportedPath": "presentaciones/pase-diapositivas/dist/theme/fonts/source-sans-pro/source-sans-pro-semibolditalic.eot",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/dist/theme/beige.css": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 8117,
-      "exportedPath": "presentaciones/pase-diapositivas/dist/theme/beige.css",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/dist/theme/black.css": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 7142,
-      "exportedPath": "presentaciones/pase-diapositivas/dist/theme/black.css",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/dist/theme/black-contrast.css": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 7311,
-      "exportedPath": "presentaciones/pase-diapositivas/dist/theme/black-contrast.css",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/dist/theme/blood.css": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 8029,
-      "exportedPath": "presentaciones/pase-diapositivas/dist/theme/blood.css",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/dist/theme/consult.css": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 5528,
-      "exportedPath": "presentaciones/pase-diapositivas/dist/theme/consult.css",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/dist/theme/dracula.css": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 7758,
-      "exportedPath": "presentaciones/pase-diapositivas/dist/theme/dracula.css",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/dist/theme/league.css": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 8141,
-      "exportedPath": "presentaciones/pase-diapositivas/dist/theme/league.css",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/dist/theme/mattropolis.css": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 162278,
-      "exportedPath": "presentaciones/pase-diapositivas/dist/theme/mattropolis.css",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/dist/theme/moon.css": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 7191,
-      "exportedPath": "presentaciones/pase-diapositivas/dist/theme/moon.css",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/dist/theme/night.css": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 7177,
-      "exportedPath": "presentaciones/pase-diapositivas/dist/theme/night.css",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/dist/theme/serif.css": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 7240,
-      "exportedPath": "presentaciones/pase-diapositivas/dist/theme/serif.css",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/dist/theme/simple.css": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 7377,
-      "exportedPath": "presentaciones/pase-diapositivas/dist/theme/simple.css",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/dist/theme/sky.css": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 7778,
-      "exportedPath": "presentaciones/pase-diapositivas/dist/theme/sky.css",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/dist/theme/solarized.css": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 7006,
-      "exportedPath": "presentaciones/pase-diapositivas/dist/theme/solarized.css",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/dist/theme/white.css": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 7112,
-      "exportedPath": "presentaciones/pase-diapositivas/dist/theme/white.css",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/dist/theme/white_contrast_compact_verbatim_headers.css": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 7205,
-      "exportedPath": "presentaciones/pase-diapositivas/dist/theme/white_contrast_compact_verbatim_headers.css",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/dist/theme/white-contrast.css": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 7298,
-      "exportedPath": "presentaciones/pase-diapositivas/dist/theme/white-contrast.css",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/dist/reset.css": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 871,
-      "exportedPath": "presentaciones/pase-diapositivas/dist/reset.css",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/dist/reveal.js.map": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 424789,
-      "exportedPath": "presentaciones/pase-diapositivas/dist/reveal.js.map",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/dist/reveal.css": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 52279,
-      "exportedPath": "presentaciones/pase-diapositivas/dist/reveal.css",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/dist/reveal.esm.js.map": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 424792,
-      "exportedPath": "presentaciones/pase-diapositivas/dist/reveal.esm.js.map",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/Huerto Digital/assets/tag_map.svg": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 260368,
-      "exportedPath": "presentaciones/pase-diapositivas/huerto-digital/assets/tag_map.svg",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/plugin/chalkboard/img/blackboard.png": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 32733,
-      "exportedPath": "presentaciones/pase-diapositivas/plugin/chalkboard/img/blackboard.png",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/plugin/chalkboard/img/boardmarker-black.png": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 2142,
-      "exportedPath": "presentaciones/pase-diapositivas/plugin/chalkboard/img/boardmarker-black.png",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/plugin/chalkboard/img/boardmarker-blue.png": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 2127,
-      "exportedPath": "presentaciones/pase-diapositivas/plugin/chalkboard/img/boardmarker-blue.png",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/plugin/chalkboard/img/boardmarker-green.png": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 2106,
-      "exportedPath": "presentaciones/pase-diapositivas/plugin/chalkboard/img/boardmarker-green.png",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/plugin/chalkboard/img/boardmarker-orange.png": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 2240,
-      "exportedPath": "presentaciones/pase-diapositivas/plugin/chalkboard/img/boardmarker-orange.png",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/plugin/chalkboard/img/boardmarker-purple.png": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 2044,
-      "exportedPath": "presentaciones/pase-diapositivas/plugin/chalkboard/img/boardmarker-purple.png",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/plugin/chalkboard/img/boardmarker-red.png": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 2119,
-      "exportedPath": "presentaciones/pase-diapositivas/plugin/chalkboard/img/boardmarker-red.png",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/plugin/chalkboard/img/boardmarker-yellow.png": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 2105,
-      "exportedPath": "presentaciones/pase-diapositivas/plugin/chalkboard/img/boardmarker-yellow.png",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/plugin/chalkboard/img/chalk-blue.png": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 5150,
-      "exportedPath": "presentaciones/pase-diapositivas/plugin/chalkboard/img/chalk-blue.png",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/plugin/chalkboard/img/chalk-green.png": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 4801,
-      "exportedPath": "presentaciones/pase-diapositivas/plugin/chalkboard/img/chalk-green.png",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/plugin/chalkboard/img/chalk-orange.png": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 5010,
-      "exportedPath": "presentaciones/pase-diapositivas/plugin/chalkboard/img/chalk-orange.png",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/plugin/chalkboard/img/chalk-purple.png": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 5250,
-      "exportedPath": "presentaciones/pase-diapositivas/plugin/chalkboard/img/chalk-purple.png",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/plugin/chalkboard/img/chalk-red.png": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 4786,
-      "exportedPath": "presentaciones/pase-diapositivas/plugin/chalkboard/img/chalk-red.png",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/plugin/chalkboard/img/chalk-white.png": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 5199,
-      "exportedPath": "presentaciones/pase-diapositivas/plugin/chalkboard/img/chalk-white.png",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/plugin/chalkboard/img/chalk-yellow.png": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 5097,
-      "exportedPath": "presentaciones/pase-diapositivas/plugin/chalkboard/img/chalk-yellow.png",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/plugin/chalkboard/img/sponge.png": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 3612,
-      "exportedPath": "presentaciones/pase-diapositivas/plugin/chalkboard/img/sponge.png",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/plugin/chalkboard/img/whiteboard.png": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 34129,
-      "exportedPath": "presentaciones/pase-diapositivas/plugin/chalkboard/img/whiteboard.png",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/plugin/chalkboard/plugin.js": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 57236,
-      "exportedPath": "presentaciones/pase-diapositivas/plugin/chalkboard/plugin.js",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/plugin/chalkboard/README.md": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 9138,
-      "exportedPath": "presentaciones/pase-diapositivas/plugin/chalkboard/readme.html",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/plugin/chalkboard/style.css": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 704,
-      "exportedPath": "presentaciones/pase-diapositivas/plugin/chalkboard/style.css",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/plugin/chart/chart.umd.js": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 206279,
-      "exportedPath": "presentaciones/pase-diapositivas/plugin/chart/chart.umd.js",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/plugin/chart/plugin.js": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 5916,
-      "exportedPath": "presentaciones/pase-diapositivas/plugin/chart/plugin.js",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/plugin/chart/README.md": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 4605,
-      "exportedPath": "presentaciones/pase-diapositivas/plugin/chart/readme.html",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/plugin/customcontrols/plugin.js": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 2409,
-      "exportedPath": "presentaciones/pase-diapositivas/plugin/customcontrols/plugin.js",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/plugin/customcontrols/README.md": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 1672,
-      "exportedPath": "presentaciones/pase-diapositivas/plugin/customcontrols/readme.html",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/plugin/customcontrols/style.css": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 1162,
-      "exportedPath": "presentaciones/pase-diapositivas/plugin/customcontrols/style.css",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/plugin/elapsed-time-bar/elapsed-time-bar.js": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 2327,
-      "exportedPath": "presentaciones/pase-diapositivas/plugin/elapsed-time-bar/elapsed-time-bar.js",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/plugin/highlight/highlight.js": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 940009,
-      "exportedPath": "presentaciones/pase-diapositivas/plugin/highlight/highlight.js",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/plugin/highlight/highlight.esm.js": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 939787,
-      "exportedPath": "presentaciones/pase-diapositivas/plugin/highlight/highlight.esm.js",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/plugin/highlight/monokai.css": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 940,
-      "exportedPath": "presentaciones/pase-diapositivas/plugin/highlight/monokai.css",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/plugin/highlight/plugin.js": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 16338,
-      "exportedPath": "presentaciones/pase-diapositivas/plugin/highlight/plugin.js",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/plugin/highlight/vs2015.css": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 1426,
-      "exportedPath": "presentaciones/pase-diapositivas/plugin/highlight/vs2015.css",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/plugin/highlight/zenburn.css": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 947,
-      "exportedPath": "presentaciones/pase-diapositivas/plugin/highlight/zenburn.css",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/plugin/markdown/markdown.js": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 43048,
-      "exportedPath": "presentaciones/pase-diapositivas/plugin/markdown/markdown.js",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/plugin/markdown/markdown.esm.js": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 42815,
-      "exportedPath": "presentaciones/pase-diapositivas/plugin/markdown/markdown.esm.js",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/plugin/markdown/plugin.js": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 14910,
-      "exportedPath": "presentaciones/pase-diapositivas/plugin/markdown/plugin.js",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/plugin/math/mathjax/a11y/assistive-mml.js": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 6460,
-      "exportedPath": "presentaciones/pase-diapositivas/plugin/math/mathjax/a11y/assistive-mml.js",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/plugin/math/mathjax/a11y/complexity.js": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 18034,
-      "exportedPath": "presentaciones/pase-diapositivas/plugin/math/mathjax/a11y/complexity.js",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/plugin/math/mathjax/a11y/explorer.js": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 36348,
-      "exportedPath": "presentaciones/pase-diapositivas/plugin/math/mathjax/a11y/explorer.js",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/plugin/math/mathjax/a11y/semantic-enrich.js": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 8084,
-      "exportedPath": "presentaciones/pase-diapositivas/plugin/math/mathjax/a11y/semantic-enrich.js",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/plugin/math/mathjax/a11y/sre.js": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 337064,
-      "exportedPath": "presentaciones/pase-diapositivas/plugin/math/mathjax/a11y/sre.js",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/plugin/math/mathjax/adaptors/liteDOM.js": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 22827,
-      "exportedPath": "presentaciones/pase-diapositivas/plugin/math/mathjax/adaptors/litedom.js",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/plugin/math/mathjax/input/mml/extensions/mml3.js": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 28862,
-      "exportedPath": "presentaciones/pase-diapositivas/plugin/math/mathjax/input/mml/extensions/mml3.js",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/plugin/math/mathjax/input/mml/extensions/mml3.sef.json": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 199492,
-      "exportedPath": "presentaciones/pase-diapositivas/plugin/math/mathjax/input/mml/extensions/mml3.sef.json",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/plugin/math/mathjax/input/mml/entities.js": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 51126,
-      "exportedPath": "presentaciones/pase-diapositivas/plugin/math/mathjax/input/mml/entities.js",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/plugin/math/mathjax/input/tex/extensions/action.js": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 2611,
-      "exportedPath": "presentaciones/pase-diapositivas/plugin/math/mathjax/input/tex/extensions/action.js",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/plugin/math/mathjax/input/tex/extensions/all-packages.js": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 215178,
-      "exportedPath": "presentaciones/pase-diapositivas/plugin/math/mathjax/input/tex/extensions/all-packages.js",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/plugin/math/mathjax/input/tex/extensions/ams.js": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 29459,
-      "exportedPath": "presentaciones/pase-diapositivas/plugin/math/mathjax/input/tex/extensions/ams.js",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/plugin/math/mathjax/input/tex/extensions/amscd.js": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 6769,
-      "exportedPath": "presentaciones/pase-diapositivas/plugin/math/mathjax/input/tex/extensions/amscd.js",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/plugin/math/mathjax/input/tex/extensions/autoload.js": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 6357,
-      "exportedPath": "presentaciones/pase-diapositivas/plugin/math/mathjax/input/tex/extensions/autoload.js",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/plugin/math/mathjax/input/tex/extensions/bbox.js": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 3006,
-      "exportedPath": "presentaciones/pase-diapositivas/plugin/math/mathjax/input/tex/extensions/bbox.js",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/plugin/math/mathjax/input/tex/extensions/boldsymbol.js": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 4056,
-      "exportedPath": "presentaciones/pase-diapositivas/plugin/math/mathjax/input/tex/extensions/boldsymbol.js",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/plugin/math/mathjax/input/tex/extensions/braket.js": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 6729,
-      "exportedPath": "presentaciones/pase-diapositivas/plugin/math/mathjax/input/tex/extensions/braket.js",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/plugin/math/mathjax/input/tex/extensions/bussproofs.js": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 18344,
-      "exportedPath": "presentaciones/pase-diapositivas/plugin/math/mathjax/input/tex/extensions/bussproofs.js",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/plugin/math/mathjax/input/tex/extensions/cancel.js": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 3326,
-      "exportedPath": "presentaciones/pase-diapositivas/plugin/math/mathjax/input/tex/extensions/cancel.js",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/plugin/math/mathjax/input/tex/extensions/cases.js": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 7064,
-      "exportedPath": "presentaciones/pase-diapositivas/plugin/math/mathjax/input/tex/extensions/cases.js",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/plugin/math/mathjax/input/tex/extensions/centernot.js": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 3477,
-      "exportedPath": "presentaciones/pase-diapositivas/plugin/math/mathjax/input/tex/extensions/centernot.js",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/plugin/math/mathjax/input/tex/extensions/color.js": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 8627,
-      "exportedPath": "presentaciones/pase-diapositivas/plugin/math/mathjax/input/tex/extensions/color.js",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/plugin/math/mathjax/input/tex/extensions/colortbl.js": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 5392,
-      "exportedPath": "presentaciones/pase-diapositivas/plugin/math/mathjax/input/tex/extensions/colortbl.js",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/plugin/math/mathjax/input/tex/extensions/colorv2.js": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 1998,
-      "exportedPath": "presentaciones/pase-diapositivas/plugin/math/mathjax/input/tex/extensions/colorv2.js",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/plugin/math/mathjax/input/tex/extensions/configmacros.js": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 4676,
-      "exportedPath": "presentaciones/pase-diapositivas/plugin/math/mathjax/input/tex/extensions/configmacros.js",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/plugin/math/mathjax/input/tex/extensions/empheq.js": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 11100,
-      "exportedPath": "presentaciones/pase-diapositivas/plugin/math/mathjax/input/tex/extensions/empheq.js",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/plugin/math/mathjax/input/tex/extensions/enclose.js": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 2387,
-      "exportedPath": "presentaciones/pase-diapositivas/plugin/math/mathjax/input/tex/extensions/enclose.js",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/plugin/math/mathjax/input/tex/extensions/extpfeil.js": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 3451,
-      "exportedPath": "presentaciones/pase-diapositivas/plugin/math/mathjax/input/tex/extensions/extpfeil.js",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/plugin/math/mathjax/input/tex/extensions/gensymb.js": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 2104,
-      "exportedPath": "presentaciones/pase-diapositivas/plugin/math/mathjax/input/tex/extensions/gensymb.js",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/plugin/math/mathjax/input/tex/extensions/html.js": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 2969,
-      "exportedPath": "presentaciones/pase-diapositivas/plugin/math/mathjax/input/tex/extensions/html.js",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/plugin/math/mathjax/input/tex/extensions/mathtools.js": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 31845,
-      "exportedPath": "presentaciones/pase-diapositivas/plugin/math/mathjax/input/tex/extensions/mathtools.js",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/plugin/math/mathjax/input/tex/extensions/mhchem.js": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 38270,
-      "exportedPath": "presentaciones/pase-diapositivas/plugin/math/mathjax/input/tex/extensions/mhchem.js",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/plugin/math/mathjax/input/tex/extensions/newcommand.js": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 11768,
-      "exportedPath": "presentaciones/pase-diapositivas/plugin/math/mathjax/input/tex/extensions/newcommand.js",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/plugin/math/mathjax/input/tex/extensions/noerrors.js": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 1226,
-      "exportedPath": "presentaciones/pase-diapositivas/plugin/math/mathjax/input/tex/extensions/noerrors.js",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/plugin/math/mathjax/input/tex/extensions/noundefined.js": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 1852,
-      "exportedPath": "presentaciones/pase-diapositivas/plugin/math/mathjax/input/tex/extensions/noundefined.js",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/plugin/math/mathjax/input/tex/extensions/physics.js": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 24029,
-      "exportedPath": "presentaciones/pase-diapositivas/plugin/math/mathjax/input/tex/extensions/physics.js",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/plugin/math/mathjax/input/tex/extensions/require.js": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 6286,
-      "exportedPath": "presentaciones/pase-diapositivas/plugin/math/mathjax/input/tex/extensions/require.js",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/plugin/math/mathjax/input/tex/extensions/setoptions.js": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 5549,
-      "exportedPath": "presentaciones/pase-diapositivas/plugin/math/mathjax/input/tex/extensions/setoptions.js",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/plugin/math/mathjax/input/tex/extensions/tagformat.js": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 2864,
-      "exportedPath": "presentaciones/pase-diapositivas/plugin/math/mathjax/input/tex/extensions/tagformat.js",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/plugin/math/mathjax/input/tex/extensions/textcomp.js": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 6808,
-      "exportedPath": "presentaciones/pase-diapositivas/plugin/math/mathjax/input/tex/extensions/textcomp.js",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/plugin/math/mathjax/input/tex/extensions/textmacros.js": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 16138,
-      "exportedPath": "presentaciones/pase-diapositivas/plugin/math/mathjax/input/tex/extensions/textmacros.js",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/plugin/math/mathjax/input/tex/extensions/unicode.js": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 3450,
-      "exportedPath": "presentaciones/pase-diapositivas/plugin/math/mathjax/input/tex/extensions/unicode.js",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/plugin/math/mathjax/input/tex/extensions/upgreek.js": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 2676,
-      "exportedPath": "presentaciones/pase-diapositivas/plugin/math/mathjax/input/tex/extensions/upgreek.js",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/plugin/math/mathjax/input/tex/extensions/verb.js": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 2562,
-      "exportedPath": "presentaciones/pase-diapositivas/plugin/math/mathjax/input/tex/extensions/verb.js",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/plugin/math/mathjax/input/asciimath.js": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 107781,
-      "exportedPath": "presentaciones/pase-diapositivas/plugin/math/mathjax/input/asciimath.js",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/plugin/math/mathjax/input/mml.js": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 14583,
-      "exportedPath": "presentaciones/pase-diapositivas/plugin/math/mathjax/input/mml.js",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/plugin/math/mathjax/input/tex.js": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 179888,
-      "exportedPath": "presentaciones/pase-diapositivas/plugin/math/mathjax/input/tex.js",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/plugin/math/mathjax/input/tex-base.js": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 135594,
-      "exportedPath": "presentaciones/pase-diapositivas/plugin/math/mathjax/input/tex-base.js",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/plugin/math/mathjax/input/tex-full.js": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 345624,
-      "exportedPath": "presentaciones/pase-diapositivas/plugin/math/mathjax/input/tex-full.js",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/plugin/math/mathjax/output/chtml/fonts/woff-v2/MathJax_AMS-Regular.woff": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 40808,
-      "exportedPath": "presentaciones/pase-diapositivas/plugin/math/mathjax/output/chtml/fonts/woff-v2/mathjax_ams-regular.woff",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/plugin/math/mathjax/output/chtml/fonts/woff-v2/MathJax_Calligraphic-Bold.woff": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 9908,
-      "exportedPath": "presentaciones/pase-diapositivas/plugin/math/mathjax/output/chtml/fonts/woff-v2/mathjax_calligraphic-bold.woff",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/plugin/math/mathjax/output/chtml/fonts/woff-v2/MathJax_Calligraphic-Regular.woff": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 9600,
-      "exportedPath": "presentaciones/pase-diapositivas/plugin/math/mathjax/output/chtml/fonts/woff-v2/mathjax_calligraphic-regular.woff",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/plugin/math/mathjax/output/chtml/fonts/woff-v2/MathJax_Fraktur-Bold.woff": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 22340,
-      "exportedPath": "presentaciones/pase-diapositivas/plugin/math/mathjax/output/chtml/fonts/woff-v2/mathjax_fraktur-bold.woff",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/plugin/math/mathjax/output/chtml/fonts/woff-v2/MathJax_Fraktur-Regular.woff": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 21480,
-      "exportedPath": "presentaciones/pase-diapositivas/plugin/math/mathjax/output/chtml/fonts/woff-v2/mathjax_fraktur-regular.woff",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/plugin/math/mathjax/output/chtml/fonts/woff-v2/MathJax_Main-Bold.woff": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 34464,
-      "exportedPath": "presentaciones/pase-diapositivas/plugin/math/mathjax/output/chtml/fonts/woff-v2/mathjax_main-bold.woff",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/plugin/math/mathjax/output/chtml/fonts/woff-v2/MathJax_Main-Italic.woff": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 20832,
-      "exportedPath": "presentaciones/pase-diapositivas/plugin/math/mathjax/output/chtml/fonts/woff-v2/mathjax_main-italic.woff",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/plugin/math/mathjax/output/chtml/fonts/woff-v2/MathJax_Main-Regular.woff": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 34160,
-      "exportedPath": "presentaciones/pase-diapositivas/plugin/math/mathjax/output/chtml/fonts/woff-v2/mathjax_main-regular.woff",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/plugin/math/mathjax/output/chtml/fonts/woff-v2/MathJax_Math-BoldItalic.woff": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 19776,
-      "exportedPath": "presentaciones/pase-diapositivas/plugin/math/mathjax/output/chtml/fonts/woff-v2/mathjax_math-bolditalic.woff",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/plugin/math/mathjax/output/chtml/fonts/woff-v2/MathJax_Math-Italic.woff": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 19360,
-      "exportedPath": "presentaciones/pase-diapositivas/plugin/math/mathjax/output/chtml/fonts/woff-v2/mathjax_math-italic.woff",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/plugin/math/mathjax/output/chtml/fonts/woff-v2/MathJax_Math-Regular.woff": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 19288,
-      "exportedPath": "presentaciones/pase-diapositivas/plugin/math/mathjax/output/chtml/fonts/woff-v2/mathjax_math-regular.woff",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/plugin/math/mathjax/output/chtml/fonts/woff-v2/MathJax_SansSerif-Bold.woff": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 15944,
-      "exportedPath": "presentaciones/pase-diapositivas/plugin/math/mathjax/output/chtml/fonts/woff-v2/mathjax_sansserif-bold.woff",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/plugin/math/mathjax/output/chtml/fonts/woff-v2/MathJax_SansSerif-Italic.woff": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 14628,
-      "exportedPath": "presentaciones/pase-diapositivas/plugin/math/mathjax/output/chtml/fonts/woff-v2/mathjax_sansserif-italic.woff",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/plugin/math/mathjax/output/chtml/fonts/woff-v2/MathJax_SansSerif-Regular.woff": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 12660,
-      "exportedPath": "presentaciones/pase-diapositivas/plugin/math/mathjax/output/chtml/fonts/woff-v2/mathjax_sansserif-regular.woff",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/plugin/math/mathjax/output/chtml/fonts/woff-v2/MathJax_Script-Regular.woff": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 11852,
-      "exportedPath": "presentaciones/pase-diapositivas/plugin/math/mathjax/output/chtml/fonts/woff-v2/mathjax_script-regular.woff",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/plugin/math/mathjax/output/chtml/fonts/woff-v2/MathJax_Size1-Regular.woff": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 5792,
-      "exportedPath": "presentaciones/pase-diapositivas/plugin/math/mathjax/output/chtml/fonts/woff-v2/mathjax_size1-regular.woff",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/plugin/math/mathjax/output/chtml/fonts/woff-v2/MathJax_Size2-Regular.woff": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 5464,
-      "exportedPath": "presentaciones/pase-diapositivas/plugin/math/mathjax/output/chtml/fonts/woff-v2/mathjax_size2-regular.woff",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/plugin/math/mathjax/output/chtml/fonts/woff-v2/MathJax_Size3-Regular.woff": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 3244,
-      "exportedPath": "presentaciones/pase-diapositivas/plugin/math/mathjax/output/chtml/fonts/woff-v2/mathjax_size3-regular.woff",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/plugin/math/mathjax/output/chtml/fonts/woff-v2/MathJax_Size4-Regular.woff": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 5148,
-      "exportedPath": "presentaciones/pase-diapositivas/plugin/math/mathjax/output/chtml/fonts/woff-v2/mathjax_size4-regular.woff",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/plugin/math/mathjax/output/chtml/fonts/woff-v2/MathJax_Typewriter-Regular.woff": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 17604,
-      "exportedPath": "presentaciones/pase-diapositivas/plugin/math/mathjax/output/chtml/fonts/woff-v2/mathjax_typewriter-regular.woff",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/plugin/math/mathjax/output/chtml/fonts/woff-v2/MathJax_Vector-Bold.woff": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 1116,
-      "exportedPath": "presentaciones/pase-diapositivas/plugin/math/mathjax/output/chtml/fonts/woff-v2/mathjax_vector-bold.woff",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/plugin/math/mathjax/output/chtml/fonts/woff-v2/MathJax_Vector-Regular.woff": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 1136,
-      "exportedPath": "presentaciones/pase-diapositivas/plugin/math/mathjax/output/chtml/fonts/woff-v2/mathjax_vector-regular.woff",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/plugin/math/mathjax/output/chtml/fonts/woff-v2/MathJax_Zero.woff": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 1368,
-      "exportedPath": "presentaciones/pase-diapositivas/plugin/math/mathjax/output/chtml/fonts/woff-v2/mathjax_zero.woff",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/plugin/math/mathjax/output/chtml/fonts/tex.js": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 104800,
-      "exportedPath": "presentaciones/pase-diapositivas/plugin/math/mathjax/output/chtml/fonts/tex.js",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/plugin/math/mathjax/output/svg/fonts/tex.js": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 1065875,
-      "exportedPath": "presentaciones/pase-diapositivas/plugin/math/mathjax/output/svg/fonts/tex.js",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/plugin/math/mathjax/output/chtml.js": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 221887,
-      "exportedPath": "presentaciones/pase-diapositivas/plugin/math/mathjax/output/chtml.js",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/plugin/math/mathjax/output/svg.js": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 208515,
-      "exportedPath": "presentaciones/pase-diapositivas/plugin/math/mathjax/output/svg.js",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/plugin/math/mathjax/sre/mathmaps/base.json": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 115025,
-      "exportedPath": "presentaciones/pase-diapositivas/plugin/math/mathjax/sre/mathmaps/base.json",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/plugin/math/mathjax/sre/mathmaps/ca.json": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 296176,
-      "exportedPath": "presentaciones/pase-diapositivas/plugin/math/mathjax/sre/mathmaps/ca.json",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/plugin/math/mathjax/sre/mathmaps/da.json": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 294956,
-      "exportedPath": "presentaciones/pase-diapositivas/plugin/math/mathjax/sre/mathmaps/da.json",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/plugin/math/mathjax/sre/mathmaps/de.json": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 329805,
-      "exportedPath": "presentaciones/pase-diapositivas/plugin/math/mathjax/sre/mathmaps/de.json",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/plugin/math/mathjax/sre/mathmaps/en.json": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 409173,
-      "exportedPath": "presentaciones/pase-diapositivas/plugin/math/mathjax/sre/mathmaps/en.json",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/plugin/math/mathjax/sre/mathmaps/es.json": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 298556,
-      "exportedPath": "presentaciones/pase-diapositivas/plugin/math/mathjax/sre/mathmaps/es.json",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/plugin/math/mathjax/sre/mathmaps/fr.json": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 322917,
-      "exportedPath": "presentaciones/pase-diapositivas/plugin/math/mathjax/sre/mathmaps/fr.json",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/plugin/math/mathjax/sre/mathmaps/hi.json": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 440548,
-      "exportedPath": "presentaciones/pase-diapositivas/plugin/math/mathjax/sre/mathmaps/hi.json",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/plugin/math/mathjax/sre/mathmaps/it.json": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 328235,
-      "exportedPath": "presentaciones/pase-diapositivas/plugin/math/mathjax/sre/mathmaps/it.json",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/plugin/math/mathjax/sre/mathmaps/nb.json": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 307312,
-      "exportedPath": "presentaciones/pase-diapositivas/plugin/math/mathjax/sre/mathmaps/nb.json",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/plugin/math/mathjax/sre/mathmaps/nemeth.json": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 224008,
-      "exportedPath": "presentaciones/pase-diapositivas/plugin/math/mathjax/sre/mathmaps/nemeth.json",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/plugin/math/mathjax/sre/mathmaps/nn.json": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 308992,
-      "exportedPath": "presentaciones/pase-diapositivas/plugin/math/mathjax/sre/mathmaps/nn.json",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/plugin/math/mathjax/sre/mathmaps/sv.json": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 317841,
-      "exportedPath": "presentaciones/pase-diapositivas/plugin/math/mathjax/sre/mathmaps/sv.json",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/plugin/math/mathjax/ui/lazy.js": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 11148,
-      "exportedPath": "presentaciones/pase-diapositivas/plugin/math/mathjax/ui/lazy.js",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/plugin/math/mathjax/ui/menu.js": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 425918,
-      "exportedPath": "presentaciones/pase-diapositivas/plugin/math/mathjax/ui/menu.js",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/plugin/math/mathjax/ui/safe.js": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 11189,
-      "exportedPath": "presentaciones/pase-diapositivas/plugin/math/mathjax/ui/safe.js",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/plugin/math/mathjax/core.js": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 218533,
-      "exportedPath": "presentaciones/pase-diapositivas/plugin/math/mathjax/core.js",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/plugin/math/mathjax/latest.js": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 5090,
-      "exportedPath": "presentaciones/pase-diapositivas/plugin/math/mathjax/latest.js",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/plugin/math/mathjax/loader.js": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 18439,
-      "exportedPath": "presentaciones/pase-diapositivas/plugin/math/mathjax/loader.js",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/plugin/math/mathjax/mml-chtml.js": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 997633,
-      "exportedPath": "presentaciones/pase-diapositivas/plugin/math/mathjax/mml-chtml.js",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/plugin/math/mathjax/mml-svg.js": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 1945224,
-      "exportedPath": "presentaciones/pase-diapositivas/plugin/math/mathjax/mml-svg.js",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/plugin/math/mathjax/node-main.js": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 265880,
-      "exportedPath": "presentaciones/pase-diapositivas/plugin/math/mathjax/node-main.js",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/plugin/math/mathjax/startup.js": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 29566,
-      "exportedPath": "presentaciones/pase-diapositivas/plugin/math/mathjax/startup.js",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/plugin/math/mathjax/tex-chtml.js": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 1160989,
-      "exportedPath": "presentaciones/pase-diapositivas/plugin/math/mathjax/tex-chtml.js",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/plugin/math/mathjax/tex-chtml-full.js": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 1327522,
-      "exportedPath": "presentaciones/pase-diapositivas/plugin/math/mathjax/tex-chtml-full.js",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/plugin/math/mathjax/tex-chtml-full-speech.js": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 2091263,
-      "exportedPath": "presentaciones/pase-diapositivas/plugin/math/mathjax/tex-chtml-full-speech.js",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/plugin/math/mathjax/tex-mml-chtml.js": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 1173007,
-      "exportedPath": "presentaciones/pase-diapositivas/plugin/math/mathjax/tex-mml-chtml.js",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/plugin/math/mathjax/tex-mml-svg.js": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 2120598,
-      "exportedPath": "presentaciones/pase-diapositivas/plugin/math/mathjax/tex-mml-svg.js",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/plugin/math/mathjax/tex-svg.js": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 2108580,
-      "exportedPath": "presentaciones/pase-diapositivas/plugin/math/mathjax/tex-svg.js",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/plugin/math/mathjax/tex-svg-full.js": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 2275113,
-      "exportedPath": "presentaciones/pase-diapositivas/plugin/math/mathjax/tex-svg-full.js",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/plugin/math/katex.js": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 2574,
-      "exportedPath": "presentaciones/pase-diapositivas/plugin/math/katex.js",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/plugin/math/math.js": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 3153,
-      "exportedPath": "presentaciones/pase-diapositivas/plugin/math/math.js",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/plugin/math/math.esm.js": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 3032,
-      "exportedPath": "presentaciones/pase-diapositivas/plugin/math/math.esm.js",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/plugin/math/mathjax2.js": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 2094,
-      "exportedPath": "presentaciones/pase-diapositivas/plugin/math/mathjax2.js",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/plugin/math/mathjax3.js": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 2212,
-      "exportedPath": "presentaciones/pase-diapositivas/plugin/math/mathjax3.js",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/plugin/math/plugin.js": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 334,
-      "exportedPath": "presentaciones/pase-diapositivas/plugin/math/plugin.js",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/plugin/menu/bower.json": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 378,
-      "exportedPath": "presentaciones/pase-diapositivas/plugin/menu/bower.json",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/plugin/menu/CONTRIBUTING.md": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 470,
-      "exportedPath": "presentaciones/pase-diapositivas/plugin/menu/contributing.html",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/plugin/menu/gulpfile.js": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 2325,
-      "exportedPath": "presentaciones/pase-diapositivas/plugin/menu/gulpfile.js",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/plugin/menu/LICENSE": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 1054,
-      "exportedPath": "presentaciones/pase-diapositivas/plugin/menu/license/license.",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/plugin/menu/menu.js": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 37473,
-      "exportedPath": "presentaciones/pase-diapositivas/plugin/menu/menu.js",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/plugin/menu/menu.css": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 8192,
-      "exportedPath": "presentaciones/pase-diapositivas/plugin/menu/menu.css",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/plugin/menu/menu.esm.js": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 36970,
-      "exportedPath": "presentaciones/pase-diapositivas/plugin/menu/menu.esm.js",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/plugin/menu/package.json": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 991,
-      "exportedPath": "presentaciones/pase-diapositivas/plugin/menu/package.json",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/plugin/menu/plugin.js": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 37804,
-      "exportedPath": "presentaciones/pase-diapositivas/plugin/menu/plugin.js",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/plugin/menu/README.md": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 13280,
-      "exportedPath": "presentaciones/pase-diapositivas/plugin/menu/readme.html",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/plugin/mermaid/mermaid.js": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 3043660,
-      "exportedPath": "presentaciones/pase-diapositivas/plugin/mermaid/mermaid.js",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/plugin/mermaid/mermaid.esm.js": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 3043423,
-      "exportedPath": "presentaciones/pase-diapositivas/plugin/mermaid/mermaid.esm.js",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/plugin/mermaid/plugin.js": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 1928,
-      "exportedPath": "presentaciones/pase-diapositivas/plugin/mermaid/plugin.js",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/plugin/notes/notes.js": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 68631,
-      "exportedPath": "presentaciones/pase-diapositivas/plugin/notes/notes.js",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/plugin/notes/notes.esm.js": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 68415,
-      "exportedPath": "presentaciones/pase-diapositivas/plugin/notes/notes.esm.js",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/plugin/notes/plugin.js": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 6936,
-      "exportedPath": "presentaciones/pase-diapositivas/plugin/notes/plugin.js",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/plugin/notes/speaker-view.html": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 23885,
-      "exportedPath": "presentaciones/pase-diapositivas/plugin/notes/speaker-view.html",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/plugin/reveal-pointer/pointer.js": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 2896,
-      "exportedPath": "presentaciones/pase-diapositivas/plugin/reveal-pointer/pointer.js",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/plugin/reveal-pointer/pointer.css": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 354,
-      "exportedPath": "presentaciones/pase-diapositivas/plugin/reveal-pointer/pointer.css",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/plugin/search/plugin.js": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 6439,
-      "exportedPath": "presentaciones/pase-diapositivas/plugin/search/plugin.js",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/plugin/search/search.js": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 3078,
-      "exportedPath": "presentaciones/pase-diapositivas/plugin/search/search.js",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/plugin/search/search.esm.js": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 2856,
-      "exportedPath": "presentaciones/pase-diapositivas/plugin/search/search.esm.js",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/plugin/zoom/plugin.js": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 6779,
-      "exportedPath": "presentaciones/pase-diapositivas/plugin/zoom/plugin.js",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/plugin/zoom/zoom.js": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 3108,
-      "exportedPath": "presentaciones/pase-diapositivas/plugin/zoom/zoom.js",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/plugin/zoom/zoom.esm.js": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 2879,
-      "exportedPath": "presentaciones/pase-diapositivas/plugin/zoom/zoom.esm.js",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas/index.html": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 8178,
-      "exportedPath": "presentaciones/pase-diapositivas/index.html",
-      "dependencies": []
-    },
-    "Presentaciones/Pase Diapositivas.md": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 714,
-      "exportedPath": "presentaciones/pase-diapositivas.html",
-      "dependencies": [
-        "presentaciones/pase-diapositivas/huerto-digital/assets/tag_map.svg"
-      ]
-    },
     "0.md": {
-      "modifiedTime": 1742486396549,
+      "modifiedTime": 1742487194751,
       "sourceSize": 1904,
       "exportedPath": "0.html",
       "dependencies": []
     },
     "1.md": {
-      "modifiedTime": 1742486396549,
+      "modifiedTime": 1742487194751,
       "sourceSize": 1160,
       "exportedPath": "1.html",
       "dependencies": []
     },
     "2.md": {
-      "modifiedTime": 1742486396549,
+      "modifiedTime": 1742487194751,
       "sourceSize": 924,
       "exportedPath": "2.html",
       "dependencies": []
     },
     "3.md": {
-      "modifiedTime": 1742486396549,
+      "modifiedTime": 1742487194751,
       "sourceSize": 951,
       "exportedPath": "3.html",
       "dependencies": []
     },
     "4.md": {
-      "modifiedTime": 1742486396549,
+      "modifiedTime": 1742487194751,
       "sourceSize": 1196,
       "exportedPath": "4.html",
       "dependencies": []
     },
     "01234.md": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 6242,
+      "modifiedTime": 1742487194751,
+      "sourceSize": 6221,
       "exportedPath": "01234.html",
-      "dependencies": []
+      "dependencies": [
+        "assets/tag_map.svg"
+      ]
     },
     "accion.md": {
-      "modifiedTime": 1742486396549,
+      "modifiedTime": 1742487194751,
       "sourceSize": 1961,
       "exportedPath": "accion.html",
       "dependencies": []
     },
     "ahora.md": {
-      "modifiedTime": 1742486396549,
+      "modifiedTime": 1742487194751,
       "sourceSize": 1235,
       "exportedPath": "ahora.html",
       "dependencies": []
     },
     "alma.md": {
-      "modifiedTime": 1742486396549,
+      "modifiedTime": 1742487194751,
       "sourceSize": 1818,
       "exportedPath": "alma.html",
       "dependencies": []
     },
     "analogia.md": {
-      "modifiedTime": 1742486396549,
+      "modifiedTime": 1742487194751,
       "sourceSize": 922,
       "exportedPath": "analogia.html",
       "dependencies": []
     },
     "arje.md": {
-      "modifiedTime": 1742486396549,
+      "modifiedTime": 1742487194751,
       "sourceSize": 1126,
       "exportedPath": "arje.html",
       "dependencies": []
     },
     "arte.md": {
-      "modifiedTime": 1742486396549,
+      "modifiedTime": 1742487194751,
       "sourceSize": 1593,
       "exportedPath": "arte.html",
       "dependencies": []
     },
     "autocancelacion.md": {
-      "modifiedTime": 1742486396549,
+      "modifiedTime": 1742487194751,
       "sourceSize": 1541,
       "exportedPath": "autocancelacion.html",
       "dependencies": []
     },
     "basb.md": {
-      "modifiedTime": 1742486396549,
+      "modifiedTime": 1742487194751,
       "sourceSize": 1903,
       "exportedPath": "basb.html",
       "dependencies": []
     },
     "campo_semantico.md": {
-      "modifiedTime": 1742486396549,
+      "modifiedTime": 1742487194751,
       "sourceSize": 918,
       "exportedPath": "campo_semantico.html",
       "dependencies": []
     },
     "captura_informacion.md": {
-      "modifiedTime": 1742486396549,
+      "modifiedTime": 1742487194751,
       "sourceSize": 2714,
       "exportedPath": "captura_informacion.html",
       "dependencies": []
     },
     "causa_efecto.md": {
-      "modifiedTime": 1742486396549,
+      "modifiedTime": 1742487194751,
       "sourceSize": 1458,
       "exportedPath": "causa_efecto.html",
       "dependencies": []
     },
     "coagulacion_significado.md": {
-      "modifiedTime": 1742486396549,
+      "modifiedTime": 1742487194751,
       "sourceSize": 624,
       "exportedPath": "coagulacion_significado.html",
       "dependencies": []
     },
     "codigo.md": {
-      "modifiedTime": 1742486396549,
+      "modifiedTime": 1742487194751,
       "sourceSize": 1427,
       "exportedPath": "codigo.html",
       "dependencies": []
     },
     "cognicion.md": {
-      "modifiedTime": 1742486396549,
+      "modifiedTime": 1742487194751,
       "sourceSize": 982,
       "exportedPath": "cognicion.html",
       "dependencies": []
     },
     "cognicion_extendida.md": {
-      "modifiedTime": 1742486396549,
+      "modifiedTime": 1742487194751,
       "sourceSize": 2865,
       "exportedPath": "cognicion_extendida.html",
       "dependencies": []
     },
     "coherencia_esencial.md": {
-      "modifiedTime": 1742486396549,
+      "modifiedTime": 1742487194751,
       "sourceSize": 1046,
       "exportedPath": "coherencia_esencial.html",
       "dependencies": []
     },
     "concatenacion.md": {
-      "modifiedTime": 1742486396549,
+      "modifiedTime": 1742487194751,
       "sourceSize": 2147,
       "exportedPath": "concatenacion.html",
       "dependencies": []
     },
     "concepto.md": {
-      "modifiedTime": 1742486396549,
+      "modifiedTime": 1742487194751,
       "sourceSize": 921,
       "exportedPath": "concepto.html",
       "dependencies": []
     },
     "conciencia.md": {
-      "modifiedTime": 1742486396549,
+      "modifiedTime": 1742487194751,
       "sourceSize": 2041,
       "exportedPath": "conciencia.html",
       "dependencies": []
     },
     "conectivo.md": {
-      "modifiedTime": 1742486396549,
+      "modifiedTime": 1742487194751,
       "sourceSize": 0,
       "exportedPath": "conectivo.html",
       "dependencies": []
     },
     "contemplacion.md": {
-      "modifiedTime": 1742486396549,
+      "modifiedTime": 1742487194751,
       "sourceSize": 1494,
       "exportedPath": "contemplacion.html",
       "dependencies": []
     },
     "contexto.md": {
-      "modifiedTime": 1742486396549,
+      "modifiedTime": 1742487194751,
       "sourceSize": 1448,
       "exportedPath": "contexto.html",
       "dependencies": []
     },
     "convergencia.md": {
-      "modifiedTime": 1742486396549,
+      "modifiedTime": 1742487194751,
       "sourceSize": 12,
       "exportedPath": "convergencia.html",
       "dependencies": []
     },
     "cosa.md": {
-      "modifiedTime": 1742486396549,
+      "modifiedTime": 1742487194751,
       "sourceSize": 990,
       "exportedPath": "cosa.html",
       "dependencies": []
     },
     "creacion.md": {
-      "modifiedTime": 1742486396549,
+      "modifiedTime": 1742487194751,
       "sourceSize": 1605,
       "exportedPath": "creacion.html",
       "dependencies": []
     },
     "cuaternario.md": {
-      "modifiedTime": 1742486396549,
+      "modifiedTime": 1742487194751,
       "sourceSize": 3962,
       "exportedPath": "cuaternario.html",
       "dependencies": []
     },
     "cuerpo.md": {
-      "modifiedTime": 1742486396549,
+      "modifiedTime": 1742487194751,
       "sourceSize": 1330,
       "exportedPath": "cuerpo.html",
       "dependencies": []
     },
     "darse_cuenta.md": {
-      "modifiedTime": 1742486396549,
+      "modifiedTime": 1742487194751,
       "sourceSize": 587,
       "exportedPath": "darse_cuenta.html",
       "dependencies": []
     },
     "despliegue.md": {
-      "modifiedTime": 1742486396549,
+      "modifiedTime": 1742487194751,
       "sourceSize": 71,
       "exportedPath": "despliegue.html",
       "dependencies": []
     },
     "dialogo.md": {
-      "modifiedTime": 1742486396549,
+      "modifiedTime": 1742487194751,
       "sourceSize": 997,
       "exportedPath": "dialogo.html",
       "dependencies": []
     },
     "discernimiento.md": {
-      "modifiedTime": 1742486396549,
+      "modifiedTime": 1742487194751,
       "sourceSize": 1421,
       "exportedPath": "discernimiento.html",
       "dependencies": []
     },
     "dominio.md": {
-      "modifiedTime": 1742486396549,
+      "modifiedTime": 1742487194751,
       "sourceSize": 926,
       "exportedPath": "dominio.html",
       "dependencies": []
     },
     "dualidad_onda-particula.md": {
-      "modifiedTime": 1742486396549,
+      "modifiedTime": 1742487194751,
       "sourceSize": 366,
       "exportedPath": "dualidad_onda-particula.html",
       "dependencies": []
     },
     "efecto_aladino.md": {
-      "modifiedTime": 1742486396549,
+      "modifiedTime": 1742487194751,
       "sourceSize": 1489,
       "exportedPath": "efecto_aladino.html",
       "dependencies": []
     },
     "elemento.md": {
-      "modifiedTime": 1742486396549,
+      "modifiedTime": 1742487194751,
       "sourceSize": 1447,
       "exportedPath": "elemento.html",
       "dependencies": []
     },
     "encuentro.md": {
-      "modifiedTime": 1742486396549,
+      "modifiedTime": 1742487194751,
       "sourceSize": 1004,
       "exportedPath": "encuentro.html",
       "dependencies": []
     },
     "espiritu.md": {
-      "modifiedTime": 1742486396549,
+      "modifiedTime": 1742487194751,
       "sourceSize": 1918,
       "exportedPath": "espiritu.html",
       "dependencies": []
     },
     "estructura.md": {
-      "modifiedTime": 1742486396549,
+      "modifiedTime": 1742487194751,
       "sourceSize": 1068,
       "exportedPath": "estructura.html",
       "dependencies": []
     },
     "evidencia.md": {
-      "modifiedTime": 1742486396549,
+      "modifiedTime": 1742487194751,
       "sourceSize": 1111,
       "exportedPath": "evidencia.html",
       "dependencies": []
     },
     "existencia.md": {
-      "modifiedTime": 1742486396549,
+      "modifiedTime": 1742487194751,
       "sourceSize": 1137,
       "exportedPath": "existencia.html",
       "dependencies": []
     },
     "explica.md": {
-      "modifiedTime": 1742486396549,
+      "modifiedTime": 1742487194751,
       "sourceSize": 1467,
       "exportedPath": "explica.html",
       "dependencies": []
     },
     "faceta.md": {
-      "modifiedTime": 1742486396549,
+      "modifiedTime": 1742487194751,
       "sourceSize": 989,
       "exportedPath": "faceta.html",
       "dependencies": []
     },
     "faceta_como_percepcion.md": {
-      "modifiedTime": 1742486396549,
+      "modifiedTime": 1742487194751,
       "sourceSize": 220,
       "exportedPath": "faceta_como_percepcion.html",
       "dependencies": []
     },
     "fin.md": {
-      "modifiedTime": 1742486396549,
+      "modifiedTime": 1742487194751,
       "sourceSize": 988,
       "exportedPath": "fin.html",
       "dependencies": []
     },
     "fonema.md": {
-      "modifiedTime": 1742486396549,
+      "modifiedTime": 1742487194751,
       "sourceSize": 436,
       "exportedPath": "fonema.html",
       "dependencies": []
     },
     "frecuencia.md": {
-      "modifiedTime": 1742486396549,
+      "modifiedTime": 1742487194751,
       "sourceSize": 195,
       "exportedPath": "frecuencia.html",
       "dependencies": []
     },
     "gradiente.md": {
-      "modifiedTime": 1742486396549,
+      "modifiedTime": 1742487194751,
       "sourceSize": 1059,
       "exportedPath": "gradiente.html",
       "dependencies": []
     },
     "hermeneutica.md": {
-      "modifiedTime": 1742486396549,
+      "modifiedTime": 1742487194751,
       "sourceSize": 2839,
       "exportedPath": "hermeneutica.html",
       "dependencies": []
     },
     "idea.md": {
-      "modifiedTime": 1742486396549,
+      "modifiedTime": 1742487194751,
       "sourceSize": 777,
       "exportedPath": "idea.html",
       "dependencies": []
     },
     "impresion_mental.md": {
-      "modifiedTime": 1742486396549,
+      "modifiedTime": 1742487194751,
       "sourceSize": 460,
       "exportedPath": "impresion_mental.html",
       "dependencies": []
     },
     "index.md": {
-      "modifiedTime": 1742486396549,
+      "modifiedTime": 1742487194751,
       "sourceSize": 276,
       "exportedPath": "index.html",
       "dependencies": []
     },
     "info_proyecto.md": {
-      "modifiedTime": 1742486396549,
+      "modifiedTime": 1742487194751,
       "sourceSize": 984,
       "exportedPath": "info_proyecto.html",
       "dependencies": []
     },
     "info_sergiofores.md": {
-      "modifiedTime": 1742486396549,
+      "modifiedTime": 1742487194751,
       "sourceSize": 740,
       "exportedPath": "info_sergiofores.html",
       "dependencies": []
     },
     "informacion.md": {
-      "modifiedTime": 1742486396549,
+      "modifiedTime": 1742487194751,
       "sourceSize": 1443,
       "exportedPath": "informacion.html",
       "dependencies": []
     },
     "insight.md": {
-      "modifiedTime": 1742486396549,
+      "modifiedTime": 1742487194751,
       "sourceSize": 1331,
       "exportedPath": "insight.html",
       "dependencies": []
     },
     "inteligencia.md": {
-      "modifiedTime": 1742486396549,
+      "modifiedTime": 1742487194751,
       "sourceSize": 690,
       "exportedPath": "inteligencia.html",
       "dependencies": []
     },
     "interpretacion.md": {
-      "modifiedTime": 1742486396549,
+      "modifiedTime": 1742487194751,
       "sourceSize": 1546,
       "exportedPath": "interpretacion.html",
       "dependencies": []
     },
     "invarianza_estructural.md": {
-      "modifiedTime": 1742486396549,
+      "modifiedTime": 1742487194751,
       "sourceSize": 1050,
       "exportedPath": "invarianza_estructural.html",
       "dependencies": []
     },
     "kli.md": {
-      "modifiedTime": 1742486396549,
+      "modifiedTime": 1742487194751,
       "sourceSize": 2029,
       "exportedPath": "kli.html",
       "dependencies": []
     },
     "latencia.md": {
-      "modifiedTime": 1742486396549,
+      "modifiedTime": 1742487194751,
       "sourceSize": 1549,
       "exportedPath": "latencia.html",
       "dependencies": []
     },
     "literal.md": {
-      "modifiedTime": 1742486396549,
+      "modifiedTime": 1742487194751,
       "sourceSize": 1182,
       "exportedPath": "literal.html",
       "dependencies": []
     },
     "llm.md": {
-      "modifiedTime": 1742486396549,
+      "modifiedTime": 1742487194751,
       "sourceSize": 1176,
       "exportedPath": "llm.html",
       "dependencies": []
     },
     "logos.md": {
-      "modifiedTime": 1742486396549,
+      "modifiedTime": 1742487194751,
       "sourceSize": 1511,
       "exportedPath": "logos.html",
       "dependencies": []
     },
     "lugaritmo.md": {
-      "modifiedTime": 1742486396549,
+      "modifiedTime": 1742487194751,
       "sourceSize": 1022,
       "exportedPath": "lugaritmo.html",
       "dependencies": []
     },
     "luz.md": {
-      "modifiedTime": 1742486396549,
+      "modifiedTime": 1742487194751,
       "sourceSize": 1495,
       "exportedPath": "luz.html",
       "dependencies": []
     },
     "mapa.md": {
-      "modifiedTime": 1742486396549,
+      "modifiedTime": 1742487194751,
       "sourceSize": 1026,
       "exportedPath": "mapa.html",
       "dependencies": []
     },
     "matriz.md": {
-      "modifiedTime": 1742486396549,
+      "modifiedTime": 1742487194751,
       "sourceSize": 1452,
       "exportedPath": "matriz.html",
       "dependencies": []
     },
     "mejora_continua.md": {
-      "modifiedTime": 1742486396549,
+      "modifiedTime": 1742487194751,
       "sourceSize": 1174,
       "exportedPath": "mejora_continua.html",
       "dependencies": []
     },
     "mente.md": {
-      "modifiedTime": 1742486396549,
+      "modifiedTime": 1742487194751,
       "sourceSize": 1143,
       "exportedPath": "mente.html",
       "dependencies": []
     },
     "meta.md": {
-      "modifiedTime": 1742486396549,
+      "modifiedTime": 1742487194751,
       "sourceSize": 662,
       "exportedPath": "meta.html",
       "dependencies": []
     },
     "mistica.md": {
-      "modifiedTime": 1742486396549,
+      "modifiedTime": 1742487194751,
       "sourceSize": 1279,
       "exportedPath": "mistica.html",
       "dependencies": []
     },
     "modelo.md": {
-      "modifiedTime": 1742486396549,
+      "modifiedTime": 1742487194751,
       "sourceSize": 1571,
       "exportedPath": "modelo.html",
       "dependencies": []
     },
     "nodo_neurona.md": {
-      "modifiedTime": 1742486396549,
+      "modifiedTime": 1742487194751,
       "sourceSize": 715,
       "exportedPath": "nodo_neurona.html",
       "dependencies": []
     },
     "objeto.md": {
-      "modifiedTime": 1742486396549,
+      "modifiedTime": 1742487194751,
       "sourceSize": 1472,
       "exportedPath": "objeto.html",
       "dependencies": []
     },
     "observacion.md": {
-      "modifiedTime": 1742486396549,
+      "modifiedTime": 1742487194751,
       "sourceSize": 1618,
       "exportedPath": "observacion.html",
       "dependencies": []
     },
     "olam.md": {
-      "modifiedTime": 1742486396549,
+      "modifiedTime": 1742487194751,
       "sourceSize": 1769,
       "exportedPath": "olam.html",
       "dependencies": []
     },
     "onda.md": {
-      "modifiedTime": 1742486396549,
+      "modifiedTime": 1742487194751,
       "sourceSize": 923,
       "exportedPath": "onda.html",
       "dependencies": []
     },
     "palabra.md": {
-      "modifiedTime": 1742486396549,
+      "modifiedTime": 1742487194751,
       "sourceSize": 419,
       "exportedPath": "palabra.html",
       "dependencies": []
     },
     "paradoja.md": {
-      "modifiedTime": 1742486396549,
+      "modifiedTime": 1742487194751,
       "sourceSize": 1500,
       "exportedPath": "paradoja.html",
       "dependencies": []
     },
     "pardes.md": {
-      "modifiedTime": 1742486396549,
+      "modifiedTime": 1742487194751,
       "sourceSize": 1404,
       "exportedPath": "pardes.html",
       "dependencies": []
     },
     "particula.md": {
-      "modifiedTime": 1742486396549,
+      "modifiedTime": 1742487194751,
       "sourceSize": 1075,
       "exportedPath": "particula.html",
       "dependencies": []
     },
     "percepcion.md": {
-      "modifiedTime": 1742486396549,
+      "modifiedTime": 1742487194751,
       "sourceSize": 987,
       "exportedPath": "percepcion.html",
       "dependencies": []
     },
     "percepcion_01234.md": {
-      "modifiedTime": 1742486396549,
+      "modifiedTime": 1742487194751,
       "sourceSize": 1020,
       "exportedPath": "percepcion_01234.html",
       "dependencies": []
     },
     "peso.md": {
-      "modifiedTime": 1742486396549,
+      "modifiedTime": 1742487194751,
       "sourceSize": 1157,
       "exportedPath": "peso.html",
       "dependencies": []
     },
     "pkm.md": {
-      "modifiedTime": 1742486396549,
+      "modifiedTime": 1742487194751,
       "sourceSize": 2937,
       "exportedPath": "pkm.html",
       "dependencies": []
     },
     "pnl.md": {
-      "modifiedTime": 1742486396549,
+      "modifiedTime": 1742487194751,
       "sourceSize": 614,
       "exportedPath": "pnl.html",
       "dependencies": []
     },
     "poesia.md": {
-      "modifiedTime": 1742486396549,
+      "modifiedTime": 1742487194751,
       "sourceSize": 1394,
       "exportedPath": "poesia.html",
       "dependencies": []
     },
     "preexistencia.md": {
-      "modifiedTime": 1742486396549,
+      "modifiedTime": 1742487194751,
       "sourceSize": 980,
       "exportedPath": "preexistencia.html",
       "dependencies": []
     },
     "proceso.md": {
-      "modifiedTime": 1742486396549,
+      "modifiedTime": 1742487194751,
       "sourceSize": 1363,
       "exportedPath": "proceso.html",
       "dependencies": []
     },
     "propiedad.md": {
-      "modifiedTime": 1742486396549,
+      "modifiedTime": 1742487194751,
       "sourceSize": 174,
       "exportedPath": "propiedad.html",
       "dependencies": []
     },
     "que_es_01234.md": {
-      "modifiedTime": 1742486396549,
+      "modifiedTime": 1742487194751,
       "sourceSize": 3067,
       "exportedPath": "que_es_01234.html",
       "dependencies": []
     },
     "razon.md": {
-      "modifiedTime": 1742486396549,
+      "modifiedTime": 1742487194751,
       "sourceSize": 1135,
       "exportedPath": "razon.html",
       "dependencies": []
     },
     "README.md": {
-      "modifiedTime": 1742486396549,
+      "modifiedTime": 1742487194751,
       "sourceSize": 604,
       "exportedPath": "readme.html",
       "dependencies": []
     },
     "recurso.md": {
-      "modifiedTime": 1742486396549,
+      "modifiedTime": 1742487194751,
       "sourceSize": 1075,
       "exportedPath": "recurso.html",
       "dependencies": []
     },
     "red_coherente_conocimiento.md": {
-      "modifiedTime": 1742486396549,
+      "modifiedTime": 1742487194751,
       "sourceSize": 1075,
       "exportedPath": "red_coherente_conocimiento.html",
       "dependencies": []
     },
     "repositorio.md": {
-      "modifiedTime": 1742486396549,
+      "modifiedTime": 1742487194751,
       "sourceSize": 1450,
       "exportedPath": "repositorio.html",
       "dependencies": []
     },
     "reshimo.md": {
-      "modifiedTime": 1742486396549,
+      "modifiedTime": 1742487194751,
       "sourceSize": 1206,
       "exportedPath": "reshimo.html",
       "dependencies": []
     },
     "resultado.md": {
-      "modifiedTime": 1742486396549,
+      "modifiedTime": 1742487194751,
       "sourceSize": 448,
       "exportedPath": "resultado.html",
       "dependencies": []
     },
     "sentido.md": {
-      "modifiedTime": 1742486396549,
+      "modifiedTime": 1742487194751,
       "sourceSize": 1735,
       "exportedPath": "sentido.html",
       "dependencies": []
     },
     "sesgo.md": {
-      "modifiedTime": 1742486396549,
+      "modifiedTime": 1742487194751,
       "sourceSize": 2362,
       "exportedPath": "sesgo.html",
       "dependencies": []
     },
     "significado.md": {
-      "modifiedTime": 1742486396549,
+      "modifiedTime": 1742487194751,
       "sourceSize": 1645,
       "exportedPath": "significado.html",
       "dependencies": []
     },
     "simbolo.md": {
-      "modifiedTime": 1742486396549,
+      "modifiedTime": 1742487194751,
       "sourceSize": 1371,
       "exportedPath": "simbolo.html",
       "dependencies": []
     },
     "sinergia.md": {
-      "modifiedTime": 1742486396549,
+      "modifiedTime": 1742487194751,
       "sourceSize": 259,
       "exportedPath": "sinergia.html",
       "dependencies": []
     },
     "sintesis.md": {
-      "modifiedTime": 1742486396549,
+      "modifiedTime": 1742487194751,
       "sourceSize": 1176,
       "exportedPath": "sintesis.html",
       "dependencies": []
     },
     "sistema.md": {
-      "modifiedTime": 1742486396549,
+      "modifiedTime": 1742487194751,
       "sourceSize": 733,
       "exportedPath": "sistema.html",
       "dependencies": []
     },
     "sujeto.md": {
-      "modifiedTime": 1742486396549,
+      "modifiedTime": 1742487194751,
       "sourceSize": 1430,
       "exportedPath": "sujeto.html",
       "dependencies": []
     },
     "tension.md": {
-      "modifiedTime": 1742486396549,
+      "modifiedTime": 1742487194751,
       "sourceSize": 1103,
       "exportedPath": "tension.html",
       "dependencies": []
     },
     "termino.md": {
-      "modifiedTime": 1742486396549,
+      "modifiedTime": 1742487194751,
       "sourceSize": 1051,
       "exportedPath": "termino.html",
       "dependencies": []
     },
     "tetractys.md": {
-      "modifiedTime": 1742486396549,
+      "modifiedTime": 1742487194751,
       "sourceSize": 2343,
       "exportedPath": "tetractys.html",
       "dependencies": []
     },
     "tetragramaton.md": {
-      "modifiedTime": 1742486396549,
+      "modifiedTime": 1742487194751,
       "sourceSize": 2405,
       "exportedPath": "tetragramaton.html",
       "dependencies": []
     },
     "universo.md": {
-      "modifiedTime": 1742486396549,
+      "modifiedTime": 1742487194751,
       "sourceSize": 1215,
       "exportedPath": "universo.html",
       "dependencies": []
     },
     "vibracion.md": {
-      "modifiedTime": 1742486396549,
+      "modifiedTime": 1742487194751,
       "sourceSize": 238,
       "exportedPath": "vibracion.html",
       "dependencies": []
     },
     "vida.md": {
-      "modifiedTime": 1742486396549,
+      "modifiedTime": 1742487194751,
       "sourceSize": 1276,
       "exportedPath": "vida.html",
       "dependencies": []
     },
     "vinculo.md": {
-      "modifiedTime": 1742486396549,
+      "modifiedTime": 1742487194751,
       "sourceSize": 2627,
       "exportedPath": "vinculo.html",
       "dependencies": []
     },
-    "presentaciones/pase-diapositivas/huerto-digital/assets/tag_map.svg": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 260368,
-      "exportedPath": "presentaciones/pase-diapositivas/huerto-digital/assets/tag_map.svg",
-      "dependencies": []
-    },
     "lib/scripts/graph-wasm.wasm": {
-      "modifiedTime": 1742486396549,
+      "modifiedTime": 1742487194751,
       "sourceSize": 23377,
       "exportedPath": "lib/scripts/graph-wasm.wasm",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1742486396549,
+      "modifiedTime": 1742487194751,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1742486396549,
+      "modifiedTime": 1742487194751,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1742486396549,
+      "modifiedTime": 1742487194751,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1742486396549,
+      "modifiedTime": 1742487194751,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1742486396549,
+      "modifiedTime": 1742487194751,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1742486396549,
+      "modifiedTime": 1742487194751,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1742486396549,
+      "modifiedTime": 1742487194751,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1742486396549,
+      "modifiedTime": 1742487194751,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1742486396549,
+      "modifiedTime": 1742487194751,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1742486396549,
+      "modifiedTime": 1742487194751,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1742486396549,
+      "modifiedTime": 1742487194751,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1742486396549,
+      "modifiedTime": 1742487194751,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1742486396549,
+      "modifiedTime": 1742487194751,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/6155340132a851f6089e.svg": {
-      "modifiedTime": 1742486396549,
+      "modifiedTime": 1742487194751,
       "sourceSize": 315,
       "exportedPath": "lib/media/6155340132a851f6089e.svg",
       "dependencies": []
     },
     "lib/html/file-tree.html": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 332082,
+      "modifiedTime": 1742487194751,
+      "sourceSize": 85288,
       "exportedPath": "lib/html/file-tree.html",
       "dependencies": []
     },
     "lib/scripts/webpage.js": {
-      "modifiedTime": 1742486396549,
+      "modifiedTime": 1742487194751,
       "sourceSize": 47290,
       "exportedPath": "lib/scripts/webpage.js",
       "dependencies": []
     },
     "lib/scripts/graph-view.js": {
-      "modifiedTime": 1742486396549,
+      "modifiedTime": 1742487194751,
       "sourceSize": 15519,
       "exportedPath": "lib/scripts/graph-view.js",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.js": {
-      "modifiedTime": 1742486396549,
+      "modifiedTime": 1742487194751,
       "sourceSize": 14021,
       "exportedPath": "lib/scripts/graph-wasm.js",
       "dependencies": []
     },
     "lib/scripts/graph-render-worker.js": {
-      "modifiedTime": 1742486396549,
+      "modifiedTime": 1742487194751,
       "sourceSize": 5179,
       "exportedPath": "lib/scripts/graph-render-worker.js",
       "dependencies": []
     },
     "lib/scripts/tinycolor.js": {
-      "modifiedTime": 1742486396549,
+      "modifiedTime": 1742487194751,
       "sourceSize": 29832,
       "exportedPath": "lib/scripts/tinycolor.js",
       "dependencies": []
     },
     "lib/scripts/pixi.js": {
-      "modifiedTime": 1742486396549,
+      "modifiedTime": 1742487194751,
       "sourceSize": 449509,
       "exportedPath": "lib/scripts/pixi.js",
       "dependencies": []
     },
     "lib/scripts/minisearch.js": {
-      "modifiedTime": 1742486396549,
+      "modifiedTime": 1742487194751,
       "sourceSize": 29422,
       "exportedPath": "lib/scripts/minisearch.js",
       "dependencies": []
     },
     "lib/media/favicon.png": {
-      "modifiedTime": 1742486396549,
+      "modifiedTime": 1742487194751,
       "sourceSize": 1105,
       "exportedPath": "lib/media/favicon.png",
       "dependencies": []
     },
     "lib/scripts/graph-data.js": {
-      "modifiedTime": 1742486396549,
-      "sourceSize": 9896,
+      "modifiedTime": 1742487194751,
+      "sourceSize": 7953,
       "exportedPath": "lib/scripts/graph-data.js",
       "dependencies": []
     },
     "lib/styles/obsidian.css": {
-      "modifiedTime": 1742486396549,
+      "modifiedTime": 1742487194751,
       "sourceSize": 137466,
       "exportedPath": "lib/styles/obsidian.css",
       "dependencies": []
     },
     "lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1742486396549,
+      "modifiedTime": 1742487194751,
       "sourceSize": 347,
       "exportedPath": "lib/styles/global-variable-styles.css",
       "dependencies": []
     },
     "lib/styles/main-styles.css": {
-      "modifiedTime": 1742486396549,
+      "modifiedTime": 1742487194751,
       "sourceSize": 23130,
       "exportedPath": "lib/styles/main-styles.css",
       "dependencies": []
