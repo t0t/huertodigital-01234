@@ -4,5 +4,8 @@
   "textFontFamily": "Montserrat",
   "translucency": false,
   "accentColor": "",
-  "theme": "system"
+  "theme": "system",
+  "enabledCssSnippets": [
+    "o1234"
+  ]
 }

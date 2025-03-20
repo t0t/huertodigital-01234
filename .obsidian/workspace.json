@@ -8,20 +8,33 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8b1e83815375f169",
+            "id": "f4e3175312076891",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Mapas/grafico_2025-03-20 19.14.05.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "grafico_2025-03-20 19.14.05"
+            }
+          },
+          {
+            "id": "f65c5317f947e682",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "index.md",
-                "mode": "preview",
-                "source": true
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
               "title": "index"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -172,60 +185,12 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "floating": {
-    "id": "7e32d1001bcf8827",
-    "type": "floating",
-    "children": [
-      {
-        "id": "9e5b0a2e5ee3b985",
-        "type": "window",
-        "children": [
-          {
-            "id": "6732b785c67b2e9e",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "7b36e4a9432043ba",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "vinculo.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "vinculo"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 298,
-        "y": 442,
-        "width": 900,
-        "height": 500,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "7b36e4a9432043ba",
+  "active": "f65c5317f947e682",
   "lastOpenFiles": [
-    "docs/conectivo.html",
-    "docs/conciencia.html",
-    "docs/concepto.html",
-    "docs/concatenacion.html",
-    "docs/coherencia_esencial.html",
-    "docs/cognicion_extendida.html",
-    "docs/cognicion.html",
-    "docs/codigo.html",
-    "docs/coagulacion_significado.html",
-    "docs/causa_efecto.html",
-    "docs/captura_informacion.html",
-    "docs/assets/tag_map.svg",
-    "docs/assets/mapa-1.png",
+    "docs/lib/styles/snippets.css",
+    "vinculo.md",
+    "docs/assets/logo.svg",
+    "docs/assets/grafico-pardes.svg",
     "vida.md",
     "vibracion.md",
     "universo.md",
@@ -250,17 +215,26 @@
     "razon.md",
     "que_es_01234.md",
     "propiedad.md",
-    "proceso.md",
-    "assets/tag_map.svg",
-    "assets/mapa-1.png",
-    "docs/lib/media/favicon.png",
-    "docs/lib/media/6155340132a851f6089e.svg",
-    "docs/presentaciones/pase-diapositivas/plugin/chalkboard/img/whiteboard.png",
-    "docs/presentaciones/pase-diapositivas/plugin/chalkboard/img/sponge.png",
-    "docs/presentaciones/pase-diapositivas/plugin/chalkboard/img/chalk-yellow.png",
-    "docs/presentaciones/pase-diapositivas/plugin/chalkboard/img/chalk-white.png",
+    "assets/logo.svg",
+    "assets/grafico-pardes.svg",
+    "Mapas/grafico_2025-03-20 19.14.05.svg",
     "Mapas/mapa-1.canvas",
     "Mapas/Huerto Digital - 01234.canvas",
+    "docs/lib/search-index.json",
+    "docs/lib/metadata.json",
+    "docs/lib/styles/obsidian.css",
+    "docs/lib/styles/main-styles.css",
+    "docs/lib/styles/global-variable-styles.css",
+    "docs/lib/styles",
+    "docs/lib/html/file-tree.html",
+    "docs/lib/html",
+    "docs/lib/media/favicon.png",
+    "docs/lib/media/6155340132a851f6089e.svg",
+    "docs/lib/media",
+    "docs/lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "docs/assets/tag_map.svg",
+    "docs/assets/mapa-1.png",
+    "assets/tag_map.svg",
     "Sin título 1.canvas",
     "Sin título.canvas",
     "Mapas/Web Sergio Forés.canvas"
