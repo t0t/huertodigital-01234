@@ -13,6 +13,8 @@ Las herramientas digitales cada vez más se acercan al lenguaje natural
 - Automejora, Self Improvement, Mejora Continua
 - Aprender a aprender, Meta-learning, Julian Smith Jubel Goedel Machine
 
+![[Presentaciones/Pase Diapositivas/Huerto Digital/assets/tag_map.svg]]
+
 ---
 
 ## Todo es Información
@@ -20,7 +22,3 @@ Las herramientas digitales cada vez más se acercan al lenguaje natural
 - Información significa literalmente “poner en forma” (del latín in-formare)
 - IT FROM BIT (Archibald Wheele): "Bit" representa la mínima diferencia posible: sí/no, encendido/apagado, existencia/no existencia. "It" es lo que percibimos como la realidad física concreta, material o energética.
 - Información local y no-local
-
----
-
-ss

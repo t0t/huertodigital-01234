@@ -10,9 +10,6 @@
 - ¿Qué es [[que_es_01234|01234]]?
 
 
-
-
-
 Estructura de carpetas:
 
 ```

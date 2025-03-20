@@ -4,17 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "034979abf85264bf",
+        "id": "05f949eeb03fdfa6",
         "type": "tabs",
         "children": [
           {
-            "id": "702e48e6723b4054",
+            "id": "bad907e473c9a756",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Huerto_Digital_01234/percepcion.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nueva pestaña"
+              "title": "percepcion"
+            }
+          }
+        ]
+      },
+      {
+        "id": "eb7cd6d5c100919c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "17184c3393eefd8c",
+            "type": "leaf",
+            "state": {
+              "type": "reveal-preview-view",
+              "state": {},
+              "icon": "slides",
+              "title": "Preview: index.md"
             }
           }
         ]
@@ -49,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "index",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 266.5
+    "width": 203.5
   },
   "right": {
     "id": "5ffd270654971ef4",
@@ -164,59 +184,62 @@
       "command-palette:Abrir paleta de comandos": false,
       "slides-extended:Show slide preview": false,
       "publish:Publicar cambios": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "359f8b25f2991d9f",
+  "active": "bad907e473c9a756",
   "lastOpenFiles": [
-    "4",
-    "3",
-    "2",
-    "1",
-    "0",
-    "Notas/01234.md",
-    "Excalidraw/esquema_global.md",
-    "Excalidraw/esquema_01234_base.md",
-    "Excalidraw/tag_map.md",
-    "assets/tag_map.svg",
-    "Excalidraw/esquema_2.md",
-    "Mapas/Web Sergio Forés.canvas",
-    "Mapas/Huerto Digital - 01234.canvas",
-    "Mapas/mapa-1.canvas",
-    "assets/tag-map.pdf",
-    "assets/Captura de pantalla 2025-03-19 a las 23.01.26.png",
-    "assets/Captura de pantalla 2025-03-19 a las 23.00.14.png",
-    "assets/tag-map",
-    "Notas/sinergia.md",
-    "Notas/pnl.md",
-    "Notas/tetractys.md",
-    "Notas/vinculo.md",
-    "Notas/faceta.md",
-    "Excalidraw/desarrollo_web.md",
-    "Notas/llm.md",
-    "Notas/accion.md",
-    "Notas/percepcion_01234.md",
-    "Notas/basb.md",
-    "Notas/analogia.md",
-    "Notas/0.md",
-    "Notas/1.md",
-    "Notas/mente.md",
-    "assets/mapa-1.png",
-    "Excalidraw/esquema_global.png",
-    "Excalidraw/esquema_global.svg",
-    "assets/esquema_global.png",
-    "assets/esquema_global.svg",
-    "Notas/pardes.md",
-    "Excalidraw",
     "README.md",
-    "Privado/Finanzas/diagrama_general.md",
-    "Privado/tareas_personales.md",
     "index.md",
-    "Privado/Finanzas",
-    "Excalidraw/Drawing 2025-03-19 14.02.20.excalidraw.md",
-    "4",
-    "Mapas",
-    "quartz/public/vínculo-og-image.webp",
-    "quartz/public/vida-og-image.webp"
+    "Mapas/tag_map.md",
+    "Mapas/mapa-1.canvas",
+    "Mapas/Huerto Digital - 01234.canvas",
+    "Mapas/grafico_2025-03-20 11.02.28.md",
+    "Mapas/estructura_vault.md",
+    "Mapas/esquema_global.md",
+    "Mapas/esquema_01234_base.md",
+    "Mapas/esquema_2.md",
+    "Huerto_Digital_01234/vinculo.md",
+    "Huerto_Digital_01234/vida.md",
+    "Huerto_Digital_01234/vibracion.md",
+    "Huerto_Digital_01234/universo.md",
+    "Huerto_Digital_01234/tetragramaton.md",
+    "Huerto_Digital_01234/tetractys.md",
+    "Huerto_Digital_01234/termino.md",
+    "Huerto_Digital_01234/tension.md",
+    "Huerto_Digital_01234/sujeto.md",
+    "Huerto_Digital_01234/sistema.md",
+    "Huerto_Digital_01234/sintesis.md",
+    "Huerto_Digital_01234/sinergia.md",
+    "Huerto_Digital_01234/simbolo.md",
+    "Huerto_Digital_01234/significado.md",
+    "Huerto_Digital_01234/sesgo.md",
+    "Huerto_Digital_01234/sentido.md",
+    "Huerto_Digital_01234/resultado.md",
+    "Huerto_Digital_01234/reshimo.md",
+    "docs/lib/search-index.json",
+    "docs/lib/styles/other-plugins.css",
+    "docs/lib/styles/obsidian.css",
+    "docs/lib/styles/main-styles.css",
+    "docs/lib/styles/global-variable-styles.css",
+    "docs/lib/styles",
+    "docs/lib/media/favicon.png",
+    "docs/lib/html/file-tree.html",
+    "docs/lib/html",
+    "docs/lib/scripts/webpage.js",
+    "docs/lib/scripts/tinycolor.js",
+    "docs/Presentaciones/pase-diapositivas/huerto-digital/assets/tag_map.svg",
+    "docs/lib/media/tag_map.svg",
+    "docs/lib/media/6155340132a851f6089e.svg",
+    "docs/Presentaciones/Pase Diapositivas/plugin/chalkboard/img/whiteboard.png",
+    "docs/Presentaciones/Pase Diapositivas/plugin/chalkboard/img/sponge.png",
+    "docs/Presentaciones/Pase Diapositivas/plugin/chalkboard/img/chalk-yellow.png",
+    "docs/Presentaciones/Pase Diapositivas/plugin/chalkboard/img/chalk-white.png",
+    "docs/Presentaciones/Pase Diapositivas/plugin/chalkboard/img/chalk-red.png",
+    "docs/Presentaciones/Pase Diapositivas/plugin/chalkboard/img/chalk-purple.png",
+    "Sin título 1.canvas",
+    "Sin título.canvas",
+    "Mapas/Web Sergio Forés.canvas"
   ]
 }
