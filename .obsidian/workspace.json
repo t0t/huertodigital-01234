@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "significado.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "significado"
             }
           }
         ]
@@ -177,25 +177,25 @@
     "type": "floating",
     "children": [
       {
-        "id": "6196cc24a75ff8a4",
+        "id": "9a789efa00566e7e",
         "type": "window",
         "children": [
           {
-            "id": "9d708ee9d1cd3ab0",
+            "id": "bc82324967ee6f6f",
             "type": "tabs",
             "children": [
               {
-                "id": "9af3e438a9510579",
+                "id": "4b2f6a9f6b388f49",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Huerto_Digital_01234/red_coherente_conocimiento.md",
+                    "file": "vinculo.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "red_coherente_conocimiento"
+                  "title": "vinculo"
                 }
               }
             ]
@@ -211,34 +211,40 @@
       }
     ]
   },
-  "active": "9af3e438a9510579",
+  "active": "4b2f6a9f6b388f49",
   "lastOpenFiles": [
-    "Huerto_Digital_01234/recurso.md",
-    "Huerto_Digital_01234/razon.md",
-    "Huerto_Digital_01234/que_es_01234.md",
-    "Huerto_Digital_01234/propiedad.md",
-    "Huerto_Digital_01234/proceso.md",
-    "Huerto_Digital_01234/preexistencia.md",
-    "Huerto_Digital_01234/poesia.md",
-    "Huerto_Digital_01234/pnl.md",
-    "Huerto_Digital_01234/pkm.md",
-    "Huerto_Digital_01234/peso.md",
-    "Huerto_Digital_01234/percepcion_01234.md",
-    "Huerto_Digital_01234/percepcion.md",
-    "Huerto_Digital_01234/particula.md",
-    "Huerto_Digital_01234/pardes.md",
-    "Huerto_Digital_01234/paradoja.md",
-    "Huerto_Digital_01234/palabra.md",
-    "Huerto_Digital_01234/onda.md",
-    "Huerto_Digital_01234/olam.md",
-    "Huerto_Digital_01234/observacion.md",
-    "Huerto_Digital_01234/objeto.md",
-    "Huerto_Digital_01234/nodo_neurona.md",
-    "Huerto_Digital_01234/modelo.md",
-    "Huerto_Digital_01234/mistica.md",
-    "Huerto_Digital_01234/meta.md",
-    "Huerto_Digital_01234/mente.md",
-    "Huerto_Digital_01234/mejora_continua.md",
+    "vida.md",
+    "vibracion.md",
+    "universo.md",
+    "tetragramaton.md",
+    "tetractys.md",
+    "termino.md",
+    "tension.md",
+    "sujeto.md",
+    "sistema.md",
+    "sintesis.md",
+    "sinergia.md",
+    "simbolo.md",
+    "significado.md",
+    "sesgo.md",
+    "sentido.md",
+    "resultado.md",
+    "reshimo.md",
+    "repositorio.md",
+    "red_coherente_conocimiento.md",
+    "recurso.md",
+    "README.md",
+    "razon.md",
+    "que_es_01234.md",
+    "propiedad.md",
+    "proceso.md",
+    "preexistencia.md",
+    "Mapas/mapa-1.canvas",
+    "Mapas/Huerto Digital - 01234.canvas",
+    "assets/tag_map.svg",
+    "assets/mapa-1.png",
+    "assets/tag-map",
+    "assets",
     "docs/lib/search-index.json",
     "docs/lib/metadata.json",
     "docs/lib/styles/obsidian.css",
@@ -249,18 +255,12 @@
     "docs/lib/html",
     "docs/lib/media/favicon.png",
     "docs/lib/media/6155340132a851f6089e.svg",
-    "docs/lib/media",
-    "docs/lib/fonts/cbe0ae49c52c920fd563.woff2",
-    "docs/huerto_digital_01234/assets/mapa-1.png",
     "docs/huerto_digital_01234/assets/tag_map.svg",
-    "Mapas/mapa-1.canvas",
-    "Mapas/Huerto Digital - 01234.canvas",
+    "docs/huerto_digital_01234/assets/mapa-1.png",
     "docs/Presentaciones/pase-diapositivas/plugin/chalkboard/img/whiteboard.png",
     "docs/Presentaciones/pase-diapositivas/plugin/chalkboard/img/sponge.png",
     "docs/Presentaciones/pase-diapositivas/plugin/chalkboard/img/chalk-yellow.png",
     "docs/Presentaciones/pase-diapositivas/plugin/chalkboard/img/chalk-white.png",
-    "docs/Presentaciones/pase-diapositivas/plugin/chalkboard/img/chalk-red.png",
-    "docs/Presentaciones/pase-diapositivas/plugin/chalkboard/img/chalk-purple.png",
     "Sin título 1.canvas",
     "Sin título.canvas",
     "Mapas/Web Sergio Forés.canvas"
