@@ -1,4 +1,5 @@
 ---
+title: Peso sináptico
 campo_predominante: 4
 palabras_clave_vinculadas:
   - peso
@@ -6,14 +7,11 @@ palabras_clave_vinculadas:
   - conectividad
   - sensibilidad
   - conocimiento
-title: Peso sináptico
-etiquetas:
-  - tag1
+etiquetas: 
 tipo: campo_fundamental
 relacionado_a_campo: 0
 checkbox: false
-aliases:
-  - alias1
+aliases: []
 ---
 Valor numérico que determina la influencia relativa de diferentes elementos en un sistema de [[llm|Modelo de Lenguaje Grande]]. Parámetro que cuantifica la importancia o contribución de una característica, token o conexión específica dentro de una red neuronal.
 

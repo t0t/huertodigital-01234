@@ -3,7 +3,7 @@
   "baseFontSize": 16,
   "textFontFamily": "Montserrat",
   "translucency": false,
-  "accentColor": "",
+  "accentColor": "#76d69f",
   "theme": "system",
   "enabledCssSnippets": [
     "o1234"

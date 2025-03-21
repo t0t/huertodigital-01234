@@ -1,26 +1,33 @@
 ---
-campo_predominante: 2
-palabras_clave_vinculadas: ["interpretación", "comprensión", "significado", "texto", "método"]
+title: Hermenéutica
+relacionado_a_campo: 4
+campo_predominante: 3
+palabras_clave_vinculadas:
+  - interpretación
+  - comprensión
+  - significado
+  - texto
+  - método
 campos_secundarios:
   - campo: 1
     peso: 0.7
-    descripción: "Acto reflexivo y apertura a nuevas dimensiones de sentido"
+    descripción: Acto reflexivo y apertura a nuevas dimensiones de sentido
   - campo: 3
     peso: 0.6
-    descripción: "Operaciones mentales de comprensión e interpretación"
-aliases: ["arte de la interpretación", "teoría hermenéutica", "interpretación textual"]
-title: Titulo de la Página
+    descripción: Operaciones mentales de comprensión e interpretación
+aliases:
+  - arte de la interpretación
+  - teoría hermenéutica
+  - interpretación textual
 etiquetas:
-  - tag1
+  - hermes
+  - tecnica
 tipo: campo_fundamental
-relacionado_a_campo: 0
 checkbox: false
 ---
-
 # Hermenéutica
 
 Arte o habilidad de [[interpretacion|interpretar]], originalmente centrada en textos sagrados y jurídicos, que evolucionó hacia una disciplina filosófica preocupada por la naturaleza de la comprensión humana, el problema del significado y la relación entre texto, autor, contexto e intérprete.
-
 ## Principios fundamentales:
 
 - Todo acto de comprensión ocurre desde un horizonte histórico y cultural específico
@@ -29,7 +36,6 @@ Arte o habilidad de [[interpretacion|interpretar]], originalmente centrada en te
 - El [[significado]] no es fijo sino que emerge del diálogo entre texto e intérprete
 - La comprensión genuina requiere apertura a la alteridad del texto
 - El lenguaje no es mero instrumento sino el medio universal de la experiencia humana
-
 ## Tradiciones y enfoques principales:
 
 - Hermenéutica metodológica (Schleiermacher, Dilthey): búsqueda de métodos para la interpretación correcta
@@ -37,7 +43,6 @@ Arte o habilidad de [[interpretacion|interpretar]], originalmente centrada en te
 - Hermenéutica crítica (Habermas, Ricoeur): interpretación como desenmascaramiento de distorsiones ideológicas
 - Hermenéutica fenomenológica: descripción de las estructuras de la experiencia interpretativa
 - Hermenéutica posmoderna: pluralidad radical de interpretaciones sin jerarquía
-
 ## Implicaciones:
 
 La hermenéutica reconoce que toda comprensión es interpretativa y contextual, desafiando la noción positivista de conocimiento objetivo. Esto tiene profundas consecuencias para disciplinas como la historia, la jurisprudencia, la crítica literaria, la teología y las ciencias sociales.

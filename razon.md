@@ -1,14 +1,12 @@
 ---
-title: Titulo de la Página
-etiquetas:
-  - tag1
+title: Razón
+relacionado_a_campo: 1
+etiquetas: 
 tipo: campo_fundamental
-relacionado_a_campo: 0
-palabras_clave_vinculadas:
-  - origen
+palabras_clave_vinculadas: 
 checkbox: false
 aliases:
-  - alias1
+  - logos
 ---
 
 Facultad cognoscitiva que permite comprender, ordenar y explicar la realidad mediante principios lógicos y conceptuales. Capacidad distintiva del ser humano para establecer conexiones causales, abstractas y universales que trascienden la experiencia inmediata.

@@ -1,28 +1,25 @@
 ---
+title: Sujeto
 campo_predominante: 1
+relacionado_a_campo: 0
 campos_secundarios:
   - campo: 0
     peso: 0.8
-    descripción: "Potencialidad latente de sujetos posibles"
+    descripción: Potencialidad latente de sujetos posibles
   - campo: 2
     peso: 0.6
-    descripción: "Discriminación entre interpretaciones posibles"
+    descripción: Discriminación entre interpretaciones posibles
   - campo: 3
     peso: 0.4
-    descripción: "Relaciones significativas con el contexto"
+    descripción: Relaciones significativas con el contexto
   - campo: 4
     peso: 0.3
-    descripción: "Manifestación concreta de la dirección"
-title: Titulo de la Página
-etiquetas:
-  - tag1
+    descripción: Manifestación concreta de la dirección
+etiquetas: 
 tipo: campo_fundamental
-relacionado_a_campo: 0
-palabras_clave_vinculadas:
-  - origen
+palabras_clave_vinculadas: 
 checkbox: false
-aliases:
-  - alias1
+aliases: []
 ---
 
 Entidad dotada de [[conciencia]] que experimenta, conoce y actúa desde una perspectiva de primera persona. Centro de experiencia y agencia que establece la polaridad fundamental con el [[objeto]] en el acto de conocimiento y percepción.

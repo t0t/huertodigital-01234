@@ -1,15 +1,23 @@
 ---
+title: Cognición Extendida
 campo_predominante: 3
-palabras_clave_vinculadas: ["mente", "tecnología", "externalización", "sistemas", "procesamiento"]
+palabras_clave_vinculadas:
+  - mente
+  - tecnología
+  - externalización
+  - sistemas
+  - procesamiento
 campos_secundarios:
   - campo: 2
     peso: 0.8
-    descripción: "Estructuras de conocimiento y métodos de organización"
+    descripción: Estructuras de conocimiento y métodos de organización
   - campo: 4
     peso: 0.7
-    descripción: "Materialización física de procesos cognitivos"
-aliases: ["mente extendida", "externalización cognitiva", "cognición distribuida"]
-title: Titulo de la Página
+    descripción: Materialización física de procesos cognitivos
+aliases:
+  - mente extendida
+  - externalización cognitiva
+  - cognición distribuida
 etiquetas:
   - tag1
 tipo: campo_fundamental

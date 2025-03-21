@@ -1,16 +1,15 @@
 ---
-title: Titulo de la Página
+title: Mejora Contínua
+relacionado_a_campo: 4
 etiquetas:
-  - tag1
+  - proceso
 tipo: campo_fundamental
-relacionado_a_campo: 0
-palabras_clave_vinculadas:
-  - origen
+palabras_clave_vinculadas: 
 checkbox: false
 aliases:
-  - alias1
+  - iteración
+  - evolución
 ---
-
 # Mejora Continua
 
 [[4|Proceso]] cíclico y evolutivo mediante el cual un [[sistema]] optimiza progresivamente su funcionamiento, aprendiendo de sus resultados previos para perfeccionar sus operaciones futuras. Representa la capacidad de auto-refinamiento basado en la retroalimentación constante.
@@ -24,5 +23,3 @@ Características:
 - Mantiene una [[tension]] productiva entre la estabilidad y el cambio
 
 La mejora continua representa la manifestación del [[1|principio]] de evolución dentro de los sistemas, permitiendo que estos asciendan gradualmente a niveles superiores de complejidad, eficiencia y adaptabilidad mientras preservan su coherencia esencial.
-
-#proceso #sistema #aprendizaje #evolución #ciclo #adaptación

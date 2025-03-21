@@ -1,19 +1,25 @@
 ---
+title: Idea
 campo_predominante: 1
-palabras_clave_vinculadas: ["idea", "intuición", "inspiración", "chispa"]
+relacionado_a_campo: 0
+palabras_clave_vinculadas:
+  - idea
+  - intuición
+  - inspiración
+  - chispa
 campos_secundarios:
   - campo: 0
     peso: 0.8
-    descripción: "Origen en el potencial creativo y emergente"
+    descripción: Origen en el potencial creativo y emergente
   - campo: 2
     peso: 0.5
-    descripción: "Estructuración inicial del pensamiento"
-aliases: ["ocurrencia", "pensamiento inicial"]
-title: Titulo de la Página
+    descripción: Estructuración inicial del pensamiento
+aliases:
+  - ocurrencia
+  - pensamiento inicial
 etiquetas:
   - tag1
 tipo: campo_fundamental
-relacionado_a_campo: 0
 checkbox: false
 ---
 Una [[1|idea]] es una representación mental que surge del pensamiento, la imaginación o la reflexión. 

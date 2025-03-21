@@ -1,14 +1,13 @@
 ---
-title: Titulo de la Página
-etiquetas:
-  - tag1
-tipo: campo_fundamental
+title: Contemplación
 relacionado_a_campo: 0
+etiquetas: 
+tipo: campo_fundamental
 palabras_clave_vinculadas:
-  - origen
+  - templo
 checkbox: false
 aliases:
-  - alias1
+  - asombro
 ---
 
 Estado receptivo de atención plena y directa donde la [[conciencia]] se abre a la presencia inmediata de lo real. Modalidad de percepción no analítica que permite la aprehensión total y directa de un fenómeno, trascendiendo la dualidad [[sujeto]]-[[objeto]].

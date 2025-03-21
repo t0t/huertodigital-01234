@@ -1,10 +1,11 @@
 ---
+title: Arte
+tipo: campo_fundamental
 campo_predominante: 3
-palabras_clave_vinculadas: [""]
-title: Titulo de la Página
+palabras_clave_vinculadas:
+  - ""
 etiquetas:
   - tag1
-tipo: campo_fundamental
 relacionado_a_campo: 0
 checkbox: false
 aliases:

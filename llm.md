@@ -1,16 +1,13 @@
 ---
-title: Titulo de la Página
-etiquetas:
-  - tag1
+title: Large Language Model
+etiquetas: []
 tipo: campo_fundamental
-relacionado_a_campo: 0
-palabras_clave_vinculadas:
-  - origen
+relacionado_a_campo: 3
+palabras_clave_vinculadas: 
 checkbox: false
 aliases:
-  - alias1
+  - IA
 ---
-
 Sistema de inteligencia artificial diseñado para procesar, comprender y generar lenguaje natural a escala masiva. Arquitectura neural entrenada con enormes corpus textuales que desarrolla capacidades emergentes de razonamiento, creatividad y comprensión contextual.
 
 Características:

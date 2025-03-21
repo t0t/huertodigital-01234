@@ -1,5 +1,5 @@
 ---
-title: Titulo de la Página
+title: Frecuencia
 etiquetas:
   - tag1
 tipo: campo_fundamental

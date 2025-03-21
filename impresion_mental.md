@@ -1,14 +1,12 @@
 ---
-title: Titulo de la Página
+title: Impresión mental
+relacionado_a_campo: 2
 etiquetas:
-  - tag1
+  - imprime
 tipo: campo_fundamental
-relacionado_a_campo: 0
-palabras_clave_vinculadas:
-  - origen
+palabras_clave_vinculadas: 
 checkbox: false
 aliases:
-  - alias1
 ---
 
 # Impresión mental

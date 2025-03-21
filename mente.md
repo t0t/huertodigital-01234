@@ -1,19 +1,22 @@
 ---
-campo_predominante: 2
-palabras_clave_vinculadas: ["procesa", "estructura", "discriminación", "interpretación"]
+title: Mente
+campo_predominante: 3
+relacionado_a_campo: 1
+palabras_clave_vinculadas:
+  - aguas superiores
 campos_secundarios:
   - campo: 3
     peso: 0.7
-    descripción: "Establecimiento de relaciones entre conceptos y experiencias"
+    descripción: Establecimiento de relaciones entre conceptos y experiencias
   - campo: 0
     peso: 0.4
-    descripción: "Espacio de posibilidades cognitivas"
-aliases: ["intelecto", "cognición", "pensamiento"]
-title: Titulo de la Página
-etiquetas:
-  - tag1
+    descripción: Espacio de posibilidades cognitivas
+aliases:
+  - intelecto
+  - cognición
+  - pensamiento
+etiquetas: 
 tipo: campo_fundamental
-relacionado_a_campo: 0
 checkbox: false
 ---
 [[sistema]] dinámico y complejo que integra procesos [[2|cognitivos]], emocionales y perceptuales para crear una representación interior del mundo y facilitar la interacción con este. Principal [[dominio]] donde se desarrolla la [[2|cognición]] y emerge la [[inteligencia]].

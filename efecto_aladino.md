@@ -1,15 +1,21 @@
 ---
+title: Efecto Aladino
 campo_predominante: 1
-palabras_clave_vinculadas: ["intención", "deseo", "pregunta", "manifestación"]
+palabras_clave_vinculadas:
+  - intención
+  - deseo
+  - pregunta
+  - manifestación
 campos_secundarios:
   - campo: 0
     peso: 0.8
-    descripción: "Potencialidad latente a activar"
+    descripción: Potencialidad latente a activar
   - campo: 4
     peso: 0.7
-    descripción: "Manifestación concreta del deseo"
-aliases: ["principio del genio", "poder de la pregunta"]
-title: Titulo de la Página
+    descripción: Manifestación concreta del deseo
+aliases:
+  - principio del genio
+  - poder de la pregunta
 etiquetas:
   - tag1
 tipo: campo_fundamental
@@ -35,5 +41,3 @@ Principio según el cual se tiene acceso potencial a todas las respuestas posibl
 - La [[4|manifestación]] refleja fielmente la calidad de la petición
 
 Como Aladino ante el genio, obtendremos exactamente lo que pidamos, y la calidad de nuestra experiencia dependerá de nuestra habilidad para formular las [[1|preguntas]] correctas.
-
-#transformación #manifestación #intención #potencialidad #deseo #pregunta

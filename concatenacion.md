@@ -1,16 +1,23 @@
 ---
+title: Concatenación
+relacionado_a_campo: 1
 campo_predominante: 3
-palabras_clave_vinculadas: ["concatenación", "conexión", "secuencia", "enlace", "vínculo"]
+palabras_clave_vinculadas:
+  - concatenación
+  - conexión
+  - secuencia
+  - enlace
+  - vínculo
 campos_secundarios:
   - campo: 4
     peso: 0.7
-    descripción: "Manifestación concreta de procesos secuenciales y transformaciones"
-aliases: ["encadenamiento", "secuenciación", "enlace secuencial"]
-title: Titulo de la Página
-etiquetas:
-  - tag1
+    descripción: Manifestación concreta de procesos secuenciales y transformaciones
+aliases:
+  - encadenamiento
+  - secuenciación
+  - enlace secuencial
+etiquetas: 
 tipo: campo_fundamental
-relacionado_a_campo: 0
 checkbox: false
 ---
 # Concatenación

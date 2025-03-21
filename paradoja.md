@@ -1,14 +1,11 @@
 ---
 title: Paradoja
-etiquetas:
-  - tag1
+relacionado_a_campo: 2
+etiquetas: 
 tipo: campo_fundamental
-relacionado_a_campo: 0
-palabras_clave_vinculadas:
-  - origen
+palabras_clave_vinculadas: 
 checkbox: false
 aliases:
-  - alias1
 ---
 
 Proposición o situación que, pese a basarse en un razonamiento aparentemente válido, contiene contradicciones internas que desafían la lógica convencional. Fenómeno que vincula simultáneamente aspectos mutuamente excluyentes, creando una [[tension]] cognitiva productiva.

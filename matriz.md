@@ -1,16 +1,13 @@
 ---
-title: Titulo de la Página
-etiquetas:
-  - tag1
+title: Matriz
+relacionado_a_campo: 1
+etiquetas: 
 tipo: campo_fundamental
-relacionado_a_campo: 0
-palabras_clave_vinculadas:
-  - origen
+palabras_clave_vinculadas: 
 checkbox: false
 aliases:
-  - alias1
+  - malla
 ---
-
 Estructura organizativa bidimensional o multidimensional que opera como sistema generativo y ordenador. Espacio conceptual o físico que establece relaciones entre elementos y permite la emergencia de patrones y propiedades sistémicas.
 
 Características:
@@ -29,5 +26,3 @@ La matriz opera en los diferentes campos vibracionales:
 - [[4]]: En la manifestación concreta de organizaciones específicas
 
 Similar al concepto de [[dominio]], la matriz representa un espacio estructurado donde las potencialidades se organizan según determinados principios, permitiendo que el caos inicial ([[0]]) se transforme progresivamente en orden ([[4]]) a través de procesos de organización creciente.
-
-#estructura #organización #sistema #patrón #generación

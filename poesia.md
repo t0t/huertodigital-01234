@@ -1,16 +1,12 @@
 ---
-title: Titulo de la Página
-etiquetas:
-  - tag1
+title: Poesía
+relacionado_a_campo: 3
+etiquetas: 
 tipo: campo_fundamental
-relacionado_a_campo: 0
-palabras_clave_vinculadas:
-  - origen
+palabras_clave_vinculadas: 
 checkbox: false
 aliases:
-  - alias1
 ---
-
 # Poesía
 
 [[arte]] del lenguaje que explora las dimensiones rítmicas, sonoras y simbólicas de la [[palabra]] para crear experiencias estéticas que trascienden el significado literal. Forma de expresión que condensa y concentra la potencialidad del lenguaje.

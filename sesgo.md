@@ -1,19 +1,26 @@
 ---
+title: Sesgo
+relacionado_a_campo: 1
 campo_predominante: 2
-palabras_clave_vinculadas: ["sesgo", "filtro", "inclinación", "tendencia", "predisposición"]
+palabras_clave_vinculadas:
+  - sesgo
+  - filtro
+  - inclinación
+  - tendencia
+  - predisposición
 campos_secundarios:
   - campo: 3
     peso: 0.6
-    descripción: "Redes de presuposiciones interrelacionadas que afectan la interpretación"
+    descripción: Redes de presuposiciones interrelacionadas que afectan la interpretación
   - campo: 4
     peso: 0.5
-    descripción: "Manifestación concreta como inclinación específica en procesos"
-aliases: ["inclinación cognitiva", "predisposición", "filtro cognitivo"]
-title: Titulo de la Página
-etiquetas:
-  - tag1
+    descripción: Manifestación concreta como inclinación específica en procesos
+aliases:
+  - inclinación cognitiva
+  - predisposición
+  - filtro cognitivo
+etiquetas: 
 tipo: campo_fundamental
-relacionado_a_campo: 0
 checkbox: false
 ---
 # Sesgo

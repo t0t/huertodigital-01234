@@ -1,16 +1,13 @@
 ---
+title: Programación Neuro Linguistica
+relacionado_a_campo: 1
 campo_predominante: 3
-palabras_clave_vinculadas: [""]
-title: Titulo de la Página
-etiquetas:
-  - tag1
+palabras_clave_vinculadas: 
+etiquetas: 
 tipo: campo_fundamental
-relacionado_a_campo: 0
 checkbox: false
-aliases:
-  - alias1
+aliases: []
 ---
-
 ### Programación Neurolingüística (PNL)
 
 La **Programación Neurolingüística** es un modelo de comunicación y desarrollo personal que estudia la relación entre los procesos neurológicos, el lenguaje y los patrones de comportamiento aprendidos para mejorar la experiencia y el desempeño humano.

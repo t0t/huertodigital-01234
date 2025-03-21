@@ -1,16 +1,13 @@
 ---
-title: Titulo de la Página
-etiquetas:
-  - tag1
+title: Cosa
+relacionado_a_campo: 1
+etiquetas: 
 tipo: campo_fundamental
-relacionado_a_campo: 0
-palabras_clave_vinculadas:
-  - origen
+palabras_clave_vinculadas: []
 checkbox: false
 aliases:
-  - alias1
+  - dabar
 ---
-
 Entidad concreta que posee existencia material independiente y ocupa espacio físico. Manifestación específica y tangible que puede ser percibida por los sentidos y que persiste en el tiempo manteniendo características identificables.
 
 Características:

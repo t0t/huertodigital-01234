@@ -1,5 +1,5 @@
 ---
-title: Titulo de la Página
+title: Coagulación de Significado
 etiquetas:
   - tag1
 tipo: campo_fundamental

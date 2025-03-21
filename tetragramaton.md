@@ -1,19 +1,26 @@
 ---
+title: Tetra Gramatón
 campo_predominante: 1
-palabras_clave_vinculadas: ["tetragramatón", "nombre divino", "identidad", "voluntad", "esencia"]
+relacionado_a_campo: 0
+palabras_clave_vinculadas:
+  - tetragramatón
+  - nombre divino
+  - identidad
+  - voluntad
+  - esencia
 campos_secundarios:
   - campo: 0
     peso: 0.8
-    descripción: "Manifestación de la potencialidad divina innombrable"
+    descripción: Manifestación de la potencialidad divina innombrable
   - campo: 3
     peso: 0.6
-    descripción: "Código lingüístico y sistema simbólico de correspondencias"
-aliases: ["YHVH", "nombre de cuatro letras", "Shem HaMeforash"]
-title: Titulo de la Página
-etiquetas:
-  - tag1
+    descripción: Código lingüístico y sistema simbólico de correspondencias
+aliases:
+  - YHVH
+  - nombre de cuatro letras
+  - Shem HaMeforash
+etiquetas: []
 tipo: campo_fundamental
-relacionado_a_campo: 0
 checkbox: false
 ---
 # Tetragramatón

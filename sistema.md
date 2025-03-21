@@ -1,19 +1,24 @@
 ---
-campo_predominante: 3
-palabras_clave_vinculadas: ["sistema", "relaciones", "integración", "adaptativo"]
+title: Sistema
+relacionado_a_campo: 3
+campo_predominante: 4
+palabras_clave_vinculadas:
+  - sistema
+  - relaciones
+  - integración
+  - adaptativo
 campos_secundarios:
   - campo: 2
     peso: 0.7
-    descripción: "Organización y estructura de componentes"
+    descripción: Organización y estructura de componentes
   - campo: 1
     peso: 0.5
-    descripción: "Unidad funcional e identidad como totalidad"
-aliases: ["conjunto organizado", "totalidad integrada"]
-title: Titulo de la Página
-etiquetas:
-  - tag1
+    descripción: Unidad funcional e identidad como totalidad
+aliases:
+  - conjunto organizado
+  - totalidad integrada
+etiquetas: 
 tipo: campo_fundamental
-relacionado_a_campo: 0
 checkbox: false
 ---
 ## [[3|Sistema]] Inteligente Vivo (SIV)

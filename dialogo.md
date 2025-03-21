@@ -1,14 +1,15 @@
 ---
-title: Titulo de la Página
+title: Diálogo
 etiquetas:
   - tag1
 tipo: campo_fundamental
-relacionado_a_campo: 0
+relacionado_a_campo: 3
 palabras_clave_vinculadas:
   - origen
 checkbox: false
 aliases:
-  - alias1
+  - camino
+  - logos
 ---
 
 Intercambio comunicativo entre dos o más entidades que genera un espacio compartido de [[significado]]. [[4|Proceso]] relacional que permite la exploración conjunta de ideas, la negociación de [[sentido]] y la construcción colaborativa de comprensiones.

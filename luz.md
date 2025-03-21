@@ -1,20 +1,18 @@
 ---
-title: Titulo de la Página
-etiquetas:
-  - tag1
+title: Luz
+relacionado_a_campo: 1
+etiquetas: 
 tipo: campo_fundamental
-relacionado_a_campo: 0
 palabras_clave_vinculadas:
-  - origen
+  - igneo
+  - fotón
 checkbox: false
 aliases:
-  - alias1
 ---
-
 Radiación electromagnética visible que permite la percepción visual y simboliza la claridad, comprensión y revelación. Fenómeno dual que manifiesta simultáneamente propiedades ondulatorias y corpusculares, transportando energía e información.
 
 Características:
-- Exhibe naturaleza dual como [[onda]] y [[partícula]] (fotón)
+- Exhibe naturaleza dual como [[onda]] y [[particula]] (fotón)
 - Actúa como medio primario para la revelación del mundo visible
 - Posee velocidad constante que constituye un límite cósmico fundamental
 - Presenta espectro variado que genera diversidad perceptiva

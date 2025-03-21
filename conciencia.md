@@ -1,19 +1,26 @@
 ---
+title: Conciencia
+relacionado_a_campo: 0
 campo_predominante: 1
-palabras_clave_vinculadas: ["conciencia", "experiencia", "identidad", "presencia"]
+palabras_clave_vinculadas:
+  - conciencia
+  - experiencia
+  - identidad
+  - presencia
 campos_secundarios:
   - campo: 3
     peso: 0.8
-    descripción: "Interrelación entre estados y contenidos"
+    descripción: Interrelación entre estados y contenidos
   - campo: 0
     peso: 0.6
-    descripción: "Campo potencial de todas las experiencias posibles"
-aliases: ["awareness", "consciencia", "percatación"]
-title: Titulo de la Página
+    descripción: Campo potencial de todas las experiencias posibles
+aliases:
+  - awareness
+  - consciencia
+  - percatación
 etiquetas:
   - tag1
 tipo: campo_fundamental
-relacionado_a_campo: 0
 checkbox: false
 ---
 Capacidad de un [[3|sistema]] para percibirse a sí mismo y a su entorno, generando una [[1|experiencia]] subjetiva de la realidad. Estado o cualidad que permite la aprehensión inmediata de contenidos mentales y del [[4|mundo exterior]].

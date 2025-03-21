@@ -1,17 +1,17 @@
 ---
-campo_predominante: 2
-palabras_clave_vinculadas: ["procesamiento", "estructura", "organización", "memoria", "método"]
+title: Captura de Información
+campo_predominante: 1
+palabras_clave_vinculadas: 
 campos_secundarios:
   - campo: 1
     peso: 0.7
-    descripción: "Claridad mental y dirección atencional liberada"
+    descripción: Claridad mental y dirección atencional liberada
   - campo: 4
     peso: 0.6
-    descripción: "Sistemas tangibles de captura y acciones concretas"
-aliases: ["descarga cognitiva", "gestión de información", "liberación mental"]
-title: Titulo de la Página
-etiquetas:
-  - tag1
+    descripción: Sistemas tangibles de captura y acciones concretas
+aliases:
+  - Insight
+etiquetas: []
 tipo: campo_fundamental
 relacionado_a_campo: 0
 checkbox: false

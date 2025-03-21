@@ -1,14 +1,12 @@
 ---
-title: Titulo de la Página
-etiquetas:
-  - tag1
-tipo: campo_fundamental
+title: Darse Cuenta
 relacionado_a_campo: 0
-palabras_clave_vinculadas:
-  - origen
+etiquetas: 
+tipo: campo_fundamental
+palabras_clave_vinculadas: 
 checkbox: false
 aliases:
-  - alias1
+  - cuenta
 ---
 
 ## Darse Cuenta: Dar Cuenta al Ser

@@ -1,19 +1,24 @@
 ---
-campo_predominante: 3
-palabras_clave_vinculadas: ["percepción", "interpretación", "significativa", "representación"]
+title: Percepción
+relacionado_a_campo: 0
+campo_predominante: 2
+palabras_clave_vinculadas:
+  - percepción
+  - interpretación
+  - significativa
+  - representación
 campos_secundarios:
   - campo: 4
     peso: 0.7
-    descripción: "Proceso activo de captación sensorial"
+    descripción: Proceso activo de captación sensorial
   - campo: 2
     peso: 0.5
-    descripción: "Organización y discriminación de estímulos"
-aliases: ["captación", "aprehensión"]
-title: Titulo de la Página
-etiquetas:
-  - tag1
+    descripción: Organización y discriminación de estímulos
+aliases:
+  - captación
+  - aprehensión
+etiquetas: []
 tipo: campo_fundamental
-relacionado_a_campo: 0
 checkbox: false
 ---
 # Percepción

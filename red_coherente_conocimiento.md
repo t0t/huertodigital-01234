@@ -1,16 +1,21 @@
 ---
+title: Red Coherente de Conocimiento
 campo_predominante: 3
-palabras_clave_vinculadas: ["red", "coherencia", "conocimiento"]
+relacionado_a_campo: 4
+palabras_clave_vinculadas:
+  - red
+  - coherencia
+  - conocimiento
 campos_secundarios:
   - campo: 2
     peso: 0.7
-    descripción: "Estructura organizativa"
-aliases: ["sistema de conocimiento interconectado", "ecología del saber"]
-title: Titulo de la Página
+    descripción: Estructura organizativa
+aliases:
+  - sistema de conocimiento interconectado
+  - ecología del saber
 etiquetas:
-  - tag1
+  - coherencia
 tipo: campo_fundamental
-relacionado_a_campo: 0
 checkbox: false
 ---
 # Red Coherente de Conocimiento

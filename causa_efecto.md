@@ -1,5 +1,5 @@
 ---
-title: Titulo de la Página
+title: Causa y Efecto
 etiquetas:
   - tag1
 tipo: campo_fundamental
@@ -18,8 +18,8 @@ Características:
 - Opera como principio organizador de la experiencia temporal
 - Permite la predicción y explicación de fenómenos
 - Mantiene diferentes niveles de determinación (lineal, probabilística, emergente)
-- Constituye la base de la [[acción]] intencional y dirigida
-- Genera cadenas de [[concatenación]] que estructuran la realidad
+- Constituye la base de la [[accion]] intencional y dirigida
+- Genera cadenas de [[concatenacion]] que estructuran la realidad
 
 La relación causa-efecto puede analizarse a través de los campos vibracionales:
 - [[0]]: Contiene todas las posibles cadenas causales en estado potencial
@@ -28,6 +28,6 @@ La relación causa-efecto puede analizarse a través de los campos vibracionales
 - [[3]]: Establece redes de relaciones causales complejas e interconectadas
 - [[4]]: Se manifiesta en secuencias observables y procesos concretos
 
-Este principio conecta con el concepto de [[gradiente]], donde cada efecto es el agotamiento de un descenso, la manifestación final de un proceso que, al completarse, alimenta la siguiente iteración, generando ciclos de [[4|causa y efecto]] que impulsan la evolución del [[sistema]].
+Este principio conecta con el concepto de [[gradiente]], donde cada efecto es el agotamiento de un descenso, la manifestación final de un proceso que, al completarse, alimenta la siguiente iteración, generando ciclos de causa_efecto que impulsan la evolución del [[sistema]].
 
 #causalidad #secuencia #determinación #predicción #proceso

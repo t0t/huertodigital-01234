@@ -1,9 +1,9 @@
 ---
-title: Titulo de la Página
+title: Discernimiento
 etiquetas:
   - tag1
 tipo: campo_fundamental
-relacionado_a_campo: 0
+relacionado_a_campo: 1
 palabras_clave_vinculadas:
   - origen
 checkbox: false

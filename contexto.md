@@ -1,15 +1,21 @@
 ---
+title: Contexto
 campo_predominante: 3
-palabras_clave_vinculadas: ["contexto", "relaciones", "marco", "significado"]
+palabras_clave_vinculadas:
+  - contexto
+  - relaciones
+  - marco
+  - significado
 campos_secundarios:
   - campo: 2
     peso: 0.6
-    descripción: "Discriminación de elementos relevantes del entorno"
+    descripción: Discriminación de elementos relevantes del entorno
   - campo: 4
     peso: 0.4
-    descripción: "Concreción como situación específica"
-aliases: ["entorno significativo", "marco referencial"]
-title: Titulo de la Página
+    descripción: Concreción como situación específica
+aliases:
+  - entorno significativo
+  - marco referencial
 etiquetas:
   - tag1
 tipo: campo_fundamental

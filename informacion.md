@@ -1,5 +1,6 @@
 ---
-campo_predominante: 4
+title: Información
+campo_predominante: 0
 palabras_clave_vinculadas:
   - información
   - datos
@@ -15,11 +16,10 @@ campos_secundarios:
 aliases:
   - datos estructurados
   - contenido procesado
-title: Titulo de la Página
 etiquetas:
   - tag1
 tipo: campo_fundamental
-relacionado_a_campo: 0
+relacionado_a_campo: 4
 checkbox: false
 ---
 # Información

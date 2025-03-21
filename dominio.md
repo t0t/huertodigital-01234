@@ -1,14 +1,15 @@
 ---
-title: Titulo de la Página
+title: Dominio
 etiquetas:
   - tag1
 tipo: campo_fundamental
 relacionado_a_campo: 0
 palabras_clave_vinculadas:
   - origen
+  - campo
 checkbox: false
 aliases:
-  - alias1
+  - área
 ---
 
 # Dominio
@@ -24,6 +25,3 @@ Características:
 - Puede interactuar o superponerse con otros dominios
 
 Un dominio puede funcionar como un contenedor conceptual para organizar el conocimiento, como un espacio de aplicación para ejercer [[4|acción]], o como un área temática que agrupa fenómenos relacionados.
-
-
-#sistema #contexto #ámbito #campo

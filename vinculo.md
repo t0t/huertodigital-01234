@@ -1,19 +1,27 @@
 ---
+title: Vínculo
 campo_predominante: 3
-palabras_clave_vinculadas: ["vínculo", "conexión", "relación", "lazo", "nexo", "enlace"]
+relacionado_a_campo: 2
+palabras_clave_vinculadas:
+  - vínculo
+  - conexión
+  - relación
+  - lazo
+  - nexo
+  - enlace
 campos_secundarios:
   - campo: 1
     peso: 0.6
-    descripción: "Aspecto intencional y unificador de la conexión"
+    descripción: Aspecto intencional y unificador de la conexión
   - campo: 4
     peso: 0.7
-    descripción: "Manifestación concreta y observable de la relación"
-aliases: ["enlace", "ligadura", "nexo relacional"]
-title: Titulo de la Página
-etiquetas:
-  - tag1
+    descripción: Manifestación concreta y observable de la relación
+aliases:
+  - enlace
+  - ligadura
+  - nexo relacional
+etiquetas: []
 tipo: campo_fundamental
-relacionado_a_campo: 0
 checkbox: false
 ---
 # Vínculo

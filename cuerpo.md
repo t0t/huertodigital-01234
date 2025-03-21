@@ -1,19 +1,26 @@
 ---
+title: Cuerpo
+relacionado_a_campo: 3
 campo_predominante: 4
-palabras_clave_vinculadas: ["cuerpo", "material", "tangible", "concreto", "funciona"]
+palabras_clave_vinculadas:
+  - cuerpo
+  - material
+  - tangible
+  - concreto
+  - funciona
 campos_secundarios:
   - campo: 2
     peso: 0.6
-    descripción: "Diferenciación de órganos"
+    descripción: Diferenciación de órganos
   - campo: 3
     peso: 0.6
-    descripción: "Integración sistémica"
-aliases: ["físico", "soma", "nefesh"]
-title: Titulo de la Página
-etiquetas:
-  - tag1
+    descripción: Integración sistémica
+aliases:
+  - físico
+  - soma
+  - nefesh
+etiquetas: 
 tipo: campo_fundamental
-relacionado_a_campo: 0
 checkbox: false
 ---
 

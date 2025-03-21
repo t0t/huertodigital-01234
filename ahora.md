@@ -1,12 +1,20 @@
 ---
+title: Ahora
 campo_predominante: 4
-palabras_clave_vinculadas: ["presente", "instante", "inmediatez", "actualidad", "presencia"]
+palabras_clave_vinculadas:
+  - presente
+  - instante
+  - inmediatez
+  - actualidad
+  - presencia
 campos_secundarios:
   - campo: 0
     peso: 0.9
-    descripción: "Relaciones entre los elementos contenidos"
-aliases: ["ahora", "instante", "inmediatez"]
-title: Titulo de la Página
+    descripción: Relaciones entre los elementos contenidos
+aliases:
+  - ahora
+  - instante
+  - inmediatez
 etiquetas:
   - tag1
 tipo: campo_fundamental

@@ -1,14 +1,13 @@
 ---
-title: Titulo de la Página
+title: Existencia
+relacionado_a_campo: 1
 etiquetas:
-  - tag1
+  - es
 tipo: campo_fundamental
-relacionado_a_campo: 0
 palabras_clave_vinculadas:
-  - origen
+  - funda
 checkbox: false
-aliases:
-  - alias1
+aliases: []
 ---
 
 Estado fundamental de ser o manifestarse en la realidad. Condición de aquello que ha transitado desde la potencialidad hacia la actualidad, adquiriendo presencia efectiva en un [[dominio]] determinado.

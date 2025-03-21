@@ -1,14 +1,11 @@
 ---
-title: Titulo de la Página
-etiquetas:
-  - tag1
+title: Encuentro
+relacionado_a_campo: 3
+etiquetas: 
 tipo: campo_fundamental
-relacionado_a_campo: 0
-palabras_clave_vinculadas:
-  - origen
+palabras_clave_vinculadas: 
 checkbox: false
 aliases:
-  - alias1
 ---
 
 Convergencia espaciotemporal donde entidades, personas o ideas entran en relación directa, generando un campo interactivo de influencia mutua. Acontecimiento que posibilita el intercambio, el reconocimiento y la transformación recíproca.

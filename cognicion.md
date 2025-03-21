@@ -1,15 +1,21 @@
 ---
+title: Cognición
 campo_predominante: 2
-palabras_clave_vinculadas: ["cognición", "procesar", "razonamiento", "análisis"]
+palabras_clave_vinculadas:
+  - cognición
+  - procesar
+  - razonamiento
+  - análisis
 campos_secundarios:
   - campo: 3
     peso: 0.7
-    descripción: "Comprensión y generación de significados"
+    descripción: Comprensión y generación de significados
   - campo: 4
     peso: 0.5
-    descripción: "Adaptación práctica al entorno"
-aliases: ["pensamiento", "procesamiento mental"]
-title: Titulo de la Página
+    descripción: Adaptación práctica al entorno
+aliases:
+  - pensamiento
+  - procesamiento mental
 etiquetas:
   - tag1
 tipo: campo_fundamental

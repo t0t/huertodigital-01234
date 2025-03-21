@@ -1,19 +1,24 @@
 ---
-campo_predominante: 2
-palabras_clave_vinculadas: ["concepto", "categorizar", "abstracción", "clasificar"]
+title: Concepto
+relacionado_a_campo: 1
+campo_predominante: 3
+palabras_clave_vinculadas:
+  - concepto
+  - categorizar
+  - abstracción
+  - clasificar
 campos_secundarios:
   - campo: 3
     peso: 0.8
-    descripción: "Significado compartido y comunicable"
+    descripción: Significado compartido y comunicable
   - campo: 1
     peso: 0.5
-    descripción: "Unidad de conocimiento integrada"
-aliases: ["noción", "idea formalizada"]
-title: Titulo de la Página
-etiquetas:
-  - tag1
+    descripción: Unidad de conocimiento integrada
+aliases:
+  - noción
+  - idea formalizada
+etiquetas: 
 tipo: campo_fundamental
-relacionado_a_campo: 0
 checkbox: false
 ---
 # Concepto

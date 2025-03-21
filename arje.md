@@ -1,7 +1,13 @@
 ---
+title: Arjé
 campo_predominante: 1
-palabras_clave_vinculadas: ["arjé", "origen", "fundamento", "principio", "sustrato", "ontología"]
-title: Titulo de la Página
+palabras_clave_vinculadas:
+  - arjé
+  - origen
+  - fundamento
+  - principio
+  - sustrato
+  - ontología
 etiquetas:
   - tag1
 tipo: campo_fundamental

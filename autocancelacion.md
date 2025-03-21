@@ -1,14 +1,14 @@
 ---
-title: Titulo de la Página
+title: Auto-Cancelación
 etiquetas:
   - tag1
 tipo: campo_fundamental
-relacionado_a_campo: 0
+relacionado_a_campo: 2
 palabras_clave_vinculadas:
   - origen
 checkbox: false
 aliases:
-  - alias1
+  - Bitul
 ---
 
 Proceso de anulación del ego individual para permitir la manifestación de realidades superiores. Concepto derivado del término  "bitul" (ביטול) que en la [[cabalá]] refiere al acto de auto-negación como vía para recibir la luz divina.

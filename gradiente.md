@@ -1,14 +1,12 @@
 ---
-title: Titulo de la Página
-etiquetas:
-  - tag1
+title: Gradiente del Significado
+etiquetas: 
 tipo: campo_fundamental
-relacionado_a_campo: 0
-palabras_clave_vinculadas:
-  - origen
+relacionado_a_campo: 3
+palabras_clave_vinculadas: 
 checkbox: false
 aliases:
-  - alias1
+  - grados
 ---
 
 # El Gradiente del Significado Precipitándose en Forma

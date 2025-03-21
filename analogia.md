@@ -1,7 +1,8 @@
 ---
+title: Analogía
 campo_predominante: 3
-palabras_clave_vinculadas: [""]
-title: Titulo de la Página
+palabras_clave_vinculadas:
+  - ""
 etiquetas:
   - tag1
 tipo: campo_fundamental

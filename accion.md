@@ -1,15 +1,22 @@
 ---
+title: Acción
 campo_predominante: 4
-palabras_clave_vinculadas: ["acción", "materialización", "efecto", "concreción"]
+palabras_clave_vinculadas:
+  - acción
+  - materialización
+  - efecto
+  - concreción
 campos_secundarios:
   - campo: 1
     peso: 0.6
-    descripción: "Intención y propósito que guía la acción"
+    descripción: Intención y propósito que guía la acción
   - campo: 3
     peso: 0.4
-    descripción: "Relación entre medios, fines y contextos"
-aliases: ["actuación", "realización", "ejecución"]
-title: Titulo de la Página
+    descripción: Relación entre medios, fines y contextos
+aliases:
+  - actuación
+  - realización
+  - ejecución
 etiquetas:
   - tag1
 tipo: campo_fundamental

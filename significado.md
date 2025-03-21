@@ -1,32 +1,26 @@
 ---
+title: Significado
+relacionado_a_campo: 0
 campo_predominante: 3
 campos_secundarios:
   - campo: 0
     peso: 0.8
-    descripción: "Potencialidad latente de significados posibles"
+    descripción: Potencialidad latente de significados posibles
   - campo: 2
     peso: 0.6
-    descripción: "Discriminación entre interpretaciones posibles"
+    descripción: Discriminación entre interpretaciones posibles
   - campo: 3
     peso: 0.4
-    descripción: "Relaciones significativas con el contexto"
+    descripción: Relaciones significativas con el contexto
   - campo: 4
     peso: 0.3
-    descripción: "Manifestación concreta de la dirección"
-title: Titulo de la Página
-etiquetas:
-  - tag1
+    descripción: Manifestación concreta de la dirección
+etiquetas: 
 tipo: campo_fundamental
-relacionado_a_campo: 0
-palabras_clave_vinculadas:
-  - origen
+palabras_clave_vinculadas: 
 checkbox: false
-aliases:
-  - alias1
+aliases: []
 ---
-
-# Significado
-
 Contenido semántico o valor representacional que se atribuye a un signo, símbolo, expresión o acontecimiento. Resultado del proceso de [[1|dar forma]] a una [[información]] dentro de un contexto interpretativo específico.
 
 Características:

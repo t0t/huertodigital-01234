@@ -1,19 +1,24 @@
 ---
-campo_predominante: 2
-palabras_clave_vinculadas: ["memoria", "estructura", "información", "patrones"]
+title: Lugar Ritmo (Memoria del Crecimiento)
+campo_predominante: 1
+relacionado_a_campo: 4
+palabras_clave_vinculadas:
+  - memoria
+  - estructura
+  - información
+  - patrones
 campos_secundarios:
   - campo: 4
     peso: 0.6
-    descripción: "Huella y ritmo de materialización"
+    descripción: Huella y ritmo de materialización
   - campo: 0
     peso: 0.3
-    descripción: "Espacio de potencialidad expansiva"
-aliases: ["patrón espaciotemporal", "huella evolutiva"]
-title: Titulo de la Página
-etiquetas:
-  - tag1
+    descripción: Espacio de potencialidad expansiva
+aliases:
+  - patrón espaciotemporal
+  - huella evolutiva
+etiquetas: 
 tipo: campo_fundamental
-relacionado_a_campo: 0
 checkbox: false
 ---
 # El "Lugaritmo" como [[2|Memoria]] del Crecimiento

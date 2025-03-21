@@ -1,16 +1,15 @@
 ---
-title: Titulo de la Página
+title: Información sobre el proyecto
 etiquetas:
-  - tag1
+  - about
 tipo: campo_fundamental
-relacionado_a_campo: 0
+relacionado_a_campo: 
 palabras_clave_vinculadas:
-  - origen
+  - información
 checkbox: false
 aliases:
-  - alias1
+  - Orquestación
 ---
-
 # ¿Qué es la bóveda 01234?
 
 ## Más espacio mental para concentrarte en lo que realmente importa

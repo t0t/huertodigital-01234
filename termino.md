@@ -1,17 +1,22 @@
 ---
+title: Término
 campo_predominante: 3
-palabras_clave_vinculadas: ["término", "significado", "lenguaje", "comunicación"]
+palabras_clave_vinculadas:
+  - término
+  - significado
+  - lenguaje
+  - comunicación
 campos_secundarios:
   - campo: 2
     peso: 0.6
-    descripción: "Diferenciación y clasificación conceptual"
+    descripción: Diferenciación y clasificación conceptual
   - campo: 1
     peso: 0.3
-    descripción: "Unidad léxica con precisión"
-aliases: ["vocablo", "tecnicismo"]
-title: Titulo de la Página
-etiquetas:
-  - tag1
+    descripción: Unidad léxica con precisión
+aliases:
+  - vocablo
+  - tecnicismo
+etiquetas: []
 tipo: campo_fundamental
 relacionado_a_campo: 0
 checkbox: false

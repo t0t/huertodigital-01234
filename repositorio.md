@@ -1,19 +1,25 @@
 ---
+title: Repositorio
+relacionado_a_campo: 0
 campo_predominante: 0
-palabras_clave_vinculadas: ["repositorio", "potencialidad", "contención", "posibilidades"]
+palabras_clave_vinculadas:
+  - repositorio
+  - potencialidad
+  - contención
+  - posibilidades
 campos_secundarios:
   - campo: 3
     peso: 0.7
-    descripción: "Relaciones entre los elementos contenidos"
+    descripción: Relaciones entre los elementos contenidos
   - campo: 2
     peso: 0.6
-    descripción: "Organización estructural de los contenidos"
-aliases: ["almacén", "contenedor", "depósito"]
-title: Titulo de la Página
-etiquetas:
-  - tag1
+    descripción: Organización estructural de los contenidos
+aliases:
+  - almacén
+  - contenedor
+  - depósito
+etiquetas: []
 tipo: campo_fundamental
-relacionado_a_campo: 0
 checkbox: false
 ---
 [[0|Espacio]] contenedor de [[0|potencialidades]] que alberga y preserva elementos en estado latente, constituyendo un campo de [[0|posibilidades]] disponibles. [[0|Fuente]] de recursos y contenidos que pueden ser accedidos, transformados o actualizados según necesidades específicas.

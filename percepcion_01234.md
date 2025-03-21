@@ -1,14 +1,19 @@
 ---
+title: Percepción 01234
 campo_predominante: 4
-palabras_clave_vinculadas: ["percepción", "inteligencia", "conciencia", "existencia", "ahora"]
+palabras_clave_vinculadas:
+  - percepción
+  - inteligencia
+  - conciencia
+  - existencia
+  - ahora
 campos_secundarios:
   - campo: 0
     peso: 0.9
-    descripción: "Relaciones entre los elementos contenidos"
-aliases: ["autodescubrimiento"]
-title: Titulo de la Página
-etiquetas:
-  - tag1
+    descripción: Relaciones entre los elementos contenidos
+aliases:
+  - autodescubrimiento
+etiquetas: []
 tipo: campo_fundamental
 relacionado_a_campo: 0
 checkbox: false

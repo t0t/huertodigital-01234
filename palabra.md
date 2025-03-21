@@ -1,16 +1,12 @@
 ---
-title: Titulo de la Página
-etiquetas:
-  - tag1
+title: Palabra
+relacionado_a_campo: 3
+etiquetas: 
 tipo: campo_fundamental
-relacionado_a_campo: 0
-palabras_clave_vinculadas:
-  - origen
+palabras_clave_vinculadas: 
 checkbox: false
 aliases:
-  - alias1
 ---
-
 Unidad lingüística con significado que se compone de uno o más [[fonema]]s y puede representarse gráficamente. Elemento básico de la comunicación verbal.
 
 Características:

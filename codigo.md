@@ -1,15 +1,21 @@
 ---
 campo_predominante: 3
-palabras_clave_vinculadas: ["código", "signos", "comunicación", "correspondencia"]
+palabras_clave_vinculadas:
+  - código
+  - signos
+  - comunicación
+  - correspondencia
 campos_secundarios:
   - campo: 2
     peso: 0.7
-    descripción: "Estructura y organización de elementos significantes"
+    descripción: Estructura y organización de elementos significantes
   - campo: 4
     peso: 0.5
-    descripción: "Concreción como sistema específico de comunicación"
-aliases: ["sistema de signos", "lenguaje estructurado"]
-title: Titulo de la Página
+    descripción: Concreción como sistema específico de comunicación
+aliases:
+  - sistema de signos
+  - lenguaje estructurado
+title: Código
 etiquetas:
   - tag1
 tipo: campo_fundamental

@@ -1,5 +1,5 @@
 ---
-title: Titulo de la Página
+title: Despliegue
 etiquetas:
   - tag1
 tipo: campo_fundamental
@@ -11,6 +11,4 @@ aliases:
   - alias1
 ---
 
-despliegue web (deploy)
-- Quartz
-> la parte de Excalidraw no se exporta
+despliegue web (deploy), se sube a la nube.

@@ -1,7 +1,14 @@
 ---
+title: E-videncia
 campo_predominante: 4
-palabras_clave_vinculadas: ["evidencia", "verificación", "dato", "prueba", "fundamentación", "conocimiento", "obvio"]
-title: Titulo de la Página
+palabras_clave_vinculadas:
+  - evidencia
+  - verificación
+  - dato
+  - prueba
+  - fundamentación
+  - conocimiento
+  - obvio
 etiquetas:
   - tag1
 tipo: campo_fundamental

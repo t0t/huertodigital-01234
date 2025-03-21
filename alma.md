@@ -1,18 +1,25 @@
 ---
-campo_predominante: 1
-palabras_clave_vinculadas: ["identidad", "esencial", "núcleo", "integra"]
+tipo: Alma
+campo_predominante: 2
+palabras_clave_vinculadas:
+  - identidad
+  - esencial
+  - núcleo
+  - integra
 campos_secundarios:
   - campo: 3
     peso: 0.6
-    descripción: "Conexión con lo universal y otras almas"
+    descripción: Conexión con lo universal y otras almas
   - campo: 0
     peso: 0.6
-    descripción: "Esencia potencial previa a individualización"
-aliases: ["espíritu", "ánima", "neshama"]
+    descripción: Esencia potencial previa a individualización
+aliases:
+  - espíritu
+  - ánima
+  - neshama
 title: Titulo de la Página
 etiquetas:
   - tag1
-tipo: campo_fundamental
 relacionado_a_campo: 0
 checkbox: false
 ---

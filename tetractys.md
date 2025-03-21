@@ -1,19 +1,25 @@
 ---
-campo_predominante: 2
-palabras_clave_vinculadas: ["tetractys", "estructura", "patrón", "cuaternario", "número"]
+title: Tetractys
+relacionado_a_campo: 4
+campo_predominante: 3
+palabras_clave_vinculadas:
+  - tetractys
+  - estructura
+  - patrón
+  - cuaternario
+  - número
 campos_secundarios:
   - campo: 0
     peso: 0.7
-    descripción: "Símbolo de potencialidad numérica y totalidad"
+    descripción: Símbolo de potencialidad numérica y totalidad
   - campo: 1
     peso: 0.6
-    descripción: "Representación de la unidad desplegándose"
-aliases: ["tetrada pitagórica", "década"]
-title: Titulo de la Página
-etiquetas:
-  - tag1
+    descripción: Representación de la unidad desplegándose
+aliases:
+  - tetrada pitagórica
+  - década
+etiquetas: 
 tipo: campo_fundamental
-relacionado_a_campo: 0
 checkbox: false
 ---
 # Tetractys

@@ -1,16 +1,15 @@
 ---
-title: Titulo de la Página
+title: Sergio FOrés
 etiquetas:
-  - tag1
-tipo: campo_fundamental
+  - info
+tipo: 
 relacionado_a_campo: 0
-palabras_clave_vinculadas:
-  - origen
+palabras_clave_vinculadas: 
 checkbox: false
 aliases:
-  - alias1
+  - info
+  - profile
 ---
-
 # Sergio Forés
 
 ## ¿Quien soy?
