@@ -1,14 +1,11 @@
 ---
 title: Frecuencia
-etiquetas:
-  - tag1
-tipo: campo_fundamental
 relacionado_a_campo: 0
-palabras_clave_vinculadas:
-  - origen
+etiquetas: 
+tipo: campo_fundamental
+palabras_clave_vinculadas: 
 checkbox: false
-aliases:
-  - alias1
+aliases: []
 ---
 
 Es la [[3|medida]] cuantitativa de cuántas veces ocurre una vibración en un tiempo determinado. 

@@ -17,8 +17,7 @@ campos_secundarios:
 aliases:
   - ocurrencia
   - pensamiento inicial
-etiquetas:
-  - tag1
+etiquetas: []
 tipo: campo_fundamental
 checkbox: false
 ---

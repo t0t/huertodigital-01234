@@ -1,15 +1,16 @@
 ---
 title: Arte
-tipo: campo_fundamental
 campo_predominante: 3
+relacionado_a_campo: 4
+tipo: campo_fundamental
 palabras_clave_vinculadas:
   - ""
-etiquetas:
-  - tag1
-relacionado_a_campo: 0
+etiquetas: 
 checkbox: false
 aliases:
-  - alias1
+  - imun
+  - emuna
+  - umanot
 ---
 
 # Arte

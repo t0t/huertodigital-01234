@@ -1,5 +1,6 @@
 ---
 title: Arjé
+relacionado_a_campo: 0
 campo_predominante: 1
 palabras_clave_vinculadas:
   - arjé
@@ -8,13 +9,10 @@ palabras_clave_vinculadas:
   - principio
   - sustrato
   - ontología
-etiquetas:
-  - tag1
+etiquetas: 
 tipo: campo_fundamental
-relacionado_a_campo: 0
 checkbox: false
 aliases:
-  - alias1
 ---
 Término filosófico griego (ἀρχή) que designa el principio fundamental, origen o elemento primordial del que deriva toda la realidad. Sustrato último que subyace a la multiplicidad de los fenómenos y garantiza su unidad esencial.
 

@@ -1,6 +1,7 @@
 ---
 title: Acción
 campo_predominante: 4
+relacionado_a_campo: 0
 palabras_clave_vinculadas:
   - acción
   - materialización
@@ -17,10 +18,8 @@ aliases:
   - actuación
   - realización
   - ejecución
-etiquetas:
-  - tag1
+etiquetas: 
 tipo: campo_fundamental
-relacionado_a_campo: 0
 checkbox: false
 ---
 [[4|Manifestación]] concreta de energía, [[1|voluntad]] o [[0|potencial]] que produce un [[4|efecto]] o cambio en la realidad. Expresión definitiva donde lo interno se proyecta al exterior, materializando intenciones, pensamientos o capacidades latentes.

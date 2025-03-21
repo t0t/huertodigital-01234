@@ -1,22 +1,27 @@
 ---
+title: Objeto
+relacionado_a_campo: 1
 campo_predominante: 4
-palabras_clave_vinculadas: ["objeto", "entidad", "determinada", "manifestación", "concreta"]
+palabras_clave_vinculadas:
+  - objeto
+  - entidad
+  - determinada
+  - manifestación
+  - concreta
 campos_secundarios:
   - campo: 2
     peso: 0.6
-    descripción: "Diferenciación de cualidades y límites"
+    descripción: Diferenciación de cualidades y límites
   - campo: 3
     peso: 0.6
-    descripción: "Relación con otros objetos y sujeto"
-aliases: ["cosa", "entidad"]
-title: Titulo de la Página
-etiquetas:
-  - tag1
+    descripción: Relación con otros objetos y sujeto
+aliases:
+  - cosa
+  - entidad
+etiquetas: []
 tipo: campo_fundamental
-relacionado_a_campo: 0
 checkbox: false
 ---
-
 [[4|Entidad]] o fenómeno que se presenta a la [[1|conciencia]] como algo distinto de ella misma y susceptible de ser conocido. Polo opuesto y complementario al [[1|sujeto]] en la relación cognoscitiva, caracterizado por su alteridad y externidad.
 
 Características:

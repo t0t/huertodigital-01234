@@ -6,8 +6,7 @@ tipo: campo_fundamental
 palabras_clave_vinculadas:
   - origen
 checkbox: false
-aliases:
-  - alias1
+aliases: []
 ---
 
 Proceso comunicativo que busca hacer comprensible un fenómeno, concepto o situación, estableciendo conexiones causales, lógicas o conceptuales. Acto de desplegar y clarificar lo complejo mediante recursos cognitivos como [[analogía]]s, ejemplos y relaciones sistemáticas.
@@ -28,5 +27,3 @@ El explicar se relaciona con los campos vibracionales:
 - [[4]]: En su concreción como acto comunicativo efectivo
 
 A diferencia de la mera descripción (que enumera características), la explicación revela causas, relaciones y principios subyacentes, representando un nivel superior de comprensión. Constituye un puente fundamental entre la experiencia y el conocimiento, permitiendo que lo abstracto se torne accesible y que lo complejo revele su estructura inteligible.
-
-#comprensión #clarificación #elucidación #interpretación #enseñanza

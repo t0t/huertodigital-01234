@@ -1,9 +1,8 @@
 ---
 title: Dominio
-etiquetas:
-  - tag1
-tipo: campo_fundamental
 relacionado_a_campo: 0
+etiquetas: 
+tipo: campo_fundamental
 palabras_clave_vinculadas:
   - origen
   - campo

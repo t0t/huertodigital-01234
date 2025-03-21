@@ -1,16 +1,12 @@
 ---
-title: Titulo de la Página
-etiquetas:
-  - tag1
-tipo: campo_fundamental
+title: Onda
 relacionado_a_campo: 0
-palabras_clave_vinculadas:
-  - origen
+etiquetas: 
+tipo: campo_fundamental
+palabras_clave_vinculadas: 
 checkbox: false
 aliases:
-  - alias1
 ---
-
 Es cómo una vibración se propaga en el espacio y el tiempo, transmitiendo energía e [[información]] de un punto a otro. Una onda es vibración en movimiento, viajando a través de medios físicos o abstractos.
 
 Manifestación dinámica que combina continuidad espacial con variación [[4|periódica]].

@@ -1,9 +1,9 @@
 ---
 title: Sergio FOrés
+relacionado_a_campo: 
 etiquetas:
   - info
 tipo: 
-relacionado_a_campo: 0
 palabras_clave_vinculadas: 
 checkbox: false
 aliases:

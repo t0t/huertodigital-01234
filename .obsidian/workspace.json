@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "f3fe64844770cc88",
+        "id": "5fb98cdf89de07ff",
         "type": "tabs",
         "children": [
           {
-            "id": "34db616424440d6a",
+            "id": "63071327a01afcd3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cuerpo.md",
+                "file": "1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "cuerpo"
+              "title": "1"
             }
           }
         ]
@@ -173,19 +173,19 @@
     }
   },
   "floating": {
-    "id": "807931db315d93eb",
+    "id": "5401b888731de9ae",
     "type": "floating",
     "children": [
       {
-        "id": "a29edece69e9ba6d",
+        "id": "dab46017c1442dfe",
         "type": "window",
         "children": [
           {
-            "id": "9f075ed983704b51",
+            "id": "4f98afd7d0f29cf7",
             "type": "tabs",
             "children": [
               {
-                "id": "a3623ce1a3d290b1",
+                "id": "612ab2a42ca9b8c9",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
@@ -211,22 +211,14 @@
       }
     ]
   },
-  "active": "a3623ce1a3d290b1",
+  "active": "612ab2a42ca9b8c9",
   "lastOpenFiles": [
     "vida.md",
     "vibracion.md",
     "universo.md",
-    "2.md",
-    "4.md",
-    "1.md",
     "alma.md",
-    "mistica.md",
     "modelo.md",
     "nodo_neurona.md",
-    "objeto.md",
-    "observacion.md",
-    "olam.md",
-    "onda.md",
     "tetragramaton.md",
     "termino.md",
     "tension.md",
@@ -239,6 +231,14 @@
     "sesgo.md",
     "info_sergiofores.md",
     "sentido.md",
+    "resultado.md",
+    "reshimo.md",
+    "repositorio.md",
+    "red_coherente_conocimiento.md",
+    "recurso.md",
+    "README.md",
+    "razon.md",
+    "1.md",
     "docs/lib/search-index.json",
     "docs/lib/metadata.json",
     "docs/lib/styles/snippets.css",

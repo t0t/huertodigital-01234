@@ -1,11 +1,10 @@
 ---
 title: Auto-Cancelación
-etiquetas:
-  - tag1
-tipo: campo_fundamental
 relacionado_a_campo: 2
+etiquetas: 
 palabras_clave_vinculadas:
   - origen
+tipo: campo_fundamental
 checkbox: false
 aliases:
   - Bitul
