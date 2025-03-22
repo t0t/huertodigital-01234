@@ -1,15 +1,13 @@
 ---
 title: Invarianza Estructural
-etiquetas:
-  - tag1
-tipo: campo_fundamental
 relacionado_a_campo: 0
-palabras_clave_vinculadas:
-  - origen
+etiquetas: 
+tipo: campo_fundamental
+palabras_clave_vinculadas: 
 checkbox: false
-aliases:
-  - alias1
+aliases: []
 ---
+![[dimensiona.svg]]
 
 La invarianza estructural es la propiedad de un [[sistema]] para mantener su [[1|identidad]] [[4|función]]al independientemente del contenido que procese. Como un contenedor que preserva su forma mientras alberga diferentes sustancias, la [[estructura]] invariante actúa como una matriz que da forma al significado sin determinarlo completamente. Esta propiedad permite que un mismo patrón estructural opere en múltiples niveles y contextos, manteniendo su coherencia funcional mientras adapta su expresión específica. 
 

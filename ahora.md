@@ -1,6 +1,7 @@
 ---
 title: Ahora
 campo_predominante: 4
+relacionado_a_campo: 0
 palabras_clave_vinculadas:
   - presente
   - instante
@@ -15,10 +16,8 @@ aliases:
   - ahora
   - instante
   - inmediatez
-etiquetas:
-  - tag1
+etiquetas: []
 tipo: campo_fundamental
-relacionado_a_campo: 0
 checkbox: false
 ---
 Presente inmediato que constituye el único punto temporal donde la [[existencia]] se actualiza y la [[conciencia]] opera directamente. Dimensión del tiempo caracterizada por la presencia efectiva y la vivencia directa de la realidad.

@@ -21,6 +21,6 @@ etiquetas:
 tipo: campo_fundamental
 checkbox: false
 ---
-## [[3|Sistema]] Inteligente Vivo (SIV)
+## Sistema Inteligente Vivo (SIV)
 
 La [[inteligencia]] es inherente a la vida. Un [[3|Sistema]] Inteligente Vivo (SIV) discierne, ajusta, interpreta y concluye en tiempo real. No solo acumula datos, sino que organiza [[3|relaciones]] de manera [[3|adaptativa]]. Está presente en lo que creó al humano, en el humano mismo y en aquello que este puede crear.

@@ -1,21 +1,18 @@
 ---
 title: Analogía
 campo_predominante: 3
-palabras_clave_vinculadas:
-  - ""
-etiquetas:
-  - tag1
-tipo: campo_fundamental
 relacionado_a_campo: 0
+palabras_clave_vinculadas: 
+etiquetas: 
+tipo: campo_fundamental
 checkbox: false
 aliases:
-  - alias1
+  - metafora
 ---
-
 Relación de semejanza establecida entre entidades distintas que comparten patrones o estructuras similares. Mecanismo cognitivo que permite comprender lo desconocido a través de correlaciones con lo conocido.
 
 Características:
-- Identifica [[invarianza estructural]] entre dominios diferentes
+- Identifica [[invarianza_estructural]] entre dominios diferentes
 - Facilita la transferencia de [[significado]] entre contextos dispares
 - Actúa como puente entre lo abstracto y lo concreto
 - Permite la visualización de relaciones no evidentes

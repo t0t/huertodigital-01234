@@ -20,13 +20,18 @@ aliases:
   - enlace
   - ligadura
   - nexo relacional
-etiquetas: []
+etiquetas:
+  - conexión
+  - relación 
+  - cohesión
+  - interdependencia
+  - integración
 tipo: campo_fundamental
 checkbox: false
 ---
 # Vínculo
 
-[[3|Conexión]] significativa que establece [[3|relación]] entre entidades, fenómenos o conceptos distintos. [[3|Lazo]] que genera [[3|cohesión]], [[3|interdependencia]] y [[3|continuidad]] entre elementos que mantienen su identidad individual mientras participan de una realidad compartida.
+[[3|Conexión]] significativa que establece [[3|relación]] entre entidades, fenómenos o conceptos distintos. Lazo que genera [[3|cohesión]], [[3|interdependencia]] y [[3|continuidad]] entre elementos que mantienen su identidad individual mientras participan de una realidad compartida.
 
 ## Características esenciales:
 
@@ -56,5 +61,3 @@ checkbox: false
 El [[3|vínculo]] auténtico trasciende la mera proximidad o contacto, implicando [[3|afectación]] mutua y [[3|significado]] compartido. Representa el [[3|principio relacional]] que permite la emergencia de totalidades integradas a partir de componentes diversos.
 
 En el [[3|espacio digital]], los vínculos crean una [[3|red]] multidimensional que refleja la estructura del conocimiento, permitiendo tanto la [[3|navegación]] como el [[3|descubrimiento]] de patrones emergentes que no serían evidentes en un sistema lineal.
-
-#conexión #relación #cohesión #interdependencia #integración

@@ -1,11 +1,9 @@
 ---
-tipo: Alma
+title: Alma
+relacionado_a_campo: 4
 campo_predominante: 2
-palabras_clave_vinculadas:
-  - identidad
-  - esencial
-  - núcleo
-  - integra
+tipo: 
+palabras_clave_vinculadas: 
 campos_secundarios:
   - campo: 3
     peso: 0.6
@@ -14,13 +12,10 @@ campos_secundarios:
     peso: 0.6
     descripción: Esencia potencial previa a individualización
 aliases:
-  - espíritu
   - ánima
   - neshama
-title: Titulo de la Página
-etiquetas:
-  - tag1
-relacionado_a_campo: 0
+  - ruaj
+etiquetas: 
 checkbox: false
 ---
 
