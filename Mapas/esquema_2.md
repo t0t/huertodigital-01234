@@ -45,17 +45,6 @@ pulsión imperiosa por plasmar todo lo que hay en mi cabeza ^HDGaqrWM
 
 Ruido ^128nF4f0
 
-## Element Links
-YSkSZioZ: [[README]]
-
-PfcNPicG: [[1]]
-
-GatTxBgq: [[despliegue]]
-
-1Pqqa9pr: [[tareas_personales]]
-
-HDGaqrWM: [[1]]
-
 %%
 ## Drawing
 ```json
@@ -245,9 +234,9 @@ HDGaqrWM: [[1]]
 		{
 			"id": "EPjYQzBSFxYwB7ha90sKU",
 			"type": "arrow",
-			"x": -1518.758188530494,
+			"x": -1518.7581885304942,
 			"y": -19.00076335289685,
-			"width": 550.884309799293,
+			"width": 550.8843097992935,
 			"height": 2.8430900002673134,
 			"angle": 0,
 			"strokeColor": "#1e1e1e",
@@ -264,11 +253,11 @@ HDGaqrWM: [[1]]
 				"type": 2
 			},
 			"seed": 1863092534,
-			"version": 1486,
-			"versionNonce": 1533720925,
+			"version": 1488,
+			"versionNonce": 1776159426,
 			"isDeleted": false,
 			"boundElements": [],
-			"updated": 1742482146334,
+			"updated": 1742773996704,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -277,7 +266,7 @@ HDGaqrWM: [[1]]
 					0
 				],
 				[
-					550.884309799293,
+					550.8843097992935,
 					2.8430900002673134
 				]
 			],
@@ -403,11 +392,11 @@ HDGaqrWM: [[1]]
 				"type": 2
 			},
 			"seed": 1157909750,
-			"version": 1382,
-			"versionNonce": 1925380733,
+			"version": 1384,
+			"versionNonce": 2069506562,
 			"isDeleted": false,
 			"boundElements": [],
-			"updated": 1742482146335,
+			"updated": 1742773996705,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -536,7 +525,7 @@ HDGaqrWM: [[1]]
 			"id": "0ree7T0rjQh3oK0I5RjJY",
 			"type": "arrow",
 			"x": -1589.2026157530754,
-			"y": -576.2263189359262,
+			"y": -576.2263189359267,
 			"width": 2.6809541364780216,
 			"height": 477.87460373244517,
 			"angle": 0,
@@ -554,11 +543,11 @@ HDGaqrWM: [[1]]
 				"type": 2
 			},
 			"seed": 977119414,
-			"version": 1083,
-			"versionNonce": 1792687933,
+			"version": 1085,
+			"versionNonce": 1295323522,
 			"isDeleted": false,
 			"boundElements": [],
-			"updated": 1742482146335,
+			"updated": 1742773996705,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -683,9 +672,9 @@ HDGaqrWM: [[1]]
 			"id": "ymGStXbaH4L5fnQKBFDY6",
 			"type": "arrow",
 			"x": -1597.1404467821071,
-			"y": 512.2411988924853,
+			"y": 512.2411988924855,
 			"width": 0.6629392578208808,
-			"height": 438.98971321841304,
+			"height": 438.9897132184135,
 			"angle": 0,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#8f8f8f",
@@ -701,11 +690,11 @@ HDGaqrWM: [[1]]
 				"type": 2
 			},
 			"seed": 1644141686,
-			"version": 481,
-			"versionNonce": 289786973,
+			"version": 483,
+			"versionNonce": 1492494530,
 			"isDeleted": false,
 			"boundElements": [],
-			"updated": 1742482146335,
+			"updated": 1742773996705,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -715,7 +704,7 @@ HDGaqrWM: [[1]]
 				],
 				[
 					-0.6629392578208808,
-					-438.98971321841304
+					-438.9897132184135
 				]
 			],
 			"lastCommittedPoint": null,
@@ -737,7 +726,7 @@ HDGaqrWM: [[1]]
 			"id": "qJE8Ktfjp5Ezh5_fT8Ajp",
 			"type": "ellipse",
 			"x": -1833.629913030515,
-			"y": -857.0016871748262,
+			"y": -857.601271009489,
 			"width": 166.5078125,
 			"height": 161.2890625,
 			"angle": 0,
@@ -755,8 +744,8 @@ HDGaqrWM: [[1]]
 				"type": 2
 			},
 			"seed": 1006673334,
-			"version": 1539,
-			"versionNonce": 1897687478,
+			"version": 1540,
+			"versionNonce": 2034381570,
 			"isDeleted": false,
 			"boundElements": [
 				{
@@ -776,7 +765,7 @@ HDGaqrWM: [[1]]
 					"type": "arrow"
 				}
 			],
-			"updated": 1742403300435,
+			"updated": 1742774027768,
 			"link": null,
 			"locked": false
 		},
@@ -784,7 +773,7 @@ HDGaqrWM: [[1]]
 			"id": "Gn06oZPA",
 			"type": "text",
 			"x": -1799.7273954496707,
-			"y": -798.8814508373116,
+			"y": -799.4810346719744,
 			"width": 98.96397399902344,
 			"height": 45,
 			"angle": 0,
@@ -800,11 +789,11 @@ HDGaqrWM: [[1]]
 			"index": "aF",
 			"roundness": null,
 			"seed": 1221555958,
-			"version": 1280,
-			"versionNonce": 209761450,
+			"version": 1281,
+			"versionNonce": 776504002,
 			"isDeleted": false,
 			"boundElements": [],
-			"updated": 1742403300435,
+			"updated": 1742774027768,
 			"link": null,
 			"locked": false,
 			"text": "disipa",
@@ -840,8 +829,8 @@ HDGaqrWM: [[1]]
 				"type": 2
 			},
 			"seed": 552675382,
-			"version": 1272,
-			"versionNonce": 1260998557,
+			"version": 1274,
+			"versionNonce": 1834717506,
 			"isDeleted": false,
 			"boundElements": [
 				{
@@ -849,7 +838,7 @@ HDGaqrWM: [[1]]
 					"id": "ZcFwiUAs"
 				}
 			],
-			"updated": 1742482146335,
+			"updated": 1742773996705,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -939,8 +928,8 @@ HDGaqrWM: [[1]]
 			"index": "aI",
 			"roundness": null,
 			"seed": 1847661238,
-			"version": 894,
-			"versionNonce": 1116337206,
+			"version": 895,
+			"versionNonce": 300282654,
 			"isDeleted": false,
 			"boundElements": [
 				{
@@ -952,8 +941,8 @@ HDGaqrWM: [[1]]
 					"type": "arrow"
 				}
 			],
-			"updated": 1742403300435,
-			"link": "[[pardes]]",
+			"updated": 1742774014533,
+			"link": null,
 			"locked": false,
 			"text": "Un huerto debe\nser compartido",
 			"rawText": "Un [[pardes|huerto]] debe ser compartido",
@@ -988,11 +977,11 @@ HDGaqrWM: [[1]]
 				"type": 2
 			},
 			"seed": 689523702,
-			"version": 1121,
-			"versionNonce": 1675986365,
+			"version": 1122,
+			"versionNonce": 353591938,
 			"isDeleted": false,
 			"boundElements": [],
-			"updated": 1742482146335,
+			"updated": 1742773996704,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -1040,8 +1029,8 @@ HDGaqrWM: [[1]]
 			"index": "aK",
 			"roundness": null,
 			"seed": 1664638262,
-			"version": 1668,
-			"versionNonce": 283770230,
+			"version": 1669,
+			"versionNonce": 2046435678,
 			"isDeleted": false,
 			"boundElements": [
 				{
@@ -1049,8 +1038,8 @@ HDGaqrWM: [[1]]
 					"type": "arrow"
 				}
 			],
-			"updated": 1742403300435,
-			"link": "[[1]]",
+			"updated": 1742774025698,
+			"link": null,
 			"locked": false,
 			"text": "unidad de\nprocesamiento",
 			"rawText": "unidad de procesamiento",
@@ -1085,11 +1074,11 @@ HDGaqrWM: [[1]]
 				"type": 2
 			},
 			"seed": 1105413750,
-			"version": 2087,
-			"versionNonce": 1131798781,
+			"version": 2088,
+			"versionNonce": 451459842,
 			"isDeleted": false,
 			"boundElements": [],
-			"updated": 1742482146334,
+			"updated": 1742773996704,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -1195,8 +1184,8 @@ HDGaqrWM: [[1]]
 			"index": "aN",
 			"roundness": null,
 			"seed": 1330684150,
-			"version": 1445,
-			"versionNonce": 359927722,
+			"version": 1446,
+			"versionNonce": 1361104258,
 			"isDeleted": false,
 			"boundElements": [
 				{
@@ -1212,8 +1201,8 @@ HDGaqrWM: [[1]]
 					"type": "arrow"
 				}
 			],
-			"updated": 1742403300435,
-			"link": "[[despliegue]]",
+			"updated": 1742774016241,
+			"link": null,
 			"locked": false,
 			"text": "despliegue",
 			"rawText": "despliegue",
@@ -1246,8 +1235,8 @@ HDGaqrWM: [[1]]
 			"index": "aO",
 			"roundness": null,
 			"seed": 1371345462,
-			"version": 2705,
-			"versionNonce": 928356342,
+			"version": 2706,
+			"versionNonce": 623910878,
 			"isDeleted": false,
 			"boundElements": [
 				{
@@ -1267,8 +1256,8 @@ HDGaqrWM: [[1]]
 					"type": "arrow"
 				}
 			],
-			"updated": 1742403300435,
-			"link": "[[tareas_personales]]",
+			"updated": 1742774017810,
+			"link": null,
 			"locked": false,
 			"text": "tareas\npersonales",
 			"rawText": "tareas personales",
@@ -1442,11 +1431,11 @@ HDGaqrWM: [[1]]
 				"type": 2
 			},
 			"seed": 566183734,
-			"version": 517,
-			"versionNonce": 1927690429,
+			"version": 518,
+			"versionNonce": 998719618,
 			"isDeleted": false,
 			"boundElements": [],
-			"updated": 1742482146335,
+			"updated": 1742773996705,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -1589,8 +1578,8 @@ HDGaqrWM: [[1]]
 				"type": 2
 			},
 			"seed": 1116195574,
-			"version": 539,
-			"versionNonce": 66540541,
+			"version": 541,
+			"versionNonce": 203168002,
 			"isDeleted": false,
 			"boundElements": [
 				{
@@ -1598,7 +1587,7 @@ HDGaqrWM: [[1]]
 					"id": "cJwNPGu9"
 				}
 			],
-			"updated": 1742482146335,
+			"updated": 1742773996705,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -1671,8 +1660,8 @@ HDGaqrWM: [[1]]
 		{
 			"id": "HDGaqrWM",
 			"type": "text",
-			"x": -2018.2543851407893,
-			"y": -288.5143215136859,
+			"x": -2017.6451305991159,
+			"y": -287.9418011687533,
 			"width": 370.86331842457463,
 			"height": 213.7865110680114,
 			"angle": 0,
@@ -1688,8 +1677,8 @@ HDGaqrWM: [[1]]
 			"index": "aX",
 			"roundness": null,
 			"seed": 1123943798,
-			"version": 1995,
-			"versionNonce": 1659045226,
+			"version": 1998,
+			"versionNonce": 1017519170,
 			"isDeleted": false,
 			"boundElements": [
 				{
@@ -1697,8 +1686,8 @@ HDGaqrWM: [[1]]
 					"type": "arrow"
 				}
 			],
-			"updated": 1742403300435,
-			"link": "[[1]]",
+			"updated": 1742774023420,
+			"link": null,
 			"locked": false,
 			"text": "pulsión imperiosa\npor plasmar todo\nlo que hay en mi\ncabeza",
 			"rawText": "pulsión imperiosa por plasmar todo lo que hay en mi cabeza",
@@ -1733,8 +1722,8 @@ HDGaqrWM: [[1]]
 				"type": 3
 			},
 			"seed": 1440291574,
-			"version": 2820,
-			"versionNonce": 1628095150,
+			"version": 2822,
+			"versionNonce": 1738684354,
 			"isDeleted": false,
 			"boundElements": [
 				{
@@ -1742,8 +1731,8 @@ HDGaqrWM: [[1]]
 					"type": "text"
 				}
 			],
-			"updated": 1742403300435,
-			"link": "[[README]]",
+			"updated": 1742774003574,
+			"link": null,
 			"locked": false
 		},
 		{
@@ -1801,10 +1790,10 @@ HDGaqrWM: [[1]]
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
 		"currentItemArrowType": "round",
-		"scrollX": 3162.265302507235,
-		"scrollY": 965.0679438196474,
+		"scrollX": 2456.868393738513,
+		"scrollY": 1343.5218871871443,
 		"zoom": {
-			"value": 0.289494
+			"value": 0.403926
 		},
 		"currentItemRoundness": "round",
 		"gridSize": 20,

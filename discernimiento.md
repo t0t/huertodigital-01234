@@ -29,5 +29,3 @@ El discernimiento representa la función principal del campo vibracional [[2]], 
 - [[4]]: Se concreta en decisiones y acciones basadas en las distinciones
 
 A diferencia de la mera clasificación, el discernimiento implica una comprensión profunda que penetra en la naturaleza esencial de aquello que se examina, permitiendo distinguir lo auténtico de lo aparente, lo fundamental de lo accesorio, y lo verdadero de lo falso.
-
-#cognición #juicio #discriminación #evaluación #comprensión

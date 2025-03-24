@@ -8,13 +8,6 @@ palabras_clave_vinculadas:
   - significado
   - texto
   - método
-campos_secundarios:
-  - campo: 1
-    peso: 0.7
-    descripción: Acto reflexivo y apertura a nuevas dimensiones de sentido
-  - campo: 3
-    peso: 0.6
-    descripción: Operaciones mentales de comprensión e interpretación
 aliases:
   - arte de la interpretación
   - teoría hermenéutica

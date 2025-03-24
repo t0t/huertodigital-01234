@@ -1,7 +1,6 @@
 ---
 title: Diálogo
-etiquetas:
-  - tag1
+etiquetas: []
 tipo: campo_fundamental
 relacionado_a_campo: 3
 palabras_clave_vinculadas:
@@ -12,7 +11,7 @@ aliases:
   - logos
 ---
 
-Intercambio comunicativo entre dos o más entidades que genera un espacio compartido de [[significado]]. [[4|Proceso]] relacional que permite la exploración conjunta de ideas, la negociación de [[sentido]] y la construcción colaborativa de comprensiones.
+Intercambio comunicativo entre dos o más entidades que genera un espacio compartido de [[significado]]. Proceso relacional que permite la exploración conjunta de ideas, la negociación de sentido y la construcción colaborativa de comprensiones.
 
 Características:
 - Establece un campo intersubjetivo que trasciende las perspectivas individuales

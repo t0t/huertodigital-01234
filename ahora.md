@@ -8,10 +8,6 @@ palabras_clave_vinculadas:
   - inmediatez
   - actualidad
   - presencia
-campos_secundarios:
-  - campo: 0
-    peso: 0.9
-    descripción: Relaciones entre los elementos contenidos
 aliases:
   - ahora
   - instante
@@ -30,4 +26,4 @@ Características:
 - Opera como fundamento de toda experiencia consciente
 - Presenta cualidad de apertura a la manifestación inmediata
 
-A diferencia del concepto abstracto de tiempo, el ahora enfatiza la inmediatez experiencial y la actualidad vivida. Representa el punto donde la [[0|potencialidad]] se convierte en [[acción]], donde las posibilidades se concretan en realidades, y donde la conciencia encuentra su único punto genuino de contacto con lo real.
+A diferencia del concepto abstracto de tiempo, el ahora enfatiza la inmediatez experiencial y la actualidad vivida. Representa el punto donde la potencialidad se convierte en acción, donde las posibilidades se concretan en realidades, y donde la conciencia encuentra su único punto genuino de contacto con lo real.

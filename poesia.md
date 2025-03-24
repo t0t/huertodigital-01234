@@ -1,7 +1,12 @@
 ---
 title: Poesía
 relacionado_a_campo: 3
-etiquetas: 
+etiquetas:
+  - arte 
+  - lenguaje
+  - expresion
+  - símbolo
+  - ritmo
 tipo: campo_fundamental
 palabras_clave_vinculadas: 
 checkbox: false
@@ -27,5 +32,3 @@ La poesía funciona como un puente entre los diferentes campos vibracionales:
 - [[4]]: Materializa experiencias interiores en estructuras lingüísticas concretas
 
 Como manifestación del [[arte]], la poesía representa la capacidad del lenguaje para trascender sus propios límites, revelando dimensiones de la experiencia que permanecen inaccesibles al discurso ordinario.
-
-#arte #lenguaje #expresión #símbolo #ritmo

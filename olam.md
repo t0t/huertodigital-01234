@@ -10,7 +10,6 @@ checkbox: false
 aliases:
   - mundo
 ---
-
 # Olam (עולם)
 
 Término hebreo que significa "mundo" o "universo", pero que en la tradición cabalística se refiere a un nivel específico de la realidad o dimensión de la existencia. Representa una esfera ontológica con sus propias leyes, estructuras y modos de manifestación.
@@ -30,10 +29,8 @@ En la cosmología cabalística, existen cuatro mundos principales, ordenados des
 
 Estos cuatro mundos pueden relacionarse con los campos vibracionales:
 - Atzilut: Conecta con [[0]] y [[1]], como espacio de potencialidad y formación primordial
-- Beriah: Se relaciona con [[1]] y [[2]], donde emergen los principios organizativos
+- Beriah: Se relaciona con 1 y 2, donde emergen los principios organizativos
 - Yetzirah: Corresponde a [[2]] y [[3]], donde las estructuras toman forma relacional
 - Assiyah: Se vincula con [[4]], donde todo se materializa en lo concreto
 
 El concepto de Olam establece que la realidad no es homogénea sino estratificada en niveles de manifestación, cada uno representando un grado diferente de densificación de la luz o energía primordial.
-
-#cabalá #cosmología #dimensión #manifestación #judaísmo

@@ -8,13 +8,6 @@ palabras_clave_vinculadas:
   - inclinación
   - tendencia
   - predisposición
-campos_secundarios:
-  - campo: 3
-    peso: 0.6
-    descripción: Redes de presuposiciones interrelacionadas que afectan la interpretación
-  - campo: 4
-    peso: 0.5
-    descripción: Manifestación concreta como inclinación específica en procesos
 aliases:
   - inclinación cognitiva
   - predisposición
@@ -38,16 +31,14 @@ checkbox: false
 
 ## Tipos fundamentales:
 
-- [[2|Sesgos]] cognitivos (confirmación, anclaje, disponibilidad)
-- [[2|Sesgos]] metodológicos (selección, medición, análisis)
-- [[2|Sesgos]] estadísticos (muestreo, participación, publicación)
-- [[2|Sesgos]] algorítmicos (datos, representación, optimización)
-- [[2|Sesgos]] perceptuales (atención selectiva, ceguera al cambio)
+- Cognitivos (confirmación, anclaje, disponibilidad)
+- Metodológicos (selección, medición, análisis)
+- Estadísticos (muestreo, participación, publicación)
+- Algorítmicos (datos, representación, optimización)
+- Perceptuales (atención selectiva, ceguera al cambio)
 
 A diferencia del simple error (que es puntual y corregible), el [[2|sesgo]] representa una [[2|estructura]] sistemática que [[2|organiza]] la [[3|interpretación]] de manera consistente. 
 
 En el contexto de los sistemas de procesamiento de información, constituye tanto una limitación (cuando genera [[2|distorsiones]] no deseadas) como una necesidad funcional (al permitir la [[2|especialización]] y [[2|priorización]] de información relevante).
 
 El [[2|sesgo]] es inherente a toda [[2|estructura]] de procesamiento de información, y reconocerlo constituye un paso fundamental para desarrollar [[2|métodos]] de corrección o compensación adecuados.
-
-#tendencia #predisposición #filtro #inclinación #preferencia

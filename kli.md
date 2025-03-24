@@ -42,4 +42,10 @@ El Kli funciona como nexo entre la [[0|potencialidad]] pura y la [[2|estructurac
 
 El concepto de Kli ilustra perfectamente la interacción entre los Campos 0 y 2, mostrando cómo la [[0|potencialidad]] infinita requiere [[2|estructuras]] para expresarse de manera ordenada y comprensible.
 
+### Kli (Receptáculo) como Concepto Operativo
+
+- Funciona como **espacio contenedor** que debe vaciarse para ser llenado
+- Opera en la autocancelación como principio metodológico de receptividad
+- Representa la capacidad estructural para recibir potencialidades superiores
+
 #cabalá

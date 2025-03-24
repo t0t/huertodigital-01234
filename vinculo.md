@@ -9,13 +9,6 @@ palabras_clave_vinculadas:
   - lazo
   - nexo
   - enlace
-campos_secundarios:
-  - campo: 1
-    peso: 0.6
-    descripción: Aspecto intencional y unificador de la conexión
-  - campo: 4
-    peso: 0.7
-    descripción: Manifestación concreta y observable de la relación
 aliases:
   - enlace
   - ligadura

@@ -19,13 +19,6 @@ Características:
 - Establece relaciones isomórficas entre la representación y lo representado
 - Permite la simulación mental de procesos y resultados
 - Funciona como mediador entre la teoría y la experiencia
-- Evoluciona a través de ciclos de [[mejora_continua]]
-
-El modelo opera a través de los campos vibracionales:
-- [[0]]: Conecta con el campo de posibilidades no actualizadas
-- [[1]]: Da forma a intuiciones y comprensiones iniciales
-- [[2]]: Discrimina entre elementos relevantes e irrelevantes
-- [[3]]: Establece relaciones sistemáticas entre componentes
-- [[4]]: Se concreta en expresiones y aplicaciones específicas
+- Evoluciona a través de ciclos de mejora_continua
 
 A diferencia del [[mapa]], que representa principalmente relaciones espaciales, el modelo captura relaciones funcionales, causales y sistémicas, sirviendo como herramienta para el [[discernimiento]] y la predicción. Todo modelo implica una [[analogia]] estructural que permite transferir conocimiento desde dominios conocidos hacia dominios menos familiares.

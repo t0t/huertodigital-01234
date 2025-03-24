@@ -26,6 +26,4 @@ La luz se relaciona con los campos vibracionales:
 - [[3]]: A través de su interacción con la materia y otros campos
 - [[4]]: En su manifestación concreta como fenómeno perceptible
 
-Más allá de su naturaleza física, la luz opera como metáfora universal de la comprensión y la revelación, representando el proceso por el cual lo oculto se hace visible y lo desconocido se torna cognoscible. En tradiciones místicas como la [[cabalá]], simboliza la emanación divina (or ein sof) que hace posible la [[creación]] y la comprensión de la realidad.
-
-#radiación #visibilidad #iluminación #revelación #claridad
+Más allá de su naturaleza física, la luz opera como metáfora universal de la comprensión y la revelación, representando el proceso por el cual lo oculto se hace visible y lo desconocido se torna cognoscible. En tradiciones místicas como la cabalá, simboliza la emanación divina (or ein sof) que hace posible la [[creacion]] y la comprensión de la realidad.

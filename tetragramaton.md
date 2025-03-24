@@ -40,3 +40,9 @@ checkbox: false
 En la tradición cabalística, cada letra del Tetragramatón corresponde a un aspecto de la realidad: Yod (fuego/masculino), He (agua/femenino), Vav (aire/mediador) y He final (tierra/receptora), constituyendo así un mapa completo del [[0|cosmos]] y sus [[2|procesos]].
 
 El Tetragramatón no es solo un [[1|nombre]], sino una [[1|clave]] ontológica que revela la [[1|estructura]] del [[0|universo]] a través de su despliegue desde la [[1|unidad]] primordial hacia la multiplicidad manifestada, similar a la [[3|relación]] entre los campos vibracionales.
+
+### Tetragramatón como Estructura Cosmológica
+
+- Cada letra corresponde a un aspecto de la realidad en la tradición cabalística
+- Constituye un mapa completo del cosmos y sus procesos
+- Revela la estructura del universo a través de su despliegue desde la unidad primordial

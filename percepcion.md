@@ -7,13 +7,6 @@ palabras_clave_vinculadas:
   - interpretación
   - significativa
   - representación
-campos_secundarios:
-  - campo: 4
-    peso: 0.7
-    descripción: Proceso activo de captación sensorial
-  - campo: 2
-    peso: 0.5
-    descripción: Organización y discriminación de estímulos
 aliases:
   - captación
   - aprehensión
@@ -31,5 +24,3 @@ Características:
 - Puede generar [[1|idea]]s a partir de la [[2|información]] captada
 - Varía según factores culturales, individuales y [[3|contextuales]]
 - Es la base de la [[2|cognición]] y el [[3|conocimiento]]
-
-#cognición #mente #sensorial

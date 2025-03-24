@@ -24,6 +24,4 @@ Características:
 - Evoluciona mediante variación y selección natural
 - Establece límites permeables entre lo interior y lo exterior
 
-Más allá de su dimensión biológica, la vida representa un principio cosmológico que manifiesta la tendencia del [[universo]] hacia la complejidad creciente y la emergencia de orden a partir del caos. Conecta con conceptos como [[conciencia]] y [[evolución]], representando el punto donde la materia adquiere capacidades de autoreferencia, propósito y subjetividad en diversos grados.
-
-#autoorganización #evolución #adaptación #complejidad #emergencia
+Más allá de su dimensión biológica, la vida representa un principio cosmológico que manifiesta la tendencia del [[universo]] hacia la complejidad creciente y la emergencia de orden a partir del caos. Conecta con conceptos como [[conciencia]] y evolucion, representando el punto donde la materia adquiere capacidades de autoreferencia, propósito y subjetividad en diversos grados.

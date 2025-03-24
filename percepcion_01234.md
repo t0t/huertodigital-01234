@@ -7,10 +7,6 @@ palabras_clave_vinculadas:
   - conciencia
   - existencia
   - ahora
-campos_secundarios:
-  - campo: 0
-    peso: 0.9
-    descripción: Relaciones entre los elementos contenidos
 aliases:
   - autodescubrimiento
 etiquetas: []
@@ -29,5 +25,3 @@ Red de relaciones donde cada elemento resuena con los demás en un tejido contin
 
 Más que un método o una herramienta, es la observación de un patrón que se reconoce en múltiples niveles: en la mente, en la percepción, en la Creación misma. 
 No impone una interpretación, sino que orquesta las conexiones entre lo que ya está presente, permitiendo que su estructura se perciba en cada manifestación.
-
-[[0]] [[1]] [[2]] [[3]] [[4]]

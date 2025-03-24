@@ -7,7 +7,6 @@ palabras_clave_vinculadas:
 checkbox: false
 aliases:
 ---
-
 Aspecto parcial pero significativo de una entidad, concepto o fenómeno complejo. Perspectiva o dimensión específica que revela una cualidad particular mientras forma parte de una totalidad integrada.
 
 Características:
