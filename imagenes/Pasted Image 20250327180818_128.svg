@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600">
+  <g transform="translate(400, 300)">
+    <rect x="-80" y="-30" width="160" height="60" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="0" y="5" text-anchor="middle">01234 - Meta Mapa Mental</text>
+  </g>
+  
+  <g transform="translate(100, 450)">
+    <rect x="-80" y="-80" width="160" height="160" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="0" y="-65" text-anchor="middle">0 - Abre una cuenta</text>
+    <text x="0" y="-45" text-anchor="middle">Ten todo disponible...</text>
+    <text x="0" y="-25" text-anchor="middle">Desea</text>
+    <text x="0" y="-5" text-anchor="middle">Pregúntate</text>
+    <text x="0" y="15" text-anchor="middle">Coherentiza</text>
+    <text x="0" y="35" text-anchor="middle">Libera tu mente...</text>
+    <text x="0" y="55" text-anchor="middle">Encuentra relaciones</text>
+  </g>
+  
+    <g transform="translate(650, 450)">
+      <rect x="-60" y="-50" width="120" height="100" style="fill:white;stroke:black;stroke-width:1"/>
+      <text x="0" y="-35" text-anchor="middle">4 - Publica</text>
+      <text x="0" y="-15" text-anchor="middle">Funciona</text>
+      <text x="0" y="5" text-anchor="middle">Deja que ocurra</text>
+    </g>
+
+    <g transform="translate(200, 150)">
+      <rect x="-60" y="-80" width="120" height="160" style="fill:white;stroke:black;stroke-width:1"/>
+      <text x="0" y="-65" text-anchor="middle">2 - Implica</text>
+      <text x="0" y="-45" text-anchor="middle">Captura</text>
+      <text x="0" y="-25" text-anchor="middle">Registra</text>
+      <text x="0" y="-5" text-anchor="middle">Recuerda</text>
+      <text x="0" y="15" text-anchor="middle">Vuelca</text>
+      <text x="0" y="35" text-anchor="middle">Agrupa y...</text>
+      <text x="0" y="55" text-anchor="middle">Re-cuenta</text>
+    </g>
+
+    <g transform="translate(100, 300)">
+      <rect x="-80" y="-50" width="160" height="100" style="fill:white;stroke:black;stroke-width:1"/>
+      <text x="0" y="-35" text-anchor="middle">3 - Cuenta</text>
+      <text x="0" y="-15" text-anchor="middle">Estas aquí para...</text>
+      <text x="0" y="5" text-anchor="middle">Encuentra relaciones</text>
+      <text x="0" y="25" text-anchor="middle">Libera tu mente...</text>
+    </g>
+
+    <g transform="translate(600, 150)">
+      <rect x="-80" y="-100" width="160" height="200" style="fill:white;stroke:black;stroke-width:1"/>
+      <text x="0" y="-85" text-anchor="middle">1 - Importa</text>
+      <text x="0" y="-65" text-anchor="middle">Simplifica</text>
+      <text x="0" y="-45" text-anchor="middle">Descubre</text>
+      <text x="0" y="-25" text-anchor="middle">Posiciona</text>
+      <text x="0" y="-5" text-anchor="middle">Discierne</text>
+      <text x="0" y="15" text-anchor="middle">Define</text>
+      <text x="0" y="35" text-anchor="middle">Organizate</text>
+      <text x="0" y="55" text-anchor="middle">Ordena</text>
+      <text x="0" y="75" text-anchor="middle">Re-cuenta</text>
+      <text x="0" y="95" text-anchor="middle">Agrupa y...</text>
+      <text x="0" y="115" text-anchor="middle">Vuelca</text>
+      <text x="0" y="135" text-anchor="middle">Recuerda</text>
+      <text x="0" y="155" text-anchor="middle">Registra</text>
+      <text x="0" y="175" text-anchor="middle">Captura</text>
+      <text x="0" y="195" text-anchor="middle">Aplicate el cuento</text>
+      <text x="0" y="215" text-anchor="middle">Lo que cuenta...</text>
+    </g>
+
+  <line x1="400" y1="300" x2="100" y2="450" style="stroke:gray;stroke-width:1"/>
+  <line x1="400" y1="300" x2="650" y2="450" style="stroke:gray;stroke-width:1"/>
+  <line x1="400" y1="300" x2="200" y2="150" style="stroke:gray;stroke-width:1"/>
+  <line x1="400" y1="300" x2="100" y2="300" style="stroke:gray;stroke-width:1"/>
+  <line x1="400" y1="300" x2="600" y2="150" style="stroke:gray;stroke-width:1"/>
+
+</svg>

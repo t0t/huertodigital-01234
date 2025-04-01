@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "57e37b8071208f41",
+        "id": "232b31f362da85f8",
         "type": "tabs",
         "children": [
           {
-            "id": "c9a6e3eeaefed283",
+            "id": "608520242aa70f8b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "que_es_01234.md",
+                "file": "guia-reglas-generales.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "que_es_01234"
+              "title": "guia-reglas-generales"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "qué hace 01234",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 203.5
+    "width": 275.5
   },
   "right": {
     "id": "5ffd270654971ef4",
@@ -94,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas/darse cuenta.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de darse cuenta"
+              "title": "Enlaces entrantes"
             }
           },
           {
@@ -113,12 +112,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bienvenido.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes de Bienvenido"
+              "title": "Enlaces salientes"
             }
           },
           {
@@ -142,25 +140,109 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vinculo.md",
+                "file": "guia-reglas-generales.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema de vinculo"
+              "title": "Esquema de guia-reglas-generales"
+            }
+          },
+          {
+            "id": "83e9a1a981d4c886",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "custom-frames-gemini-ia",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-message-circle-more",
+              "title": "Gemini IA"
+            }
+          },
+          {
+            "id": "b15de50155ac0b5c",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "custom-frames-gastos",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-circle-dollar-sign",
+              "title": "GASTOS"
+            }
+          },
+          {
+            "id": "ff7b500614abd3e2",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "custom-frames-docs",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-book-text",
+              "title": "Docs"
+            }
+          },
+          {
+            "id": "82e9b4b0caa2e12c",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "custom-frames-calendario-/-tareas",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-calendar",
+              "title": "Calendario / Tareas"
+            }
+          },
+          {
+            "id": "7c9b8879ce19fe37",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "custom-frames-notebook-lm",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-notebook-pen",
+              "title": "NoteBook LM"
+            }
+          },
+          {
+            "id": "6dadb3f00342db58",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "custom-frames-correo",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-mail",
+              "title": "Correo"
+            }
+          },
+          {
+            "id": "4a24cc45666ce67c",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "smart-chatgpt-view",
+              "state": {},
+              "pinned": true,
+              "icon": "bot",
+              "title": "Smart ChatGPT"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 10
       }
     ],
     "direction": "horizontal",
-    "width": 347.5,
-    "collapsed": true
+    "width": 397.5
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-custom-frames:Open Calendario / Tareas": false,
       "switcher:Abrir selector rápido": false,
       "daily-notes:Abrir la nota de hoy": false,
       "graph:Abrir vista gráfica": false,
@@ -168,102 +250,64 @@
       "templates:Insertar plantilla": false,
       "command-palette:Abrir paleta de comandos": false,
       "slides-extended:Show slide preview": false,
-      "publish:Publicar cambios": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "webpage-html-export:Export Vault to HTML": false
+      "webpage-html-export:Export Vault to HTML": false,
+      "smart-connections:Open: View Smart Connections": false,
+      "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "floating": {
-    "id": "3f1950c8cee44d68",
-    "type": "floating",
-    "children": [
-      {
-        "id": "a8f78f590c0af8ba",
-        "type": "window",
-        "children": [
-          {
-            "id": "1a39be6481c67d32",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "205983b65e9c7925",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "vinculo.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "vinculo"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 298,
-        "y": 442,
-        "width": 900,
-        "height": 500,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "205983b65e9c7925",
+  "active": "608520242aa70f8b",
   "lastOpenFiles": [
-    "vida.md",
-    "vibracion.md",
-    "universo.md",
-    "darse_cuenta.md",
-    "tetragramaton.md",
-    "termino.md",
-    "tension.md",
-    "01234.md",
-    "sistema.md",
-    "sintesis.md",
-    "sinergia.md",
-    "sinapsis.md",
-    "simbolo.md",
-    "significado.md",
-    "sesgo.md",
-    "info_sergiofores.md",
-    "sentido.md",
-    "resultado.md",
-    "reshimo.md",
-    "repositorio.md",
-    "red_coherente_conocimiento.md",
-    "recurso.md",
-    "README.md",
-    "razon.md",
-    "1.md",
-    "propiedad.md",
-    "documentos_combinados.pdf",
-    "venv/lib/python3.13/site-packages/weasyprint-65.0.dist-info/REQUESTED",
-    "venv/lib/python3.13/site-packages/weasyprint-65.0.dist-info/INSTALLER",
-    "venv/bin/weasyprint",
-    "venv/lib/python3.13/site-packages/weasyprint/__pycache__/urls.cpython-313.pyc",
-    "venv/lib/python3.13/site-packages/weasyprint/text/__pycache__/line_break.cpython-313.pyc",
-    "venv/lib/python3.13/site-packages/weasyprint/text/__pycache__/fonts.cpython-313.pyc",
-    "venv/lib/python3.13/site-packages/weasyprint/text/__pycache__/ffi.cpython-313.pyc",
-    "venv/lib/python3.13/site-packages/weasyprint/text/__pycache__/constants.cpython-313.pyc",
-    "venv/lib/python3.13/site-packages/weasyprint/text/__pycache__",
-    "assets/grafico-metamodelo-5.png",
-    "assets/grafico-metamodelo-5.svg",
-    "assets/grafico-metamodelo-4.png",
-    "assets/grafico-metamodelo-3.png",
-    "assets/grafico-metamodelo-3.svg",
-    "assets/grafico-metamodelo-2.svg",
-    "assets/grafico-metamodelo-1.svg",
-    "assets/grafico-01234.svg",
-    "assets/dimensiona.svg",
-    "assets/Captura de pantalla 2025-03-21 a las 9.22.59.png",
-    "Mapas/Huerto Digital - 01234.canvas",
-    "Mapas/mapa-1.canvas",
+    "4/huertodigital_IA_uso.md",
+    "guia-reglas-generales.md",
+    "4/Generación de audios.md",
+    "index.md",
+    "4/huertodigital_IA_uso",
+    "4",
+    "1/01234_glosario.md",
+    "diagramas/grafico_2025-03-20 19.14.05.md",
+    "diagramas/grafico_2025-03-20 11.02.28.md",
+    "diagramas/estructura_vault.md",
+    "diagramas/esquema_huerto_digital_base.md",
+    "diagramas/esquema_global.md",
+    "diagramas/esquema_2.md",
+    "diagramas/documento-prueba.excalidraw",
+    "diagramas/01234_huerto.md",
+    "1/01234_sintesis.md",
+    "0/accion.md",
+    "0/0.md",
+    "1/01234_aplicaciones.md",
+    "1/01234_frases_relevantes.md",
+    "1/01234_huerto_digital.md",
+    "1/01234_que_es.md",
+    "textos/convenciones_personales.md",
+    "textos/01234_palabras_por_campo.md",
+    "0/sistemas_gestion_conocimiento_personal.md",
+    "textos/sistemas_gestion_conocimiento_personal.md",
+    "textos/01234_grafico_analisis.md",
+    "0/codigo_fuente.md",
+    "0/gradiente.md",
+    "restaurar_archivos.py",
+    "ejecutar_renombrado.py",
+    "renombrar_archivos.py",
+    "diagramas/Huerto Digital - 01234.canvas",
+    "diagramas/Mapa de Contenidos.canvas",
+    "diagramas/mapa-1.canvas",
+    "diagramas",
+    "1",
+    "imagenes/Captura de pantalla 2025-03-26 a las 0.20.03.png",
+    "imagenes/Captura de pantalla 2025-03-25 a las 23.15.12.png",
+    "imagenes/grafico-metamodelo-5.png",
+    "imagenes/grafico-metamodelo-5.svg",
+    "imagenes/grafico-pardes.svg",
+    "imagenes/grafico-tetragramaton.svg",
+    "imagenes/logo.svg",
+    "imagenes/mapa-1.png",
+    "imagenes/Pasted Image 20250327180818_128.svg",
+    "imagenes/pregunta-responde.svg",
+    "+📥 inbox",
+    "0",
     "Sin título 1.canvas",
-    "Sin título.canvas",
     "Mapas/Web Sergio Forés.canvas"
   ]
 }

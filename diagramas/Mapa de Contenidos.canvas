@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"cf236a728f8300e9","type":"file","file":"archivo/index.md","x":-240,"y":-240,"width":540,"height":520},
+		{"id":"2c7c939b5d16bd4f","type":"file","file":"archivo/01234_evocaciones_poeticas.md","x":520,"y":-460,"width":520,"height":520}
+	],
+	"edges":[
+		{"id":"eeb0aa987e702c41","fromNode":"cf236a728f8300e9","fromSide":"right","toNode":"2c7c939b5d16bd4f","toSide":"left"}
+	]
+}

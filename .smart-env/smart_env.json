@@ -1,0 +1,47 @@
+{
+  "smart_blocks": {
+    "embed_model": {
+      "model_key": "TaylorAI/bge-micro-v2"
+    },
+    "embed_blocks": true,
+    "min_chars": 200
+  },
+  "smart_sources": {
+    "embed_model": {
+      "model_key": "TaylorAI/bge-micro-v2",
+      "adapter": "transformers",
+      "transformers": {
+        "legacy_transformers": false,
+        "model_key": "TaylorAI/bge-micro-v2"
+      },
+      "TaylorAI/bge-micro-v2": {},
+      "openai": {
+        "model_key": "text-embedding-3-small",
+        "api_key": ""
+      }
+    },
+    "single_file_data_path": ".smart-env/smart_sources.json",
+    "min_chars": 200,
+    "smart_change": {
+      "active": true
+    }
+  },
+  "file_exclusions": "Untitled",
+  "folder_exclusions": "smart-chats",
+  "is_obsidian_vault": true,
+  "smart_view_filter": {
+    "render_markdown": true,
+    "show_full_path": false,
+    "results_limit": "20"
+  },
+  "smart_notices": {
+    "muted": {
+      "done_import": true
+    }
+  },
+  "excluded_headings": "",
+  "expanded_view": true,
+  "smart_actions": {},
+  "sc_app_input_tokens": 21772,
+  "sc_app_output_tokens": 61349
+}

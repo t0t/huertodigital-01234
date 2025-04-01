@@ -1,5 +1,9 @@
 [
   "slides-extended",
   "obsidian-excalidraw-plugin",
-  "webpage-html-export"
+  "webpage-html-export",
+  "better-export-pdf",
+  "obsidian-markmind",
+  "obsidian-custom-frames",
+  "smart-connections"
 ]

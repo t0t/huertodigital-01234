@@ -4,5 +4,11 @@
   "newFileFolderPath": "",
   "attachmentFolderPath": "assets",
   "alwaysUpdateLinks": true,
-  "userIgnoreFilters": null
+  "userIgnoreFilters": null,
+  "pdfExportSettings": {
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 93
+  }
 }
