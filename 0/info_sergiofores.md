@@ -12,7 +12,7 @@ aliases:
 
 Soy un ser espiritual teniendo experiencias de humanos.
 
-Adopto diferentes facetas en función del contexto; diseñador, desarrollador, artista plástico, padre, etc. Autodidacta, transversal y poliédrico.
+Adopto diferentes facetas en función del contexto; diseñador, AI Prototipador, artista plástico, padre, etc. Autodidacta, transversal y poliédrico.
 ## Me gusta tenerlo todo disponible en un mismo lugar
 
 Me gusta gestionar mi propio conocimiento y aprendizajes basandome en mi propia percepción holística de la realidad.

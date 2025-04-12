@@ -17,8 +17,8 @@ mcp_context:  # Campo principal para el contexto MCP
 
 Windsurf +  Obsidian + 01234
 
-
 ## Así codifico en Lenguaje Natural mi pensamiento con IA y hablo con mis datos
 
 
-- [ ] Estudiar configuración y nueva funcionalidad Windsurf para dar MUCHO contexto a Windsurf
+- [x] Estudiar configuración y nueva funcionalidad Windsurf para dar MUCHO contexto a Windsurf
+- [ ] 

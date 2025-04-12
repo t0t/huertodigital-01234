@@ -5,6 +5,8 @@ tipo: recopilación
 ---
 # Frases esenciales del sistema 01234
 
+- H I A T O (me gusta el nombre)
+
 > 01234 es el código fuente del sentido
 
 > Cada nodo es lo que su 1 es…
